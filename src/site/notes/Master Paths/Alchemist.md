@@ -8,23 +8,11 @@ Many study Alchemy, learning the secrets of substances to create potent concocti
 **Characteristics** Health +2, Power +1
 **Languages and Professions** You can speak another language or add a profession.
 **Magic** You discover Alchemy or learn one Alchemy spell.
-**Homunculus** You fashion a homunculus, a tiny humanoid figure made from clay and a drop of your blood. Yougive it, the semblance of life by breathing into its mouth.
+**Homunculus** You fashion a [[Bestiary/Homunculus\|Homunculus]], a tiny humanoid figure made from clay and a drop of your blood. Yougive it, the semblance of life by breathing into its mouth.
 The homunculus is your loyal servant and companion.
 It has all your professions and knows all the languages you know. The homunculus obeys your commands and is under your control. If you become incapacitated, the homunculus remains under your control and you decidewhat it does on each of its turns.
 The homunculus dies when it becomes incapacitated.
 You can create a replacement by working with an alchemist’s kit for 8 hours and expending rare ingredients worth 1 gc. You can have only one homunculus at a time.
-## HOMUNCULUS
-*Size 1/4 construct*
-**Perception** 12 (+2)
-**Defense** 18; **Health** your healing rate
-**Strength** 6 (–4), **Agility** 14 (+4), **Intellect** 12 (+2), **Will** 10 (+0)
-**Speed** 8
-**Immune** damage from disease or poison; gaining Insanity; asleep, charmed, diseased, fatigued, frightened, poisoned
-**Enhance Senses** While the homunculus is within short range of you, you make Perception challenge rolls with 1 boon.
-**Share Spell Effects** When you are affected by a spell, you can also affect the homunculus, provided it is within medium range of you.
-**Deliver Spells** When you cast a spell, you can cast it from the homunculus, provided it is within medium range of you.
-### ATTACK OPTIONS
-**Teeth** (melee) +4 (1)
 # Level 10
 **Characteristics** Health +2
 **Magic** You learn one Alchemy spell.

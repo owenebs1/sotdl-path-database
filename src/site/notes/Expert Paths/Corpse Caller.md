@@ -16,12 +16,12 @@ The corpse callers’ methods originate in the Kingdom of Skulls, where the Dark
 **Characteristics** Health +2, Power +1
 **Languages and Professions** You speak, read, and write the Dark Speech if you don’t already and add embalmer to your list of professions.
 **Magic** You discover the Necromancy tradition or you learn one Necromancy spell.
-**Undead Thrall** You create a compelled [[animated corpse\|animated corpse]] that remains until it’s destroyed. If this animated corpse is destroyed, you can create another one when you next complete a rest. The animated corpse does not count  against your limit on compelled undead.
+**Undead Thrall** You create a compelled [[Bestiary/Animated corpse\|animated corpse]] that remains until it’s destroyed. If this animated corpse is destroyed, you can create another one when you next complete a rest. The animated corpse does not count  against your limit on compelled undead.
 # Level 6
 **Characteristics** Health +2
 **Magic** You learn one Necromancy spell.
 **Studied in Necromancy** Increase the number of compelled undead you can have at a time by 1.
-**Awakened Corpse** You replace your animated corpse with a [[grave thrall monster\|grave thrall monster]].
+**Awakened Corpse** You replace your animated corpse with a [[Bestiary/Grave Thrall\|Grave Thrall]].
 **Undead Guardian** While you are within short range of at least one undead you have created either by talent or spell, the undead impose 1 bane on attack rolls made against you and grant you 1 boon on challenge rolls made to resist attacks.
 # Level 9
 **Characteristics** Health +2, Power +1

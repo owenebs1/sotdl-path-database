@@ -26,4 +26,4 @@ On a success, the target takes a 3d6 penalty to its Health that lasts until you 
 **Magic** You learn one spell.
 **Detonate the Dead** You can use an action to target one undead you have compelled that is within medium range.
 Make an Intellect or Will attack roll against the target’s Strength. On a success, the target takes damage equal to its Health and explodes from a point in its space out into a 3-yard radius. Each creature in the area must make an Agility challenge roll, taking 2d6 damage on a failure, or half the damage on a success.
-**Spontaneous Animation** Whenever a Size 1/2 or 1 creature within short range of you becomes incapacitated, roll a d6. On a 6, the creature dies and 1 round later becomes a compelled [[animated corpse\|animated corpse]].
+**Spontaneous Animation** Whenever a Size 1/2 or 1 creature within short range of you becomes incapacitated, roll a d6. On a 6, the creature dies and 1 round later becomes a compelled [[Bestiary/Animated corpse\|animated corpse]].

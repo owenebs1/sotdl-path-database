@@ -41,15 +41,15 @@ You either learn one spell, gain the level 4 benefit from your ancestry, or gain
 | 6   | You have no idea how or why you became cursed. One day, when the moon rose full, you changed.           |
 # Animal Form
 
-| d6    | Form                                                                                  |
-| ----- | ------------------------------------------------------------------------------------- |
-| 3     | Leopard (as [[Bestiary/Animal, Medium\|Bestiary/Animal, Medium]] with Speed 12)                                              |
-| 4–5   | Snake (as [[Bestiary/Animal, Medium\|Bestiary/Animal, Medium]] with poisonous trait)                                         |
-| 6–8   | Rat of unusual size (as [[Bestiary/Animal, Small\|Bestiary/Animal, Small]] with climber, pack fighting, and swimmer traits) |
-| 9–12  | Wolf (as [[Bestiary/Animal, Medium\|Bestiary/Animal, Medium]] with darksight and pack fighting trait)                        |
-| 13–15 | Boar (as [[Bestiary/Animal, Medium\|Bestiary/Animal, Medium]] with ferocious trait)                                          |
-| 16–17 | Raven (as [[Bestiary/Animal, Small\|Bestiary/Animal, Small]] with flier trait)                                              |
-| 18    | Black bear (as [[Bestiary/Animal, Medium\|Bestiary/Animal, Medium]] with the brutal trait)                                   |
+| d6    | Form                                                                                                     |
+| ----- | -------------------------------------------------------------------------------------------------------- |
+| 3     | Leopard (as [[Bestiary/Animal, Medium\|medium animal]] with Speed 12)                                             |
+| 4–5   | Snake (as [[Bestiary/Animal, Medium\|medium animal]] with poisonous trait)                                        |
+| 6–8   | Rat of unusual size (as [[Bestiary/Animal, Small\|small animal]] with climber, pack fighting, and swimmer traits) |
+| 9–12  | Wolf (as [[Bestiary/Animal, Medium\|medium animal]] with darksight and pack fighting trait)                       |
+| 13–15 | Boar (as [[Bestiary/Animal, Medium\|medium animal]] with ferocious trait)                                         |
+| 16–17 | Raven (as [[Bestiary/Animal, Small\|small animal]] with flier trait)                                              |
+| 18    | Black bear (as [[Bestiary/Animal, Medium\|medium animal]] with the brutal trait)                                  |
 ## New Traits
 - Brutal When you attack with a natural weapon, such as your fist, claws, teeth, and the total of your attack roll is 20 or higher, the attack deals 1d6 extra damage.
 - Ferocious When the ferocious creature would become incapacitated, roll a d6. On a roll of 5 or 6, the creature instead heals 10 damage.

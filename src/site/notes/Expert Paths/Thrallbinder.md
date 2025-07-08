@@ -21,45 +21,16 @@ Regardless of their forms, thralls have the same basic characteristics as given 
 **Characteristics** Power +1
 **Languages and Professions** You can speak another language or add a profession to your list of professions.
 **Magic** You discover the Conjuration tradition or you learn one Conjuration spell.
-**Conjured Thrall** You can use an action to conjure a thrall.
+**Conjured Thrall** You can use an action to conjure a [[Bestiary/Conjured Thrall\|thrall]].
 Choose a cube of space originating from a point within short range, and the thrall appears in that space. The thrall counts as a creature you have created by a Conjuration spell you have cast. It remains until you complete a rest or until the thrall is destroyed, at which point it disappears.
 The thrall is friendly to you and members of your group.
 It takes one turn per round, acting when you do, and performs as you direct it (not an action) provided it remains within medium range. You can use this talent a number of times equal to your Power, but you cannot have more than one thrall at a time. You regain expended uses of this talent when you complete a rest.
 **Directed Strike** When a thrall you have created using a talent gained from this path would attack, you can use a triggered action and expend the casting of a Conjuration spell to grant 1 or more boons on the attack roll. The number of boons granted equals the rank of the spell whose casting you expended (minimum 1 boon).
 **Infusion of Magic** If a thrall you have created using a talent gained from this path is within short range of you, you can use an action and expend the casting of a rank 1 or higher Conjuration spell to heal the thrall. The thrall heals 1d6 damage per rank of the spell whose casting you expended.
-## CONJURED THRALL
-**Size** 1/2 construct
-**Perception** 6 (–4); darksight
-**Defense** 11; **Health** 14; **Insanity** —; **Corruption** —
-**Strength** 12 (+2), **Agility** 9 (–1), **Intellect** 6 (–4), **Will** 12 (+2)
-**Speed** 8
-**Immune** damage from disease or poison; asleep, charmed, diseased, fatigued, frightened, poisoned
-### ATTACK OPTIONS
-**Appendage** (melee) +2 (1d6)
 # Level 6
 **Magic** You learn one spell.
-**Improved Conjured Thrall** When you use your Conjured Thrall talent, you can create an improved conjured thrall instead of a conjured thrall. Whenever you use Infusion of Magic to heal this thrall, you instead heal damage equal to 2d6 per rank of the spell whose casting you expended.
-## IMPROVED CONJURED THRALL
-**Size** 1 construct
-**Perception** 6 (–4); darksight
-**Defense** 11; **Health** 42; **Insanity** —; **Corruption** —
-**Strength** 13 (+3), **Agility** 9 (–1), **Intellect** 7 (–3), **Will** 13 (+3)
-**Speed** 10
-**Immune** damage from disease or poison; asleep, charmed, diseased, fatigued, frightened, poisoned
-### ATTACK OPTIONS
-**Appendage** (melee) +3 plus 1 boon (2d6)
+**Improved Conjured Thrall** When you use your Conjured Thrall talent, you can create an [[Bestiary/Improved Conjured Thrall\|Improved Conjured Thrall]] instead of a conjured thrall. Whenever you use Infusion of Magic to heal this thrall, you instead heal damage equal to 2d6 per rank of the spell whose casting you expended.
 # Level 9
 **Characteristics** Power +1
 **Magic** You learn one spell.
-**Greater Conjured Thrall** When you use your Conjured Thrall talent, you can create a greater conjured thrall instead of a conjured thrall. Whenever you use Infusion of Magic to heal this thrall, you instead heal damage equal to 3d6 per rank of the spell whose casting you expended.
-## GREATER CONJURED THRALL
-**Size** 2 construct
-**Perception** 6 (–4); darksight
-**Defense** 11; **Health** 84; **Insanity** —; **Corruption** —
-**Strength** 15 (+5), **Agility** 9 (–1), **Intellect** 8 (–2), **Will** 14 (+4)
-**Speed** 10; flier
-**Immune** damage from disease or poison; asleep, charmed, diseased, fatigued, frightened, poisoned
-### ATTACK OPTIONS
-**Appendage** (melee) +5 plus 1 boon (3d6)
-### SPECIAL ACTIONS
-**Double Attack** The thrall makes two appendage attacks.
+**Greater Conjured Thrall** When you use your Conjured Thrall talent, you can create a [[Bestiary/Greater Conjured Thrall\|Greater Conjured Thrall]] instead of a conjured thrall. Whenever you use Infusion of Magic to heal this thrall, you instead heal damage equal to 3d6 per rank of the spell whose casting you expended.

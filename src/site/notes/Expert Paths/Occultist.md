@@ -21,7 +21,7 @@ Maniacally enthusiastic, these damned creatures delight in continuing their vile
 **Languages and Professions** You can speak another language or gain a new area of scholarship.
 **Magic** You either discover a new dark magic tradition or learn one spell from a dark magic tradition you have already discovered.
 **Lost Soul** You no longer gain Corruption for discovering dark magic traditions or learning spells from those traditions.
-**Bound Lemure** You bargained with the devils in Hell and bound a damned soul called a lemure to your service. It appears as a naked elderly man or woman, whose body is covered in weeping sores and filth.
+**[[Bestiary/Bound Lemure\|Bound Lemure]]** You bargained with the devils in Hell and bound a damned soul called a lemure to your service. It appears as a naked elderly man or woman, whose body is covered in weeping sores and filth.
 The lemure can speak any languages you know, but it speaks only in whispers, incessantly mumbling vile and terrible things about those around you, and sometimes even you.
 The lemure takes a turn on each of your turns and you decide what it does. If the lemure moves beyond medium range from you it disappears, instantly returning to Hell. The lemure also returns to Hell if either of you become incapacitated.
 You can attempt to recall the lemure from Hell by concentrating for 1 hour, during which time you beseech the devils for the return of their foul gift. At the end of this time, make an Intellect challenge roll. On a success, you gain 1 Corruption and the lemure returns to an open space within short range. On a failure, the lemure does not reappear and you can’t attempt to recall it again until after you complete a rest.
@@ -35,16 +35,3 @@ Gain 1 Corruption.
 **Magic** You either discover a new dark magic tradition or learn one spell from a dark magic tradition you have already discovered.
 **Dark Magic Mastery** When you cast an attack spell from a dark magic tradition, you make the attack roll with 1 boon and the target makes the challenge roll to resist your spell with 1 bane.
 **Greater Thrall** Your lemure gains a +2 bonus to Defense, a +10 bonus to its Health, and its claws and teeth deal 1d6 extra damage.
-- - -
-# Bound Lemure
-*Size 1 frightening spirit*
-**Perception** 6 (–4); darksight
-**Defense** 13; **Health** half your Health
-**Strength** 12 (+2), **Agility** 9 (-1), **Intellect** 6 (-4), **Will** 9 (-1)
-**Speed** 4
-**Immune** damage from cold, disease, fire, and poison; gaining Insanity; asleep, diseased, fatigued, immobilized, poisoned, slowed
-**Eternal** When a lemure becomes incapacitated, it collapses into a slick of stinking slime. It re-forms in Hell 24 hours later with no damage.
-## ATTACK OPTIONS
-**Claws and Teeth** (melee) +2 with 1 boon (1d6 + 1)
-## SPECIAL ACTIONS
-**Regeneration** If not incapacitated, the lemure heals 1d6 + 2 damage.
