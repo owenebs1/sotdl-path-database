@@ -8,8 +8,10 @@ The Great Mother, that monstrous god, chose you to be her exalted servant. Her d
 **Characteristics** Health +4, Power +1
 **Languages and Professions** You speak one additional language of your choice.
 **Magic** You discover the Earth, Metal, or Shadow tradition, or you learn one spell from one of these traditions.
-**Monstrous Presence** You have the frightening trait. See Shadow of the Demon Lord, page 214, for details.
+**Monstrous Presence** You have the frightening trait.
 Members of your group are immune to this trait.
+>**Frightening:** A creature that does not have the frightening or horrifying trait must make a Will challenge roll when it first sees one or more creatures with this trait. It makes the roll with 1 bane if it can see four or more frightening creatures at once.
+
 **Wailing of the Crushed Whelps** You can use an action to call forth the spirits of molekin slain in their infancy.
 Target one cube of space, up to 5 yards on a side, originating from a point within medium range. Ghostly, squirming forms appear on all surfaces in that space and remain for 1 minute, covering the ground in difficult terrain and ectoplasmic vapors partially obscure the area. In addition, when you use this talent, the spirits give voice to their suffering. Each creature in that space makes a Will challenge roll with 1 bane. On a failure, the creature takes 3d6 damage and becomes frightened for 1 minute. Once you use this talent, you lose access to it for 1 minute.
 # Level 10

@@ -15,8 +15,15 @@
 Your nature friend has **one** of the following traits, attack options, or special attacks.
 **Superior Movement** The nature friend gains the climber, flier, or swimmer trait.
 **Tracker** The nature friend gains a +4 bonus to Perception and can pinpoint the location of each creature within short range. Such creatures cannot become hidden from it.
-**Poisonous** The nature friend gains the poisonous trait (Shadow, page 263)
-**Infectious** The nature friend gains the infectious trait (Shadow, page 263).
-**Pack Fighting** The nature friend gains the pack fighting trait (Shadow, page 263).
+**Poisonous** The nature friend gains the poisonous trait.
+>**Poison** The target must make a Strength challenge roll.
+>On a failure, it takes 1d6 damage and becomes poisoned for 1 minute. If the target is already poisoned, it instead takes 1d6 extra damage.
+
+**Infectious** The nature friend gains the infectious trait.
+>**Disease** The target must get a success on a Strength challenge roll or become diseased. Each time a diseased creature completes a rest, it must make a Strength challenge roll. On a failure, it takes a -1d6 penalty to Health. If this penalty reduces its Health to 0, the creature dies. After three successes, the creature removes the diseased affliction. The next time it completes a rest, the reduction to Health ends.
+
+**Pack Fighting** The nature friend gains the pack fighting trait.
+>**Pack Fighting** When the Pack Fighting creature attacks a target within the reach of another creature with this trait and that is friendly to the Pack Fighting creature, it makes the attack roll with 1 boon. Otherwise, the creature makes the attack roll with 1 bane.
+
 **Swift** The nature friend gains a +4 bonus to Speed and its movement does not trigger free attacks.
 **Double Attack** The nature friend can use an action to attack twice with its natural weapons.

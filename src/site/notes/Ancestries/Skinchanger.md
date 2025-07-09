@@ -23,11 +23,15 @@ Upon returning to your normal form, you must make a Will challenge roll with 1 b
 **Characteristics:** Perception +1, Insanity +1d3, Corruption +1
 You either learn one spell, gain the level 4 benefit from your ancestry, or gain the Change Form talent.
 **Change Form:** You can use an action, or a triggered action on your turn, to adopt your normal form, your animal form, or a hybrid of your animal and humanoid forms. You remain in the new form until you use Change Form again or you become incapacitated, which causes you to return to your normal form immediately. The animal form must be the same as the form you adopt when under the effects of your Skinchanger Curse. If you adopt an animal form, use the animal’s statistics in place of your own, except you retain this talent and your Intellect and Will scores. If you adopt a hybrid form, you make the following adjustments to your statistics.
-- You gain the frightening (see Shadow, page 214) and shadowsight traits if you don’t have them already.
+- You gain the frightening and shadowsight traits if you don’t have them already.
+>**Frightening** A creature that does not have the frightening or horrifying trait must make a Will challenge roll when it first sees one or more creatures with this trait. It makes the roll with 1 bane if it can see four or more frightening creatures at once.
+>**Shadowsight** The creature can see in areas obscured by shadows as if those areas were lit.
+
 - You gain a +2 bonus to Perception, a +2 bonus to Defense, +10 bonus to Health, and a +2 bonus to Speed.
 - You make Strength and Agility attack rolls and challenge rolls with 1 boon.
 - You gain Regeneration, allowing you to heal 1d6 damage at the end of each round if not incapacitated.
-- You have natural weapons as appropriate to your animal form—teeth, claws, horns—that function as basic weapons with the fi nesse property and deal 1d6 damage.
+- You have natural weapons as appropriate to your animal form—teeth, claws, horns—that function as basic weapons with the finesse property and deal 1d6 damage.
+
 - - -
 # Curse Origins
 

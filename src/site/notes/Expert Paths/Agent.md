@@ -22,7 +22,7 @@ Secular organizations, such as the Vault and the Tower Arcane, employ agents to 
 **Sneaky** You make challenge rolls to hide and sneak with 1 boon.
 # Level 6
 **Characteristics** Perception +1, Health +3
-**Size Up** You can use an action to size up one creature you can see within short range. Make a Perception attack roll against the target’s Intellect. On a success, for 1 minut you impose 1 bane on the target’s attack rolls against you, and you make challenge rolls to resist the target’s attacks with 1 boon.
+**Size Up** You can use an action to size up one creature you can see within short range. Make a Perception attack roll against the target’s Intellect. On a success, for 1 minute you impose 1 bane on the target’s attack rolls against you, and you make challenge rolls to resist the target’s attacks with 1 boon.
 **Contacts** You have three contacts. Work with your GM to determine the identities of these contacts and the kinds of information they can provide to you. You can leave one or more of them undefined so you can develop new contacts when you visit an urban environment. You gain an additional contact when your group level reaches 8 and another at level 10.
 When you interact with a contact, you can choose to use up the contact instead of just gaining information. When you use up a contact, you can gain material aid (up to 1d6 gc worth) or have the contact perform a task for you, though the task cannot be anything that would imperil the contact’s life, loved ones, or property. The contact does what you request to the best of his or her ability. Once you use up a contact, that contact cannot be replaced until your group level increases, at which time you can add contacts to replace any you used up.
 # Level 9

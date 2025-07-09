@@ -36,4 +36,4 @@ Most farseers come from the ranks of those seekers of forbidden knowledge—indi
 # Level 9
 **Characteristics** Health +2, Power +1
 **Magic** You learn one spell.
-**Frayed Ends of Sanity** For the purpose of determining the maximum amount of Insanity you can gain before going mad, add your Power score to your Will score. In addition, whenever you would go mad, you can roll a d20 on the Madness table (Shadow, page 35) one additional time and use whichever result you choose.
+**Frayed Ends of Sanity** For the purpose of determining the maximum amount of Insanity you can gain before going mad, add your Power score to your Will score. In addition, whenever you would go mad, you can roll a d20 on the Madness table one additional time and use whichever result you choose.

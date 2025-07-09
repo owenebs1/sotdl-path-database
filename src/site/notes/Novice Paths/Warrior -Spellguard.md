@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/novice-paths/warrior-spellguard/"}
+{"dg-publish":true,"permalink":"/novice-paths/warrior-spellguard/","tags":["Magic"]}
 ---
 
 Realizing your aptitude with magic, you followed an unconventional path in which you learned both to fight and to cast spells. This demanding effort required you to divide your time between your studies and the rigorous drilling to impress on you the maneuvers and techniques you needed to survive on the battlefield. You likely had two instructors, one to coax forth your magical capabilities and another to hammer you into shape. When you completed your training, you had built the foundation of your style, and now you see the path forward to grow your power and capabilities.

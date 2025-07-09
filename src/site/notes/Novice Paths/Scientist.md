@@ -201,7 +201,9 @@ As an action, you can administer the serum to one friendly animal within reach. 
 **Regenerating:** At the end of each round, the target heals 1d6 damage.
 **Speed:** The target gains a +4 bonus to Speed and makes Agility attack rolls and challenge rolls with 1 boon. In addition, the target imposes 1 bane on attack
 rolls made against its Defense and Agility.
-**Toxic:** The target’s natural weapon becomes poisonous (Shadow, page 263).
+**Toxic:** The target’s natural weapon becomes poisonous.
+>**Poison** The target must make a Strength challenge roll.
+>On a failure, it takes 1d6 damage and becomes poisoned for 1 minute. If the target is already poisoned, it instead takes 1d6 extra damage.
 ### Animal Handling
 You know ways to handle and control animals. Ordinary animals never attack you unless you attack them first. In addition, you gain a [[Bestiary/Animal, Small#^0d9fbe\|small animal]] companion or a [[Bestiary/Animal, Tiny#^99e53a\|tiny animal]] companion with the flier trait. This animal is under your control, takes its turn when you do, and does a you command it, within the normal limits for its ability and intelligence.
 At level 5, you can release this companion to gain a [[Bestiary/Animal, Medium#^2cf96e\|medium animal]] companion or a [[Bestiary/Animal, Small#^0d9fbe\|small animal]] companion with the flier trait.

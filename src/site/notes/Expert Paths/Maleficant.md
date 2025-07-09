@@ -24,7 +24,7 @@ Although generally considered a benevolent and good religion, witchcraft has a d
 # Level 6
 **Characteristics** Health +4
 **Magic** You learn one spell.
-**Horrid Poppet** If you carry a control doll (see Shadow, page 123) of a target creature, you can use your Spite talent against that creature regardless of its distance from you. In addition, the benefits of using a control doll apply to spells of any tradition you cast against the target. Finally, when you cast a Curse attack spell against a target from which you have made a control doll, you increase the number of boons granted and banes imposed by 1.
+**Horrid Poppet** If you carry a [control doll](https://sotdl-spell-database.vercel.app/spell-lists/curse-spells/) of a target creature, you can use your Spite talent against that creature regardless of its distance from you. In addition, the benefits of using a control doll apply to spells of any tradition you cast against the target. Finally, when you cast a Curse attack spell against a target from which you have made a control doll, you increase the number of boons granted and banes imposed by 1.
 # Level 9
 **Characteristics** Health +4, Power +1
 **Magic** You learn one spell.

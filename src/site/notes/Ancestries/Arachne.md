@@ -25,7 +25,7 @@
 - - - 
 ## Talents
 **Shadowsight:** You can see into areas obscured by shadows as if those areas were lit.
-**Spider Form:** You can use an action, or a triggered action on your turn, to assume the form of a large spider and you can remain in that form until you use an action, or a triggered action on your turn, to return to your humanoid form. See the “Assuming Different Forms” sidebar in Shadow, page 147.
+**Spider Form:** You can use an action, or a triggered action on your turn, to assume the form of a large spider and you can remain in that form until you use an action, or a triggered action on your turn, to return to your humanoid form. See “[Assuming Different Forms](https://sotdl-spell-database.vercel.app/spell-lists/transformation-spells/)”.
 - - - 
 ## Level 4 Benefits
 **Characteristics:** Health +4

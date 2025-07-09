@@ -19,7 +19,7 @@ A mysterious order of monastic philosophers claimed one of the rocky islands not
 **Languages and Professions** You can speak another language or add a profession to your list of professions.
 **Magic** You discover the Soul or Telekinesis tradition or learn one Soul or Telekinesis spell.
 **Ascendant Defense** When you’re not wearing armor, your Defense equals 2 + your Will score.
-**Unwavering Resolve** When your mind is focused from your use of the Focus Mind talent (see page 114), you make challenge rolls to resist gaining Insanity with 2 boons
+**Unwavering Resolve** When your mind is focused from your use of the [Focus Mind](https://sotdl-spell-database.vercel.app/spell-lists/telekinesis-spells/) talent, you make challenge rolls to resist gaining Insanity with 2 boons
 # Level 6
 **Characteristics** Health +4
 **Magic** You learn one spell.

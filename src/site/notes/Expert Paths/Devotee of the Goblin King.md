@@ -11,7 +11,7 @@ It is possible, though unlikely, for members of other ancestries to pledge servi
 **Characteristics** Perception +1, Health +3, Power +1
 **Languages and Professions** Add devotee to your list of professions. If you have this profession already, add a random criminal profession.
 **Magic** You discover the Enchantment, Fey, or Illusion tradition, or learn one spell from one of these traditions.
-**Eyes and Ears of the Goblin King** You can use an action, or a triggered action on your turn, to assume the form of a small animal or tiny animal. If you assume the form of a tiny animal, you can also gain the climber, flier, or swimmer trait. You can remain in this form for a number of hours equal to your Power, though you can use a triggered action on your turn to freely switch between forms. (See “Assuming Different Forms” in Shadow, page 147, for more information.) Once you use this talent, you cannot use it again until you complete a rest.
+**Eyes and Ears of the Goblin King** You can use an action, or a triggered action on your turn, to assume the form of a small animal or tiny animal. If you assume the form of a tiny animal, you can also gain the climber, flier, or swimmer trait. You can remain in this form for a number of hours equal to your Power, though you can use a triggered action on your turn to freely switch between forms. (See “[Assuming Different Forms](https://sotdl-spell-database.vercel.app/spell-lists/transformation-spells/)”) Once you use this talent, you cannot use it again until you complete a rest.
 # Level 6
 **Characteristics** Health +3
 **Magic** You learn one spell.

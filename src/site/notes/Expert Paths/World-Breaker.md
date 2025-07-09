@@ -23,7 +23,7 @@ Most people who become world-breakers show signs of mental deficiency, usually a
 **Characteristics** Health +3
 **Magic** You learn one spell.
 **Great Chaos** When your Chaotic Destruction talent is triggered, the area it affects expands into an area with a radius of 1d6 + 1 yards centered on a point in your space.
-In addition, in the round in which it takes effect, each creature in the area is subject to the effect of wild magic (Shadow, page 121) as if you had cast that spell. Finally, the extra damage that Chaotic Destruction applies to Destruction spells you cast increases to 2d6.
+In addition, in the round in which it takes effect, each creature in the area is subject to the effect of [wild magic](https://sotdl-spell-database.vercel.app/spells/chaos/wild-magic/) as if you had cast that spell. Finally, the extra damage that Chaotic Destruction applies to Destruction spells you cast increases to 2d6.
 # Level 9
 **Characteristics** Health +3, Power +1
 **Magic** You learn one spell.

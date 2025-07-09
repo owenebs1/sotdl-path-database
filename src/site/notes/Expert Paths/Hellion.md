@@ -9,7 +9,7 @@ The mortal agents of Hell, having been seduced and corrupted by devils, work in 
 **Languages and Professions** You speak another language or add a criminal profession to your list of professions.
 **Magic** You discover a tradition or you learn one spell from a tradition you have already discovered.
 **Corrupting Whispers** If you spend 1 minute talking to a target creature that can understand you, you can force the target to make a Will challenge roll with a number of banes equal to your Power score. On a failure, the creature becomes compelled for 1 minute. If you force it to commit a wicked act, the creature gains Corruption as if it had willingly committed the act. A creature cannot gain more than 1 Corruption in this way. On a success, the creature becomes immune to your Corrupting Whispers.
-**Hidden Enemy** You lose any marks of darkness (Shadow, page 36) you have acquired so far, and you are never at risk of gaining a mark of darkness.
+**Hidden Enemy** You lose any marks of darkness you have acquired so far, and you are never at risk of gaining a mark of darkness.
 **Silver-Tongued Devil** You make attack rolls in social situations with 1 boon.
 # Level 6
 **Characteristics** Health +2; gain 1 Corruption

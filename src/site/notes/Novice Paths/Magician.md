@@ -79,6 +79,7 @@ The alternative talents are details below:
 - You hide or gain a distinctive cosmetic feature. Examples include scars, tattoos, moles, freckles, and the like.
 - You remove some or all of your body hair or gain body hair.
 - You change your gender.
+
 **Altered Physiology (Spell Recovery or Improved Spell Recovery)** You can use an action to heal damage equal to your healing rate and then remove one affliction from yourself. Once you use this talent, you must complete a rest before you can use it again.
 **Reactive Resistance (Counterspell)** When you would take damage from a source other than a weapon, you can use a triggered action to make a Will challenge roll. On a success, you take half the damage. If the total of your roll is 0 or less, you cannot use this talent again until you complete a rest.
 **Improved Altered Physiology (Spell Recovery or Improved Spell Recovery)** When you use Altered Physiology, you heal damage equal to twice your healing rate.
@@ -154,7 +155,7 @@ The object remains for 1 minute or until you drop it, after which it disappears.
 **Demon Sense (Sense Magic)** You are always aware of the presence of demons and dark magic spells cast within medium range of you. Demons within this range cannot be hidden from you.
 **Demonic Recovery (Spell Recovery or Improved Spell Recovery)** You can use an action to heal damage equal to twice your healing rate and regain an expended casting for one Demonology spell you have learned. Roll a d6. On a 6, you gain 1d3 Insanity.
 Once you use this talent, you must complete a rest before you can use it again.
-**Demonic Partnership (Counterspell)** You are possessed by a demon if you’re not already possessed (Shadow, page 227). In addition, whenever you go mad (Shadow, page 35) you do not become  compelled by the demon. Instead, shadows spill from your body to partially obscure your space, you gain darksight if you don’t already have it, and you gain a 3d6 bonus to Health. At the end of each round, roll a d6.
+**Demonic Partnership (Counterspell)** You are possessed by a demon if you’re not already possessed. In addition, whenever you go mad you do not become compelled by the demon. Instead, shadows spill from your body to partially obscure your space, you gain darksight if you don’t already have it, and you gain a 3d6 bonus to Health. At the end of each round, roll a d6.
 On a 6, you lose these benefits and you reduce your Insanity total by 1d6 + your Will modifier (minimum 1).
 **Improved Demonic Recovery (Spell Recovery or Improved Spell Recovery)** You can use Demonic Recovery one additional time between rests.
 ## Destruction Talents
@@ -286,7 +287,9 @@ You can use this talent a number of times equal to 1 + your Power score, regaini
 ## Primal Talents
 **Primal Focus (Cantrip)** You learn one rank 0 Primal spell and gain the Leaps and Bounds talent.
 **Leaps and Bounds** You can use an action, or a triggered action on your turn, and expend a casting of a rank 0 Primal spell. For 1 round, you have a +2 bonus to Speed and you ignore difficult terrain when you move.
-**Night Vision (Sense Magic)** You can use an action to gain the shadowsight trait for 1 hour. If you already have shadowsight (Shadow, page 215), you also make Perception rolls with 1 boon until the effect ends. You can use this talent a number of times equal to 1 + your Power score, regaining expended uses when you complete a rest.
+**Night Vision (Sense Magic)** You can use an action to gain the shadowsight trait for 1 hour. If you already have shadowsight, you also make Perception rolls with 1 boon until the effect ends. You can use this talent a number of times equal to 1 + your Power score, regaining expended uses when you complete a rest.
+>**Shadowsight** The creature can see in areas obscured by shadows as if those areas were lit.
+
 **Primal Recovery (Spell Recovery or Improved Spell Recovery)** You can use an action to heal damage equal to your healing rate. For 1 round, you make attack rolls with 1 boon. Once you use this talent, you must complete a rest before you can use it again.
 **Overcome Affliction (Counterspell)** If you have an affliction at the end of any round, you can remove it. You can use this talent a number of times equal to half your Power score (minimum 1), regaining expended uses when you complete a rest.
 **Improved Primal Recovery (Spell Recovery or Improved Spell Recovery)** You can use Primal Recovery one additional time between rests.

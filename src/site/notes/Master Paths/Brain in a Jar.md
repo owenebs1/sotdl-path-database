@@ -9,7 +9,8 @@ You have long held that the body, the puppet of meat and bone and fluids, serves
 **Magic** You discover a tradition or learn one spell.
 **Disembodied Brain** You shed your original body and now exist as a disembodied brain floating in a stew of nutrients held in a glass and steel container. Your new existence strips away many of your attributes and characteristics, but frees you to harness your mental energies more freely. Make the following changes to your statistics and also gain the listed benefits and drawbacks.
 - Increase your Perception by 2.
-- You gain the sightless trait (Shadow, page 215).
+- You gain the sightless trait.
+	**Sightless** The creature relies on senses other than sight to perceive its surroundings and can pinpoint the location of each creature and object within long range of it. Creatures within the area cannot hide from the creature, and it ignores banes imposed by obscurement on rolls to perceive things. A sightless creature is never subject to the blinded affliction.
 - Your Defense now equals your Intellect score + 2.
 	You cannot wear armor.
 - You lose your Strength and Agility scores. For attack rolls and challenge rolls and anything that would target your Strength or Agility, you use Will in place of Strength and Intellect in place of Agility.

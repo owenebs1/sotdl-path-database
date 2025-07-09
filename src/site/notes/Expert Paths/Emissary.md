@@ -14,7 +14,7 @@ The various faiths found across Rûl deploy a wide range of servants to advance 
 **Attributes** Increase two by 1
 **Characteristics** Health +2, Power +1
 **Languages and Professions** You either speak another language or add one religious profession to your list of professions.
-**Magic** You discover one tradition associated with your religion (see Religious Tradition, Shadow page 56, or check out Uncertain Faith). Or, learn one spell from a tradition you have already discovered.
+**Magic** You discover one tradition associated with your religion or learn one spell from a tradition you have already discovered.
 **Orison** On your turn, you can use a triggered action to expend the casting of a spell you have learned. For a number of rounds equal to the spell’s rank (minimum 1 round), you make attack rolls and challenge rolls with 1 boon. While under the effects of this talent, you have a +2 bonus to Speed.
 # Level 6
 **Characteristics** Health +2

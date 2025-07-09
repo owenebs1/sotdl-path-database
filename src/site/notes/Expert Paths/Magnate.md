@@ -21,7 +21,7 @@ Any character might become a magnate, but it takes cunning to keep a business af
 **Characteristics** Health +2
 **Languages and Professions** You speak two additional languages and add a profession to your list of professions.
 **Bodyguards** You have in your employ 2 [[Bestiary/Mercenary\|mercenaries]] who are utterly loyal to you and obey your spoken commands. The mercenaries take their turns when you direct them. If you cannot give the mercenaries orders, they instead protect you on their turns. If your mercenaries die, you can replace one or both before the next adventure begins.
-As your group level increases, so do your mercenaries improve. Each time your group level increases, increase your mercenaries’ Health by 1. When you reach level 7, the mercenaries each gain the Combat Expertise talent from the warrior path. When you reach level 10, the mercenaries gain the Combat Mastery talent from the warrior path. Find both talents described in Shadow, page 58.
+As your group level increases, so do your mercenaries improve. Each time your group level increases, increase your mercenaries’ Health by 1. When you reach level 7, the mercenaries each gain the Combat Expertise talent from the [[Novice Paths/Warrior\|warrior]] path. When you reach level 10, the mercenaries gain the Combat Mastery talent from the [[Novice Paths/Warrior\|warrior]] path.
 **Business** You run a business of some kind. Whenever you start a new adventure, roll a d20 and add to it your Intellect modifier. Find the total on the following table.
 ## Magnate Business Table
 

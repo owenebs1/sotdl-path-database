@@ -16,7 +16,7 @@ Able to reach into the minds of others, nightmares call forth their victims’ d
 **Characteristics** Health +3, Power +1
 **Languages and Professions** You can speak, read, and write Dark Speech or add a profession to your list of professions.
 **Magic** You discover the Forbidden or Telepathy tradition or you learn one Forbidden or Telepathy spell.
-**Psychic Corruption** The Forbidden tradition counts as a psychic tradition for you. When your mind is focused from your use of the Focus Mind talent (see Occult Philosophy page 114), other creatures with Corruption scores lower than yours cannot detect your marks of darkness or ascertain your Corruption total by any means.
+**Psychic Corruption** The Forbidden tradition counts as a psychic tradition for you. When your mind is focused from your use of the [Focus Mind](https://sotdl-spell-database.vercel.app/spell-lists/telepathy-spells/) talent, other creatures with Corruption scores lower than yours cannot detect your marks of darkness or ascertain your Corruption total by any means.
 **Vile Whispers** You can use an action to attack the mind of one creature you can see within short range, filling its thoughts with horrifying visions. Make an Intellect attack roll against the target’s Will. On a success, the target becomes frightened for 1 minute or until it takes damage from a source other than your Vile Whispers. At the end of each round, the target must get a success on a Will challenge roll or take damage equal to 1d6 + your Corruption score. Once you use Vile Whispers, you must wait 1 minute before you can use it again. You can use this talent a number of times equal to 1 + your Power score.
 You regain expended uses when you complete a rest.
 # Level 6

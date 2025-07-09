@@ -3,42 +3,42 @@
 ---
 
 
-| File                                                                         | PathLevel | Tags                     |
-| ---------------------------------------------------------------------------- | --------- | ------------------------ |
-| [[Novice Paths/Adept\|Adept]]                                             | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Magician\|Magician]]                                       | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest\|Priest]]                                           | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - Father Death\|Priest - Father Death]]             | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - Honored Dead\|Priest - Honored Dead]]             | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - Maiden in the Moon\|Priest - Maiden in the Moon]] | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - Old Man Winter\|Priest - Old Man Winter]]         | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - Queen of Summer\|Priest - Queen of Summer]]       | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - Revel\|Priest - Revel]]                           | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The Cog God\|Priest - The Cog God]]               | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The Dark Gods\|Priest - The Dark Gods]]           | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The Dark Lady\|Priest - The Dark Lady]]           | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The Demon Lord\|Priest - The Demon Lord]]         | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The Devil\|Priest - The Devil]]                   | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The Horned King\|Priest - The Horned King]]       | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The New God\|Priest - The New God]]               | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The Old Faith\|Priest - The Old Faith]]           | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The Radiant One\|Priest - The Radiant One]]       | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The Seer\|Priest - The Seer]]                     | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The Spider Queen\|Priest - The Spider Queen]]     | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - The World Mother\|Priest - The World Mother]]     | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Priest - Witchcraft\|Priest - Witchcraft]]                 | Novice    | <ul><li>#Magic</li></ul> |
-| [[Novice Paths/Rogue\|Rogue]]                                             | Novice    | <ul></ul>                |
-| [[Novice Paths/Scientist\|Scientist]]                                     | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior\|Warrior]]                                         | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior - Armiger\|Warrior - Armiger]]                     | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior - Barbarian\|Warrior - Barbarian]]                 | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior - Brawler\|Warrior - Brawler]]                     | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior - Enforcer\|Warrior - Enforcer]]                   | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior - Gallant\|Warrior - Gallant]]                     | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior - Hunter\|Warrior - Hunter]]                       | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior - Monk\|Warrior - Monk]]                           | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior - Soldier\|Warrior - Soldier]]                     | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior - Veteran\|Warrior - Veteran]]                     | Novice    | <ul></ul>                |
-| [[Novice Paths/Warrior -Spellguard\|Warrior -Spellguard]]                 | Novice    | <ul></ul>                |
+| File                                                                         | Description                                                                                                                 | Tags                                       |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [[Novice Paths/Adept\|Adept]]                                             | Innate magic instead of studied. 10 path options.                                                                           | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Magician\|Magician]]                                       | Learns the most spells. Able to swap out talents based of traditions discovered.                                            | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest\|Priest]]                                           | Basic priest. Magic/combat/buffs, gains spells specific to religion. Core book class.                                       | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - Father Death\|Priest - Father Death]]             | Death, Protection, Shadow traditions. Death Knell, shared prayer, no corruption for death spells.                           | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - Honored Dead\|Priest - Honored Dead]]             | Battle, Life, Rune traditions. Dwarf religion. Dwarf boons.                                                                 | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - Maiden in the Moon\|Priest - Maiden in the Moon]] | Arcana, Celestial, Time traditions. Studied in Magic. Additional magic boons.                                               | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - Old Man Winter\|Priest - Old Man Winter]]         | Battle, Storm, Water traditions. Damage aura on recover, boon to cold.                                                      | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - Queen of Summer\|Priest - Queen of Summer]]       | Enchantment, Fey, Fire traditions. Charming. Impair others on recover.                                                      | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - Revel\|Priest - Revel]]                           | Enchantment, Fey, Illusion traditions. No frightened on insanity, instead gain boons.                                       | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The Cog God\|Priest - The Cog God]]               | Divination, Necromancy, Technomancy traditions. Heal + Attack with one action. Revive clockworks.                           | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The Dark Gods\|Priest - The Dark Gods]]           | Battle, Destruction, Rune traditions. Jotun gods. Intimidating. Recovery grants attack boons to allies.                     | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The Dark Lady\|Priest - The Dark Lady]]           | Death, Necromancy, Shadow traditions. Draining Recovery. Unaffected by undead.                                              | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The Demon Lord\|Priest - The Demon Lord]]         | Traditions based on Cult. Mad Recovery, Mad Devotion, probably a madman.                                                    | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The Devil\|Priest - The Devil]]                   | Enchantment, Fire, Shadow traditions. Grants corruption and bigger bonuses for corrupted creatures.                         | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The Horned King\|Priest - The Horned King]]       | Primal, Spiritualism, Transformation traditions. Savage Recovery and animal/berserker vibes.                                | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The New God\|Priest - The New God]]               | Celestial, Life, Theurgy traditions.  Normal priest talents.                                                                | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The Old Faith\|Priest - The Old Faith]]           | Life, Nature, Primal traditions. Blessings of Nature, protective prayer, regain triggered actions.                          | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The Radiant One\|Priest - The Radiant One]]       | Celestial, Fire, Theurgy traditions. Blind enemies with god and anime.                                                      | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The Seer\|Priest - The Seer]]                     | Curse, Divination, Telepathy traditions. No corruption for curse, detect lies, prayer protects.                             | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The Spider Queen\|Priest - The Spider Queen]]     | Death, Demonology, Primal traditions. Worship a demon queen. Turn into a large spider.                                      | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - The World Mother\|Priest - The World Mother]]     | Earth, Life, Nature traditions. Natural Healer. Social boons, prayer protects.                                              | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Priest - Witchcraft\|Priest - Witchcraft]]                 | Choose three traditions from a list. Recovery affects two others instead of you.                                            | <ul><li>#Magic</li></ul>                   |
+| [[Novice Paths/Rogue\|Rogue]]                                             | Most flexible novice path, can choose magic, extra damage, buffs, debuffs. Gets additional turns. 17 path options.          | <ul><li>#Magic</li><li>#noSpells</li></ul> |
+| [[Novice Paths/Scientist\|Scientist]]                                     | Grant boons and banes and a 20+, learn sciences, gain mental boons and turn failed rolls into a success. 9 fields of study. | <ul></ul>                                  |
+| [[Novice Paths/Warrior\|Warrior]]                                         | Lots of damage, can hit multiple targets. Default warrior from core book.                                                   | <ul></ul>                                  |
+| [[Novice Paths/Warrior - Armiger\|Warrior - Armiger]]                     | Favours mounted combat                                                                                                      | <ul></ul>                                  |
+| [[Novice Paths/Warrior - Barbarian\|Warrior - Barbarian]]                 | Favours basic weapons and light armor. Highest novice path health.                                                          | <ul></ul>                                  |
+| [[Novice Paths/Warrior - Brawler\|Warrior - Brawler]]                     | Bonus damage dice, so many bonus damage dice.                                                                               | <ul></ul>                                  |
+| [[Novice Paths/Warrior - Enforcer\|Warrior - Enforcer]]                   | Debuffs enemies, then deals more to debuffed enemies.                                                                       | <ul></ul>                                  |
+| [[Novice Paths/Warrior - Gallant\|Warrior - Gallant]]                     | Favours finesse weapons and light armor.                                                                                    | <ul></ul>                                  |
+| [[Novice Paths/Warrior - Hunter\|Warrior - Hunter]]                       | Extra movement and damage over time.                                                                                        | <ul></ul>                                  |
+| [[Novice Paths/Warrior - Monk\|Warrior - Monk]]                           | Unarmed attacks and attack options.                                                                                         | <ul></ul>                                  |
+| [[Novice Paths/Warrior - Soldier\|Warrior - Soldier]]                     | Buff and debuff, ally healing.                                                                                              | <ul></ul>                                  |
+| [[Novice Paths/Warrior - Veteran\|Warrior - Veteran]]                     | Core warrior class with added equipment.                                                                                    | <ul></ul>                                  |
+| [[Novice Paths/Warrior -Spellguard\|Warrior -Spellguard]]                 | Weapons AND spells?! Dios mio!                                                                                              | <ul><li>#Magic</li></ul>                   |
 
 { .block-language-dataview}

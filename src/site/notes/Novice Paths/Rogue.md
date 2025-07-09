@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/novice-paths/rogue/"}
+{"dg-publish":true,"permalink":"/novice-paths/rogue/","tags":["Magic","noSpells"]}
 ---
 
 Rogues always have a trick up their sleeves. Using a combination of luck and skill, rogues can usually find solutions to their problems. Their talents come from their ingenuity, cunning, training, and, of course, good fortune, all of which makes them adaptable to any situation.
@@ -35,22 +35,6 @@ If you attack with 1 boon from this talent, your attack deals 1d6 extra damage.
 **Roguery Talent:** Choose a roguery talent from the ones described below.
 - - -
 # Roguery Talents
-**Backstab:** Once per round, when you attack with a basic or swift weapon and you make the attack roll with at least 1 boon, the attack deals 1d6 extra damage. If you choose this talent a second time, the extra damage increases to 2d6.
-
-**Magic:** Increase your Power by 1 and discover one tradition. Then make two choices. For each choice, you either discover another tradition or learn one spell from a tradition you have discovered. If you choose this talent a second time, increase your Power by 1 and discover a tradition or learn one spell.
-
-**Skirmish:** You can use an action to move up to half your Speed. This movement does not trigger free attacks. During the move, you can make an attack.
-You make the attack roll with 1 bane, but the attack deals 1d6 extra damage.
-If you choose this talent a second time, you can move up to your Speed instead of half your Speed.
-
-**Subterfuge:** You can use an action to make an Intellect attack roll against the Intellect of one creature within short range that can hear you and understand what you say. On a success, the target becomes charmed for 1 round or until it you attack it.
-On a failure, the target becomes immune to your Subterfuge until it completes a rest. If you choose this talent a second time, you make the attack roll with 1 boon and can affect a creature that doesn’t understand what you say.
-
-**Threats:** You can use an action or a triggered action on your turn to make an Intellect attack roll against the Will of one target creature within short range of you that can hear and see you. On a success, the target becomes frightened for 1 round. On a failure, the target becomes immune to your Threats until it completes a rest. If you choose this talent again, your weapon attacks deal 1d6 extra damage to targets frightened in this way.
-- - -
-# Alternative Talents
-Alternative roguery talents can be found in the Natural Born Scoundrels PDF and act as replacements for the existing roguery talents.
-
 **Academic:** Gain the Problem-Solver talent the first time you choose academic and the Master Problem-Solver talent the second time.
 	**Problem-Solver:** You can use an action, or a triggered action on your turn, to wrack your brain for some bit of information that might be of use. Make an Intellect challenge roll. On a success, you gain 1d3 + 1 insights. You retain these insights until you use them or you use this talent again. On a failure, you lose this talent until you complete a rest. On your turn, you can spend one insight to gain any one of the following benefits:
 	- Make your next attack roll before the end of the round with 1 boon.
@@ -138,7 +122,7 @@ Backstab talent the second time.
 
 **Trickster:** Gain the Combat Cunning talent the first time you choose trickster and the Superior Combat Cunning talent the second time.
 	**Combat Cunning:** When you use Trickery on an attack roll made to disarm, distract, feint, grab, knock down, pull, or shove, you make the roll with 1 additional boon.
-	**Superior Combat Cunning:** When you use a Melee Attack Option (see Shadow, page 50), you reduce the number of banes imposed on your roll by 1.
+	**Superior Combat Cunning:** When you use a Melee Attack Option, you reduce the number of banes imposed on your roll by 1.
 
 **Leech:** Gain the Physician’s Cure talent the first time you select Leech and the Advanced Medicine talent the second time you select Leech.
 	**Physician’s Cure** If you have a healer’s kit, you can use an action and expend a use from the kit to treat one target creature. Make an Intellect challenge roll. On a success, the target heals 1 damage and you can remove one of the following afflictions from the target: fatigued, frightened, impaired, or poisoned. If the affliction has permanent duration, it cannot be removed using this talent.

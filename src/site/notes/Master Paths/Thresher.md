@@ -10,4 +10,4 @@ For all their effectiveness in battle, flails demand much from their wielders. T
 # Level 10
 **Characteristics** Health +5
 **Whirling Flails** If you wield two flails, one in each hand, you can use an action to whirl them around you. Each creature within 2 yards of you must get a success on an Agility challenge roll with 1 bane or take 4d6 damage. Once you use this talent, you must wait 1 minute before you can use it again.
-**Flail Maneuver** You make attack rolls to disarm when using a flail with 1 boon. In addition, you make attack rolls when you use the Driving Attack, Lunging Attack, and Unbalancing Attack melee attack options (see Shadow, page 50) with 1 boon.
+**Flail Maneuver** You make attack rolls to disarm when using a flail with 1 boon. In addition, you make attack rolls when you use the Driving Attack, Lunging Attack, and Unbalancing Attack melee attack options with 1 boon.
