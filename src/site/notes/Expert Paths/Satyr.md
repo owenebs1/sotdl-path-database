@@ -3,7 +3,7 @@
 ---
 
 A strange madness sometimes afflicts fauns who return to the hidden kingdoms, transforming them from mortality to immortality. Although blessed with the gifts afforded to all faeries, these changed fauns, called satyrs, become obsessed with feeding their appetites and live only to drink, eat, and copulate. They become wild and erratic, moods as changeable as the wind. Satyrs might pry themselves away from hedonistic pursuits for a time, but they invariably return, shedding the trappings of civility and decorum for the freewheeling, wild abandon they crave.
-You must be a faun to choose this expert path.
+**You must be a faun to choose this expert path.**
 # Level 3
 **Attributes** Increase two by 1
 **Characteristics** Health +3

@@ -24,8 +24,8 @@ On a failure, the target becomes immune to your use of Demoralize until it compl
 **Spiritbreaker** When you use a weapon to attack a creature that has at least one affliction, you make the attack roll with 1 boon.
 # Level 2 Enforcer
 **Characteristics** Health +5
-**Cruelest Strike** Your attacks with finesse weapons deal 1d6 extra damage. When you would deal damage to a target, you can choose to forgo dealing the extra damage and instead impose one of the following afflictions on it: impaired or slowed. The target removes the affliction from itself at the end of the round.
-**Menacing Strike** When the total of your attack roll with a weapon that has the finesse property is 20 or higher and beats the target number by 5 or more, the target becomes frightened for 1 minute.
+**Cruelest Strike** Your attacks with weapons deal 1d6 extra damage. When you would deal damage to a target, you can choose to forgo dealing the extra damage and instead impose one of the following afflictions on it for one round: impaired or slowed.
+**Menacing Strike** When the total of your attack roll with a weapon that has the property is 20 or higher and beats the target number by 5 or more, the target becomes frightened for 1 minute.
 At the end of each round, the target can make a Will challenge roll and removes the affliction from itself on a success.
 # Level 5 Expert Enforcer
 **Characteristics** Health +5

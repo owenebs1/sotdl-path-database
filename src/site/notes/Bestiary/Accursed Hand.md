@@ -9,8 +9,7 @@
 **Defense** 13; **Health** 6; **Insanity** —; **Corruption** 5
 **Strength** 12 (0), **Agility** 13 (0), **Intellect** —, **Will** 10 (0)
 **Speed** 8; Climber 
-**Immunity** 
-Damage from cold, disease, poison, insanity, asleep, blinded, charmed, dazed, deafened, diseased, fatigued, frightened, poisoned, stunned
+**Immunity** Damage from cold, disease, poison, insanity, asleep, blinded, charmed, dazed, deafened, diseased, fatigued, frightened, poisoned, stunned
 ## ATTACK OPTIONS
 **Claw** (melee) +3 with 1 boon (1d3m or 1d6 against a prone target, plus the target is grabbed on attack roll 20+)
 ### SPECIAL ATTACKS

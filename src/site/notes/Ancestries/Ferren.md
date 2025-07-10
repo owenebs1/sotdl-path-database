@@ -14,7 +14,6 @@ Variant Options available in the In Plain Sight PDF.
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**layout: Basic SotDL Layout/ndifficulty: ** 1
 **Speed:** 10
 **Power:** 0
 **Damage:** 0

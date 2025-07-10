@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/reference-tables/ancestries/"}
 ---
 
-
-
 | File                                               | Description                                                                          | Tags                                                                     |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | [[Ancestries/Arachne\|Arachne]]                 | Demon worshipping humans who can turn into spiders.                                  | <ul><li>#Monstrous</li></ul>                                             |
