@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/expert-paths/silencer/","tags":["Magic"]}
+{"dg-publish":true,"permalink":"/expert-paths/silencer/","tags":["Magic","REBALANCED"]}
 ---
 
 The degree to which the Dark Lady and her followers depend on dark magic has led to innovations in its use, from introducing new and terrible spells into the world to new fighting techniques that incorporate that foul magic. Anticipating the coming struggle, the
@@ -17,13 +17,15 @@ This way, they can attack with shocking force to bring down the toughest foe.
 # Level 3
 **Attributes** Choose two attributes and increase both by 1.
 **Characteristics** Health +3, Power +1
-**Languages and Professions** Add murderer to your list of professions.
+**Languages and Professions** Add murderer to your list of professions. If you already have Murderer as a profession, you may choose a different profession.
 **Magic** You discover the Death or Shadow tradition or you learn one Death or Shadow spell.
 **Murderous Strike** When you deal damage from an attack you make with a weapon, you can use a triggered action to expend the casting of a rank 1 or higher Death spell you have learned. The attack deals 1d6 extra damage per rank of the spell whose casting you expended.
+**Enshrouded by Shadows** You can use an action and expend the casting of a Shadow spell to reduce the light around you for 1 round plus 1 round per rank of the spell expended.  Lit areas up to short range around you become shadows and shadows become darkness.  While the light is reduced in this way, your weapon and spell attacks have one boon.
+**Touch of Darkness** You gain darkvision. If you already had darkvision, you instead make perception challenge rolls in darkness with one boon.
 # Level 6
 **Characteristics** Health +3
 **Magic** You learn one Death or Shadow spell.
-**Touch of Darkness** When you deal damage to a living creature, the creature must get a success on a Strength challenge roll or take double damage from Death andShadow spells for 1 round.
+**Death Incarnate** When you deal damage from an attack you made with a weapon to a living creature, the creature must get a success on a strength challenge roll or take double damage from Death and Shadow spells for 1 round. You may expend the casting of a Death or Shadow spell to impose one bane and extend the duration by 1 round per rank of the expended spell. 
 # Level 9
 **Characteristics** Health +3, Power +1
 **Magic** You learn one Death or Shadow spell.

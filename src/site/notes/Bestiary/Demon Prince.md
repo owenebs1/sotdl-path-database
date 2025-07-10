@@ -26,9 +26,9 @@ In addition, each creature within range gains 2d6 Insanity and must then get a s
 **Swift Spell:** The demon prince can use a triggered action on its turn to cast a spell.
 ### MAGIC
 **Power** 8
-**Demonology:** *[Shadow of the Void](https://sotdl-database.vercel.app/spells/demonology/shadow-of-the-void/) (2), [shadow of the Demon Lord](https://sotdl-database.vercel.app/spells/demonology/shadow-of-the-demon-lord/) (2)*
-**Forbidden:** *[hateful defecation](https://sotdl-database.vercel.app/spells/forbidden/hateful-defecation/) (3), [part bone from flesh](https://sotdl-database.vercel.app/spells/forbidden/part-bone-from-flesh/) (2), [horrid joining](https://sotdl-database.vercel.app/spells/forbidden/horrid-joining/) (2)*
-**Telekinesis:** *[force bubble](https://sotdl-database.vercel.app/spells/telekinesis/force-bubble/) (2), [telekinetic outburst](https://sotdl-database.vercel.app/spells/telekinesis/telekinetic-outburst/) (2)*
+**Demonology:** *[Shadow of the Void](https://sotdl-spell-database.vercel.app/spells/demonology/shadow-of-the-void/) (2), [shadow of the Demon Lord](https://sotdl-spell-database.vercel.app/spells/demonology/shadow-of-the-demon-lord/) (2)*
+**Forbidden:** *[hateful defecation](https://sotdl-spell-database.vercel.app/spells/forbidden/hateful-defecation/) (3), [part bone from flesh](https://sotdl-spell-database.vercel.app/spells/forbidden/part-bone-from-flesh/) (2), [horrid joining](https://sotdl-spell-database.vercel.app/spells/forbidden/horrid-joining/) (2)*
+**Telekinesis:** *[force bubble](https://sotdl-spell-database.vercel.app/spells/telekinesis/force-bubble/) (2), [telekinetic outburst](https://sotdl-spell-database.vercel.app/spells/telekinesis/telekinetic-outburst/) (2)*
 ### END OF THE ROUND
 **Call of the Demon Lord:** Each creature that is not a demon and is within long range of the demon prince must get a success on a Strength challenge roll with 3 banes or be moved 3d6 yards toward the demon prince. If an affected creature was flying, it falls.
 **Epic Recovery:** The demon prince removes one affliction from itself.

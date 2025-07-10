@@ -9,7 +9,7 @@ What waits for all mortals beyond death is a subject of great interest and ensur
 **Languages and Professions** You can speak another language or add an academic area of knowledge.
 **Magic** You discover the Necromancy tradition or learn one Necromancy spell.
 **Inured to Death** You never take damage from disease or poison and you cannot become diseased or poisoned. Finally, when you roll to determine your fate while incapacitated, you roll the die an extra time and can use either number.
-**Command Undead** You learn the [Command Undead](https://sotdl-database.vercel.app/spells/path-specific/command-undead/) spell.
+**Command Undead** You learn the [Command Undead](https://sotdl-spell-database.vercel.app/spells/path-specific/command-undead/) spell.
 # Level 10
 **Characteristics** Health +2
 **Magic** You learn one spell.

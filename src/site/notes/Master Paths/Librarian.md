@@ -19,4 +19,4 @@ You can select these spells from any tradition, even traditions you have not yet
 **Characteristics** Health +2
 **Magic** You learn one spell.
 **Expanded Library** The number of tomes granted by your Personal Library talent increases to six.
-**Peerless Research** You can use an action to cast the [Augur](https://sotdl-database.vercel.app/spells/divination/augur/) spell from the Divination tradition without expending the casting or needing to have learned the spell. The question you ask must be related to an area of scholarship discussed in one of your tomes.
+**Peerless Research** You can use an action to cast the [Augur](https://sotdl-spell-database.vercel.app/spells/divination/augur/) spell from the Divination tradition without expending the casting or needing to have learned the spell. The question you ask must be related to an area of scholarship discussed in one of your tomes.

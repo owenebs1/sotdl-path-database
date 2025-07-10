@@ -12,4 +12,4 @@ The Shadow tradition, while not technically dark magic, has a sinister reputatio
 # Level 10
 **Characteristics** Health +2
 **Magic** You learn one spell.
-**Shadow Form** You learn the [Shadow Form](https://sotdl-database.vercel.app/spells/path-specific/shadow-form/) spell.
+**Shadow Form** You learn the [Shadow Form](https://sotdl-spell-database.vercel.app/spells/path-specific/shadow-form/) spell.

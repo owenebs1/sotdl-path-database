@@ -15,7 +15,7 @@ Why be one person when you can be anyone? You change your appearance as easily a
 **Characteristics** Health +2, Power +1
 **Magic** You either discover one tradition or learn one spell.
 **Languages and Professions** You speak another language or add a criminal profession to your list of professions.
-**Become Anyone** You learn the [Disguise](https://sotdl-database.vercel.app/spells/illusion/disguise/) spell from the Illusion tradition. You can cast this spell on yourself without expending a casting.
+**Become Anyone** You learn the [Disguise](https://sotdl-spell-database.vercel.app/spells/illusion/disguise/) spell from the Illusion tradition. You can cast this spell on yourself without expending a casting.
 **Quick Reflexes** On your turn, you can use a triggered action to hide or retreat.
 # Level 6
 **Characteristics** Health +2

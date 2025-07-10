@@ -12,4 +12,4 @@ Technomancers exploit the merging of magic with technology that’s made possibl
 # Level 10
 **Characteristics** Health +2
 **Magic** You learn one spell.
-**Animate Object** You learn the [Animate Object](https://sotdl-database.vercel.app/spells/path-specific/animate-object/) spell.
+**Animate Object** You learn the [Animate Object](https://sotdl-spell-database.vercel.app/spells/path-specific/animate-object/) spell.

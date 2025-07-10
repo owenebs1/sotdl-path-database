@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/expert-paths/preserver/","tags":["Magic"]}
+{"dg-publish":true,"permalink":"/expert-paths/preserver/","tags":["Magic","REBALANCED"]}
 ---
 
 The cycle of life and death ensures that a supply of souls will always be available to house the bodies of the newly born. Anything that interrupts this cycle threatens to disrupt this delicate balance and throw all into upheaval. Members of many religions pledge themselves to safeguard this balance, with the chief champions being the Cult of the New God and those devotees of Father Death. But there are some who recognize the importance of this work without having to be convinced by scripture or divine decree. These individuals belong to an old secret society called the Preservers, established to safeguard the cycle of life and death and to destroy anything or anyone that would interfere with it.
@@ -21,10 +21,11 @@ Although most preservers belong to the organization of the same name, many indiv
 **Characteristics** Health +2, Power +1
 **Languages and Professions** You can speak another language or add a profession to your list of professions.
 **Magic** You discover the Death or Life tradition or learn one Death or Life spell. In addition, you gain one of the following benefits.
-- **Sense Corruption** If you don’t already know it, you learn the [Life Sense](https://sotdl-database.vercel.app/spells/life/life-sense/) spell from the Life tradition. When you cast that spell, you can expend an extra casting of it to also determine the Corruption totals for each living creature you detect.
-- **Fear No Death** If you don’t already know it, you learn the [Protection from Death](https://sotdl-database.vercel.app/spells/death/protection-from-death/) spell from the Death tradition. Targets under the effect of your casting of this spell also make challenge rolls to resist being frightened or possessed with 1 boon.
+- **Sense Corruption** If you don’t already know it, you learn the [Life Sense](https://sotdl-spell-database.vercel.app/spells/life/life-sense/) spell from the Life tradition. When you cast that spell, you can expend an extra casting of it to also determine the Corruption totals for each living creature you detect.
+- **Fear No Death** If you don’t already know it, you learn the [Protection from Death](https://sotdl-spell-database.vercel.app/spells/death/protection-from-death/) spell from the Death tradition. Targets under the effect of your casting of this spell also make challenge rolls to resist being frightened or possessed with 1 boon.
 **Invert Healing** When you cast a Life spell that would allow a creature to heal damage, you can use a triggered action to invert the spell. When you do so, make a Will attack roll against the target’s Strength. On a success, the target takes the damage from the spell instead of being healed.
 For example, if you invert minor healing and you get a success on the attack roll, the target would take damage equal to half its healing rate rather than heal damage equal to half its healing rate.
+The target may make a strength challenge roll to reduce the damage by half.
 # Level 6
 **Characteristics** Health +2
 **Magic** You learn one spell.

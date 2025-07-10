@@ -4,7 +4,7 @@
 
 *Size 1/2 or 1 animal, fungus, or plant*
 **Perception** 12 (+2)
-**Defense** 13; **Health** 15; **Insanity** 0; **Corruption** 0
+**Defense** 13; **Health** 20; **Insanity** 0; **Corruption** 0
 **Strength** 10 (+0), **Agility** 13 (+3), **Intellect** 6 (–4), **Will** 8 (–2)
 **Speed** 8 if fungus or plant, 10 if animal
 **Immune** (fungus or plant only) asleep, blinded, dazed, deafened, fatigued, frightened, stunned

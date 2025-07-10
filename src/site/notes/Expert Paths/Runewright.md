@@ -25,12 +25,12 @@ As a result, the flames they cast burn brighter, the bombs they build explode wi
 # Level 6
 **Characteristics** Health +3
 **Magic** You learn one spell.
-**Runescribed Technomancy** Whenever you cast a Technomancy spell that creates a device, such as [Sparking Shield](https://sotdl-database.vercel.app/spells/technomancy/sparking-shield/) or [Flamethrower](https://sotdl-database.vercel.app/spells/technomancy/flamethrower/), you can expend the casting of a rank 1 or higher Rune spell to upgrade the device. Choose one of the following effects.
+**Runescribed Technomancy** Whenever you cast a Technomancy spell that creates a device, such as [Sparking Shield](https://sotdl-spell-database.vercel.app/spells/technomancy/sparking-shield/) or [Flamethrower](https://sotdl-spell-database.vercel.app/spells/technomancy/flamethrower/), you can expend the casting of a rank 1 or higher Rune spell to upgrade the device. Choose one of the following effects.
 - You grant the device an additional use per rank of the spell whose casting you expended.
-- If the spell creates multiple devices—such as [Grenades](https://sotdl-database.vercel.app/spells/technomancy/grenades/) and [Flying Blades](https://sotdl-database.vercel.app/spells/technomancy/flying-blades/)—you create one additional device per rank of the spell whose casting you expended.
+- If the spell creates multiple devices—such as [Grenades](https://sotdl-spell-database.vercel.app/spells/technomancy/grenades/) and [Flying Blades](https://sotdl-spell-database.vercel.app/spells/technomancy/flying-blades/)—you create one additional device per rank of the spell whose casting you expended.
 - If the device deals damage and has but a single use, it deals 1d6 extra damage per rank of the spell whose casting you expended. If the device has multiple uses, the device deals 1d6 extra damage for a rank 1 or 2 spell, 2d6 extra damage for a rank 3 or 4 spell, or 3d6 extra damage for a rank 5 or higher spell.
 - If the device has a duration of 1 minute, you can increase the duration to 10 minutes for a rank 1 spell, 1 hour for a rank 2 or 3 spell, or 8 hours for a rank 4 or higher spell.
 # Level 9
 **Characteristics** Health +3, Power +1
 **Magic** You learn one spell.
-**Rune-Scribed Powered Suit** If your Power score is 4 or higher, you learn the [Powered Suit](https://sotdl-database.vercel.app/spells/technomancy/powered-suit/) Technomancy spell. If you know the spell already, you learn a different rank 4 Rune or Technomancy spell. The powered suit also counts as a weapon and armor for the purpose of targeting it with your Rune spells.
+**Rune-Scribed Powered Suit** If your Power score is 4 or higher, you learn the [Powered Suit](https://sotdl-spell-database.vercel.app/spells/technomancy/powered-suit/) Technomancy spell. If you know the spell already, you learn a different rank 4 Rune or Technomancy spell. The powered suit also counts as a weapon and armor for the purpose of targeting it with your Rune spells.

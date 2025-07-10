@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/expert-paths/biologist/"}
+{"dg-publish":true,"permalink":"/expert-paths/biologist/","tags":["REBALANCED"]}
 ---
 
 You have made a lifelong study of nature. You have examined animals, discovered new species of plants, and studied all kinds of fungus. You are an expert in the life sciences and can now navigate most wilderness environments without fear. You have also raised a helper to accompany you on your further adventures.

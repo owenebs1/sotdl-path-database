@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/expert-paths/warmaster/"}
+{"dg-publish":true,"permalink":"/expert-paths/warmaster/","tags":["REBALANCED"]}
 ---
 
 You studied the best. You watched the best at their work, learned their techniques, and emulated them in your own training. You combine so many different fighting styles, you become something more than just another sword-wielding warrior. You become a master of war.
@@ -13,19 +13,21 @@ You studied the best. You watched the best at their work, learned their techniqu
 # Level 3
 **Attributes** Choose two attributes and increase both by 1.
 **Characteristics** Health +5
-**Battle Dice** You generate battle dice, which are d6s, in combat. Whenever you make an attack roll, roll one battle die and find the result on the following table. The effects are cumulative and last until the combat ends.
+**Battle Dice** Whenever you make a weapon attack roll that results in a success, you generate a Battle Token. At the End of the Round, you may spend one or more battle tokens. You lose all unspent battle tokens at the end of the combat. For each token you spend, gain one of the following effects, which lasts until the end of your next round.
+- Gain a +1d6 bonus to Speed.
+- Gain +1d6 bonus to Health.
+- Gain +1 bonus to Defense.
+- Make Strength and Agility rolls with 1 boon.
+- Deal 1d6 extra damage with melee attacks.
+- Turn one of your d6 results into a 6.
 
-| Result | Effect                                                                  |
-| ------ | ----------------------------------------------------------------------- |
-| 1      | Gain a +2 bonus to Speed.                                               |
-| 2      | Gain a +1d6 bonus to Health.                                            |
-| 3      | Gain a +1 bonus to Defense.                                             |
-| 4      | Make Strength and Agility attack rolls and challenge rolls with 1 boon. |
-| 5      | Deal 1d6 extra damage with melee attacks.                               |
-| 6      | Gain an action and use it immediately. This effect then ends            |
 # Level 6
 **Characteristics** Health +5
-**Battle Dice Expertise** You roll two battle dice when you use an attack roll.
+**Battle Token Expertise** You automatically gain 1 battle token each round.
 # Level 9
 **Characteristics** Health +5
-**Master of Battle** While you benefit from expending 3 or more battle dice, when you take a fast turn, you can move and use an action. While you benefit from expending 6 or more battle dice, you impose 1 bane on rolls made to attack you. Finally, at the end of any combat, you immediately heal damage equal to your healing rate.
+**Master of Battle** Whenever you make a weapon attack roll that results in a failure, you generate a Battle Token.You may also spend battle tokens on the following effects:
+- You can move and take an action on a fast turn.
+- All attacks against you have 1 bane.
+- You gain an extra action. You can only gain 1 extra action from battle tokens per round.
+- Heal 1d6 damage at the end of the round.

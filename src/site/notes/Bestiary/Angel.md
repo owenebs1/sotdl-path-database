@@ -30,4 +30,4 @@ makes any challenge roll to resist a spell with 1 boon. A creature attacking an 
 
 ### MAGIC
 **Power** 2
-**Enchantment:** *[presence](https://sotdl-database.vercel.app/spells/enchantment/presence/) (3), [charm](https://sotdl-database.vercel.app/spells/enchantment/charm/) (2), [mind bondage](https://sotdl-database.vercel.app/spells/enchantment/mind-bondage/) (1)*
+**Enchantment:** *[presence](https://sotdl-spell-database.vercel.app/spells/enchantment/presence/) (3), [charm](https://sotdl-spell-database.vercel.app/spells/enchantment/charm/) (2), [mind bondage](https://sotdl-spell-database.vercel.app/spells/enchantment/mind-bondage/) (1)*

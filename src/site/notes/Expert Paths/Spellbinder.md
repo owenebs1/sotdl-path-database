@@ -17,7 +17,7 @@ The heart of spellbinding lies in a single spell, one which allows casters to im
 # Level 3
 **Attributes** Increase two by 1.
 **Characteristics** Health +3, Power +1
-**Magic** You either discover a new tradition or learn one spell from a tradition you have already discovered. In addition, you learn the [Spellbound Weapon](https://sotdl-database.vercel.app/spells/path-specific/spellbound-weapon/) spell.
+**Magic** You either discover a new tradition or learn one spell from a tradition you have already discovered. In addition, you learn the [Spellbound Weapon](https://sotdl-spell-database.vercel.app/spells/path-specific/spellbound-weapon/) spell.
 # Level 6
 **Characteristics** Health +3
 **Magic** You either discover a new tradition or learn one spell from a tradition you have already discovered.

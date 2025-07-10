@@ -24,7 +24,7 @@ weapons, can move through solid objects and other creatures, and ignores the eff
 **Messenger of Death:** The grim reaper can use an action to move from the Underworld to an open space of its choice within short range of any living creature in the world, or to move from the world to any open space in the Underworld.
 ### MAGIC
 **Power** 5
-**Death** *[Killing touch](https://sotdl-database.vercel.app/spells/death/killing-touch/) (6), [Injure](https://sotdl-database.vercel.app/spells/death/injure/) (3), [life drain](https://sotdl-database.vercel.app/spells/death/life-drain/) (2), [decay](https://sotdl-database.vercel.app/spells/death/decay/) (2), [feast of souls](https://sotdl-database.vercel.app/spells/death/feast-of-souls/) (2), [death fog](https://sotdl-database.vercel.app/spells/death/death-fog/) (1), [stop heart](https://sotdl-database.vercel.app/spells/death/stop-heart/) (1)*
+**Death** *[Killing touch](https://sotdl-spell-database.vercel.app/spells/death/killing-touch/) (6), [Injure](https://sotdl-spell-database.vercel.app/spells/death/injure/) (3), [life drain](https://sotdl-spell-database.vercel.app/spells/death/life-drain/) (2), [decay](https://sotdl-spell-database.vercel.app/spells/death/decay/) (2), [feast of souls](https://sotdl-spell-database.vercel.app/spells/death/feast-of-souls/) (2), [death fog](https://sotdl-spell-database.vercel.app/spells/death/death-fog/) (1), [stop heart](https://sotdl-spell-database.vercel.app/spells/death/stop-heart/) (1)*
 ### END OF THE ROUND
 **Shed Afflication:** A grim reaper removes all afflictions from itself.
 **Death Knell:** Each living creature within short range must get a success on a Strength challenge roll or take 2d6 + 2 damage. A creature that takes this damage heals half damage for 1 round.

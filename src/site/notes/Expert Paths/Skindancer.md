@@ -16,7 +16,7 @@ Although anyone with an interest in learning spells from the traditions associat
 **Characteristics** Health +4, Power +1
 **Languages and Professions** You can speak another language or add a profession to your list of professions.
 **Magic** You discover the Alteration or Transformation tradition or learn one Alteration or Transformation spell.
-**Magic Mask** You learn the [Mask](https://sotdl-database.vercel.app/spells/transformation/mask/) spell from the Transformation tradition even if you have not yet discovered the Transformation tradition. If you have already learned this spell, you can learn another rank 0 spell from either the Alteration or the Transformation tradition.
+**Magic Mask** You learn the [Mask](https://sotdl-spell-database.vercel.app/spells/transformation/mask/) spell from the Transformation tradition even if you have not yet discovered the Transformation tradition. If you have already learned this spell, you can learn another rank 0 spell from either the Alteration or the Transformation tradition.
 On your turn, you can use a triggered action to cast the mask spell.
 In addition, whenever you cast mask, you can now increase your height by up to 24 inches and your weight by up to 100 percent, which allows you to either halve your Size (minimum Size 1/4) or add 1 to your Size.
 Changing Size in this way does not alter your statistics except for your reach

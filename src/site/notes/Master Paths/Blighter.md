@@ -8,7 +8,7 @@ Blighters exploit the world’s resources, destroying life to feed their ambitio
 **Attributes** Increase three by 1
 **Characteristics** Health +2, Power +1, Corruption +1
 **Languages and Professions** You can speak another language or add a profession.
-**Magic** You learn the [Blight](https://sotdl-database.vercel.app/spells/path-specific/blight/) spell.
+**Magic** You learn the [Blight](https://sotdl-spell-database.vercel.app/spells/path-specific/blight/) spell.
 # Level 10
 **Characteristics** Health +2, +1 Corruption
 **Magic** You learn one spell.

@@ -8,7 +8,7 @@ The Keepers of the Flame, in contrast, guard their secrets and remain an insular
 **Attributes** Increase three by 1 each
 **Characteristics** Health +2, Power +1
 **Languages and Professions** You can speak another language or add a profession.
-**Magic** You learn the [Create Flame](https://sotdl-database.vercel.app/spells/fire/create-flame/) spell.
+**Magic** You learn the [Create Flame](https://sotdl-spell-database.vercel.app/spells/fire/create-flame/) spell.
 **Inured to Fire** Creatures attacking you with fire make their attack rolls with 1 bane, and you make challenge rolls to resist attacks using fire with 1 boon.
 # Level 10
 **Characteristics** Health +2

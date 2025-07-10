@@ -8,7 +8,7 @@ On rare occasions, students of the Primal tradition succumb to the force of thei
 **Characteristics** Health +4, Power +1
 **Languages and Professions** You can speak another language or add a profession to your list of professions.
 **Magic** You discover the Primal tradition or you learn one Primal spell.
-**Unleash the Beast** If you don’t already know the [Beast Within](https://sotdl-database.vercel.app/spells/primal/beast-within/) spell, you learn it. If you already know this spell, you learn another rank 0 Primal spell. You are always under the effect of the beast within spell. When you would make an unarmed strike attack, you can expend a casting of the beast within spell to make the attack roll with 1 boon and deal 1d6 extra damage on a success.
+**Unleash the Beast** If you don’t already know the [Beast Within](https://sotdl-spell-database.vercel.app/spells/primal/beast-within/) spell, you learn it. If you already know this spell, you learn another rank 0 Primal spell. You are always under the effect of the beast within spell. When you would make an unarmed strike attack, you can expend a casting of the beast within spell to make the attack roll with 1 boon and deal 1d6 extra damage on a success.
 # Level 10
 **Characteristics** Health +4
 **Magic** You learn one spell.

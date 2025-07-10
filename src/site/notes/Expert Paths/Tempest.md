@@ -16,15 +16,15 @@ Many tempests are as wild as the storms they control and are given to sudden out
 **Attributes** Choose two attributes and increase each by 1.
 **Characteristics** Health +3, Power +1
 **Magic** You discover the Metal or Storm tradition or learn one Metal or Storm spell.
-**Steel Skin** You learn the [Steel Skin](https://sotdl-database.vercel.app/spells/metal/steel-skin/) spell from the Metal tradition even if you have not yet discovered the Metal tradition. If you have already learned this spell, you can learn a different rank 0 spell from the Metal tradition. On your turn, you can use a triggered action to cast the steel skin spell, but you must be the target of the spell.
+**Steel Skin** You learn the [Steel Skin](https://sotdl-spell-database.vercel.app/spells/metal/steel-skin/) spell from the Metal tradition even if you have not yet discovered the Metal tradition. If you have already learned this spell, you can learn a different rank 0 spell from the Metal tradition. On your turn, you can use a triggered action to cast the steel skin spell, but you must be the target of the spell.
 **Cloaked in Electricity** While you are under the effect of the steel skin spell, electricity crackles all over your body and causes your eyes to glow with actinic light. Whenever a creature within 1 yard of you touches you or gets a success on an attack roll made to attack you with a metal weapon, you can use a triggered action to expend the casting of a Storm spell. The triggering creature takes 1d6 damage plus 1d6 damage per rank of the spell whose casting you expended.
 # Level 6
 **Characteristics** Health +3
 **Magic** You learn one spell.
-**Channeled Lightning** If you are under the effect of the [Steel Skin](https://sotdl-database.vercel.app/spells/metal/steel-skin/) spell when you cast a Storm spell, you can choose to release a burst of lightning from your body. The lightning deals 2d6 damage to each creature within 1 yard of you. A creature that would take this damage can make an Agility challenge roll and takes half the damage on a success.
+**Channeled Lightning** If you are under the effect of the [Steel Skin](https://sotdl-spell-database.vercel.app/spells/metal/steel-skin/) spell when you cast a Storm spell, you can choose to release a burst of lightning from your body. The lightning deals 2d6 damage to each creature within 1 yard of you. A creature that would take this damage can make an Agility challenge roll and takes half the damage on a success.
 **Persistent Steel** When you cast the steel skin spell on yourself, the duration becomes 10 minutes.
 # Level 9
 **Characteristics** Health +3, Power +1
 **Magic** You learn one spell.
-**Conductivity** When you cast a Storm spell while under the effect of the [Steel Skin](https://sotdl-database.vercel.app/spells/metal/steel-skin/) spell, you make the attack roll with 1 boon and you impose 1 bane on challenge rolls made to resist the spell. In addition, your Storm spells deal 1d6 extra damage.
+**Conductivity** When you cast a Storm spell while under the effect of the [Steel Skin](https://sotdl-spell-database.vercel.app/spells/metal/steel-skin/) spell, you make the attack roll with 1 boon and you impose 1 bane on challenge rolls made to resist the spell. In addition, your Storm spells deal 1d6 extra damage.
 **Weight of Iron** Creatures within 5 yards of you that have the Iron Vulnerability trait are impaired for as long as they remain within this distance.

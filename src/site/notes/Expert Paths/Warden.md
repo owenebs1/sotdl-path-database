@@ -17,11 +17,11 @@ Nature spirits individuals who have shown great respect and care for the natural
 **Attributes** Increase two by 1
 **Characteristics** Health +4, Power +1
 **Languages and Professions** You can speak another language or add a wilderness profession.
-**Warden Magic** You learn the [Binding Strike](https://sotdl-database.vercel.app/spells/path-specific/binding-strike/) and [Ward the Land](https://sotdl-database.vercel.app/spells/path-specific/ward-the-land/) spells.
+**Warden Magic** You learn the [Binding Strike](https://sotdl-spell-database.vercel.app/spells/path-specific/binding-strike/) and [Ward the Land](https://sotdl-spell-database.vercel.app/spells/path-specific/ward-the-land/) spells.
 # Level 6
 **Characteristics** Health +4
 **Magic** You discover a tradition or learn one spell.
 **Improved Warden Magic** Your weapon attacks deal 1d6 extra damage to target’s you have immobilized with binding strike. Also, increase the area of ward the land to a 5-yard radius.
 # Level 9
 **Characteristics** Health +4, Power +1
-**Greater Warden Magic** You learn the [Guardian Of Nature](https://sotdl-database.vercel.app/spells/path-specific/guardian-of-nature/) spell.
+**Greater Warden Magic** You learn the [Guardian Of Nature](https://sotdl-spell-database.vercel.app/spells/path-specific/guardian-of-nature/) spell.

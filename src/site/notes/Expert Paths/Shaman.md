@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/expert-paths/shaman/","tags":["Magic"]}
+{"dg-publish":true,"permalink":"/expert-paths/shaman/","tags":["Magic","REBALANCED"]}
 ---
 
 Shamans stand on the border between the living and the the dead. Able to pierce reality’s veil and behold the disembodied spirits trapped between, shamans use magic to bargain with those spirits and gain their assistance.
@@ -19,11 +19,12 @@ As part of their training, shamans call forth and bind a spirit from the Underwo
 **Characteristics** Health +3, Power +1
 **Languages and Professions** You can speak another language or add a common or wilderness profession.
 **Magic** You discover a tradition or learn one spell.
-**Bound Spirit** You have a spirit bound to you, and you learn the [Bound Spirit](https://sotdl-database.vercel.app/spells/path-specific/bound-spirit/) spell.
+**Bound Spirit** You have a spirit bound to you, and you learn the [Bound Spirit](https://sotdl-spell-database.vercel.app/spells/path-specific/bound-spirit/) spell.
 # Level 6
 **Characteristics** Health +3
 **Magic** You discover a tradition or learn one spell.
 **Durable Spirit** The bound spirit’s Health now equals twice your healing rate.
+**Knowledge from the Underworld** While the bound spirit is within short range of you, it grants one boon on challenge rolls used to recall or understand information.
 # Level 9
 **Characteristics** Health +3, Power +1
 **Magic** You discover a tradition or learn one spell.

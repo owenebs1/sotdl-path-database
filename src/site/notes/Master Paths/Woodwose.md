@@ -8,7 +8,7 @@ Having vowed to protect the land, woodwoses call upon power from the natural wor
 **Characteristics** Health +2, Power +1
 **Languages and Professions** You can speak another language or add a wilderness profession.
 **Magic** You discover the Nature tradition or learn one Nature spell.
-**Power of Nature** While under the effects of the [Oak Hide](https://sotdl-database.vercel.app/spells/nature/oak-hide/) Nature spell, you take half damage from fire.
+**Power of Nature** While under the effects of the [Oak Hide](https://sotdl-spell-database.vercel.app/spells/nature/oak-hide/) Nature spell, you take half damage from fire.
 As well, when you attack with an item imbued by the magic acorns spell, your attack deals 1d6 extra damage.
 **Forest Hide** When you are in an area obscured by foliage, you can use a triggered action to expend the casting of a Nature spell. You become invisible for a number of rounds equal to 1 + the rank of the spell whose casting you expended.
 # Level 10

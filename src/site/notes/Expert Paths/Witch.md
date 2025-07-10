@@ -21,7 +21,7 @@ Witches adopt a peculiar style of dress. Men and women both favor dark garments 
 **Languages and Professions** You can speak another language, add an academic area of knowledge, or add a common or wilderness profession.
 **Magic** You discover a tradition or learn one spell.
 **Guidance** When a creature that can hear you and understand what you say would make a challenge roll, you can use a triggered action to offer that creature guidance. The creature makes the roll with 2 boons.
-**Witch Fire** You learn the [Witch Fire](https://sotdl-database.vercel.app/spells/path-specific/witch-fire/) spell.
+**Witch Fire** You learn the [Witch Fire](https://sotdl-spell-database.vercel.app/spells/path-specific/witch-fire/) spell.
 # Level 6
 **Characteristics** Health +2
 **Magic** You discover a tradition or learn one spell.

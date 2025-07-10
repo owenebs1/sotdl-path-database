@@ -7,7 +7,7 @@ Demons, wicked faeries, and vengeful spirits make forays into the mortal world t
 **Attributes** Increase three by 1
 **Characteristics** Health +4, Power +1
 **Languages and Professions** You can speak another language or add a religious profession.
-**Exorcist Magic** You learn the [Exorcism](https://sotdl-database.vercel.app/spells/path-specific/exorcism/) spell.
+**Exorcist Magic** You learn the [Exorcism](https://sotdl-spell-database.vercel.app/spells/path-specific/exorcism/) spell.
 # Level 10
 **Characteristics** Health +4
 **Purge the Unclean** You make attack rolls against demons, devils, faeriea, spirits, and undead with 1 boon. Such creatures make challenge rolls to resist your attacks with 1 bane.

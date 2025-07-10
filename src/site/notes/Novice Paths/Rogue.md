@@ -65,7 +65,7 @@ If you attack with 1 boon from this talent, your attack deals 1d6 extra damage.
 	**The Devil’s Gift:** Gain 2 Corruption. You either increase one attribute of your choice by 1 or increase your Power by 1. You also discover a tradition of your choice. If you discover a dark magic tradition, you also learn one spell from that tradition.
 	**Servant of Hell:** Gain 2 Corruption and then gain one of the following benefits of your choice:
 	- Increase one attribute by 1.
-	- You learn the [Familiar](https://sotdl-database.vercel.app/spells/forbidden/familiar/) spell from the Forbidden tradition. If you already know this spell, you can instead learn a different rank 1 or lower Forbidden spell.
+	- You learn the [Familiar](https://sotdl-spell-database.vercel.app/spells/forbidden/familiar/) spell from the Forbidden tradition. If you already know this spell, you can instead learn a different rank 1 or lower Forbidden spell.
 	- You can use Trickery one additional time per round.
 	- Gain the darksight trait.
 	- Gain an enchanted object or 25 gc.

@@ -3,201 +3,200 @@
 ---
 
 
-| File                                                                     | Description | Tags                                       |
-| ------------------------------------------------------------------------ | ----------- | ------------------------------------------ |
-| [[Master Paths/Acrobat\|Acrobat]]                                     | \-          | <ul></ul>                                  |
-| [[Master Paths/Adjurer\|Adjurer]]                                     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Aeromancer\|Aeromancer]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Agonist\|Agonist]]                                     | \-          | <ul></ul>                                  |
-| [[Master Paths/Alchemist\|Alchemist]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Alienist\|Alienist]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Anchorite\|Anchorite]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Annihilator\|Annihilator]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Anointed\|Anointed]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Apocalyptist\|Apocalyptist]]                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Arcanist\|Arcanist]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Ardent\|Ardent]]                                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Astromancer\|Astromancer]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Avenger\|Avenger]]                                     | \-          | <ul></ul>                                  |
-| [[Master Paths/Bard\|Bard]]                                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Beast\|Beast]]                                         | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Beastmaster\|Beastmaster]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Beguiler\|Beguiler]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Blackguard\|Blackguard]]                               | \-          | <ul></ul>                                  |
-| [[Master Paths/Blade\|Blade]]                                         | \-          | <ul></ul>                                  |
-| [[Master Paths/Blighter\|Blighter]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Blood Magus\|Blood Magus]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Bone Collector\|Bone Collector]]                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Brain in a Jar\|Brain in a Jar]]                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Brute\|Brute]]                                         | \-          | <ul></ul>                                  |
-| [[Master Paths/Builder\|Builder]]                                     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Cat Sith\|Cat Sith]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Catastrophist\|Catastrophist]]                         | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Cavalier\|Cavalier]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Cenobite\|Cenobite]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Champion\|Champion]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Chaplain\|Chaplain]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Chronomancer\|Chronomancer]]                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Chrononaut\|Chrononaut]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Conjurer\|Conjurer]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Conqueror\|Conqueror]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Corsair\|Corsair]]                                     | \-          | <ul></ul>                                  |
-| [[Master Paths/Cryomancer\|Cryomancer]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Daemonhost\|Daemonhost]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Dawnstrider\|Dawnstrider]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Death Dealer\|Death Dealer]]                           | \-          | <ul></ul>                                  |
-| [[Master Paths/Defender\|Defender]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Degenerate\|Degenerate]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Demagogue\|Demagogue]]                                 | \-          | <ul></ul>                                  |
-| [[Master Paths/Demonologist\|Demonologist]]                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Dervish\|Dervish]]                                     | \-          | <ul></ul>                                  |
-| [[Master Paths/Destroyer\|Destroyer]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Devastator\|Devastator]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Diabolist\|Diabolist]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Diplomat\|Diplomat]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Disciple of Old Man Cat\|Disciple of Old Man Cat]]     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Diviner\|Diviner]]                                     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Doppelganger\|Doppelganger]]                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Dragonslayer\|Dragonslayer]]                           | \-          | <ul></ul>                                  |
-| [[Master Paths/Dread Forester\|Dread Forester]]                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Dreadnaught\|Dreadnaught]]                             | \-          | <ul></ul>                                  |
-| [[Master Paths/Dualist\|Dualist]]                                     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Duelist\|Duelist]]                                     | \-          | <ul></ul>                                  |
-| [[Master Paths/Dust Walker\|Dust Walker]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Enchanter\|Enchanter]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Engineer\|Engineer]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Engorged Brute\|Engorged Brute]]                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Entropist\|Entropist]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Envoy of the Great Mother\|Envoy of the Great Mother]] | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Eternal\|Eternal]]                                     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Eternal Guardian\|Eternal Guardian]]                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Exalted Gardener\|Exalted Gardener]]                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Executioner\|Executioner]]                             | \-          | <ul></ul>                                  |
-| [[Master Paths/Exorcist\|Exorcist]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Explorer\|Explorer]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Fae Scourge\|Fae Scourge]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Fencer\|Fencer]]                                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Firebrand\|Firebrand]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Forgeborn\|Forgeborn]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Forgehammer\|Forgehammer]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Geomancer\|Geomancer]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Ghostrider\|Ghostrider]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Gladiator\|Gladiator]]                                 | \-          | <ul></ul>                                  |
-| [[Master Paths/Gorger\|Gorger]]                                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Graven\|Graven]]                                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Greater Skinchanger\|Greater Skinchanger]]             | \-          | <ul></ul>                                  |
-| [[Master Paths/Gunslinger\|Gunslinger]]                               | \-          | <ul></ul>                                  |
-| [[Master Paths/Halberdier\|Halberdier]]                               | \-          | <ul></ul>                                  |
-| [[Master Paths/Harbinger\|Harbinger]]                                 | \-          | <ul></ul>                                  |
-| [[Master Paths/Healer\|Healer]]                                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Hexer\|Hexer]]                                         | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Horse Archer\|Horse Archer]]                           | \-          | <ul></ul>                                  |
-| [[Master Paths/Hydromancer\|Hydromancer]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Illusionist\|Illusionist]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Indistinct\|Indistinct]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Inevitable\|Inevitable]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Infiltrator\|Infiltrator]]                             | \-          | <ul></ul>                                  |
-| [[Master Paths/Inquisitor\|Inquisitor]]                               | \-          | <ul></ul>                                  |
-| [[Master Paths/Invoker\|Invoker]]                                     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Jack-Of-All-Trades\|Jack-Of-All-Trades]]               | \-          | <ul></ul>                                  |
-| [[Master Paths/Keeper of the Flame\|Keeper of the Flame]]             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Legalist\|Legalist]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Librarian\|Librarian]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Machinist\|Machinist]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Mage Knight\|Mage Knight]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Mage of the Tower\|Mage of the Tower]]                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Mageblade\|Mageblade]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Magnet\|Magnet]]                                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Magus\|Magus]]                                         | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Marauder\|Marauder]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Martial Artist\|Martial Artist]]                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Medium\|Medium]]                                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Metallurgist\|Metallurgist]]                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Mind Bender\|Mind Bender]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Mindwitch\|Mindwitch]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Miracle Worker\|Miracle Worker]]                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Monster Hunter\|Monster Hunter]]                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Morph\|Morph]]                                         | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Morrigan\|Morrigan]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Mother of Monsters\|Mother of Monsters]]               | \-          | <ul></ul>                                  |
-| [[Master Paths/Multiplist\|Multiplist]]                               | \-          | <ul></ul>                                  |
-| [[Master Paths/Muse\|Muse]]                                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Musketeer\|Musketeer]]                                 | \-          | <ul></ul>                                  |
-| [[Master Paths/Myrmidon\|Myrmidon]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Mystic Navigator\|Mystic Navigator]]                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Namer\|Namer]]                                         | \-          | <ul><li>#Magic</li><li>#noSpells</li></ul> |
-| [[Master Paths/Necromancer\|Necromancer]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Nightstalker\|Nightstalker]]                           | \-          | <ul></ul>                                  |
-| [[Master Paths/Orb Master\|Orb Master]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Phantasmist\|Phantasmist]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Phaseshifter\|Phaseshifter]]                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Pit Fighter\|Pit Fighter]]                             | \-          | <ul></ul>                                  |
-| [[Master Paths/Plaguist\|Plaguist]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Poisoner\|Poisoner]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Psychokinetic\|Psychokinetic]]                         | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Puppetmaster\|Puppetmaster]]                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Puzzle\|Puzzle]]                                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Pyromancer\|Pyromancer]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Raven Rider\|Raven Rider]]                             | \-          | <ul></ul>                                  |
-| [[Master Paths/Razor Claw\|Razor Claw]]                               | \-          | <ul></ul>                                  |
-| [[Master Paths/Reanimator\|Reanimator]]                               | \-          | <ul></ul>                                  |
-| [[Master Paths/Reaver\|Reaver]]                                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Reviver\|Reviver]]                                     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Runesmith\|Runesmith]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Sapper\|Sapper]]                                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Savant\|Savant]]                                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Sea Captain\|Sea Captain]]                             | \-          | <ul></ul>                                  |
-| [[Master Paths/Seeker\|Seeker]]                                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Seer\|Seer]]                                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Sentinel\|Sentinel]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Servant of Shavra\|Servant of Shavra]]                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Shade\|Shade]]                                         | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Shadow Thief\|Shadow Thief]]                           | \-          | <ul></ul>                                  |
-| [[Master Paths/Shambler\|Shambler]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Shapeshifter\|Shapeshifter]]                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Sharpshooter\|Sharpshooter]]                           | \-          | <ul></ul>                                  |
-| [[Master Paths/Shroud\|Shroud]]                                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Sin Eater\|Sin Eater]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Skald\|Skald]]                                         | \-          | <ul></ul>                                  |
-| [[Master Paths/Skydancer\|Skydancer]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Slayer of the Dead\|Slayer of the Dead]]               | \-          | <ul></ul>                                  |
-| [[Master Paths/Sleuth\|Sleuth]]                                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Soul Eater\|Soul Eater]]                               | \-          | <ul></ul>                                  |
-| [[Master Paths/Soulbound\|Soulbound]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Spellmaster\|Spellmaster]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Spellsinger\|Spellsinger]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Spellsniper\|Spellsniper]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Spellweaver\|Spellweaver]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Stoneheart\|Stoneheart]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Stormbringer\|Stormbringer]]                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Survivor\|Survivor]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Taskmaster\|Taskmaster]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Technomancer\|Technomancer]]                           | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Templar\|Templar]]                                     | \-          | <ul></ul>                                  |
-| [[Master Paths/Tenebrist\|Tenebrist]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Thaumaturge\|Thaumaturge]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Theurge\|Theurge]]                                     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Thresher\|Thresher]]                                   | \-          | <ul></ul>                                  |
-| [[Master Paths/Tormentor\|Tormentor]]                                 | \-          | <ul></ul>                                  |
-| [[Master Paths/Transmuter\|Transmuter]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Traveler\|Traveler]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Tree Shepherd\|Tree Shepherd]]                         | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Trickster\|Trickster]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Troll Hunter\|Troll Hunter]]                           | \-          | <ul></ul>                                  |
-| [[Master Paths/Unbodied\|Unbodied]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Unchained\|Unchained]]                                 | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Verminist\|Verminist]]                                 | \-          | <ul></ul>                                  |
-| [[Master Paths/Void Thrall\|Void Thrall]]                             | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Warder\|Warder]]                                       | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Warmage\|Warmage]]                                     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Warrior Spirit\|Warrior Spirit]]                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Watcher\|Watcher]]                                     | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Wavebender\|Wavebender]]                               | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Weapon Master\|Weapon Master]]                         | \-          | <ul></ul>                                  |
-| [[Master Paths/Witch Hunter\|Witch Hunter]]                           | \-          | <ul></ul>                                  |
-| [[Master Paths/Woodwose\|Woodwose]]                                   | \-          | <ul><li>#Magic</li></ul>                   |
-| [[Master Paths/Worm Rider\|Worm Rider]]                               | \-          | <ul></ul>                                  |
-| [[Master Paths/Zealot\|Zealot]]                                       | \-          | <ul></ul>                                  |
-| [[Master Paths/Zephyr\|Zephyr]]                                       | \-          | <ul><li>#Magic</li></ul>                   |
+| File                                                                     | Description                                                                                                                         | Tags                                         |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [[Master Paths/Abjurer\|Abjurer]]                                     | Protection. Defense bonus when casting. Boon/bane to resist attacks.                                                                | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Acrobat\|Acrobat]]                                     | Mobility path. Ignore difficult terrain, move through creatures, half damage falls, move and attack on fast turns.                  | <ul></ul>                                    |
+| [[Master Paths/Aeromancer\|Aeromancer]]                               | Air. Fly/move when casting air spells, perma fly.                                                                                   | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Agonist\|Agonist]]                                     | Gain extra boons when taking damage and gaining afflictions. Your appearance becomes monstrous.                                     | <ul></ul>                                    |
+| [[Master Paths/Alchemist\|Alchemist]]                                 | Alchemy. Pet path. Gain a homunculus. Pet can deliver spells and enhance your senses.                                               | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Alienist\|Alienist]]                                   | Madness. Improved insanity limits, gain useful mutation, grant insanity to others.                                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Anchorite\|Anchorite]]                                 | Any tradition. Withdraw from world to gain epiphenies. Use epiphenies to gain boons or cast free spells.                            | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Annihilator\|Annihilator]]                             | Destruction. Take extra damage from destruction spells to deal more damage. Gain a damage aura.                                     | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Anointed\|Anointed]]                                   | Theurgy. Sacrifice theurgy spells to grant boons/banes.                                                                             | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Apocalyptist\|Apocalyptist]]                           | Forbidden. Gain fear effect, destructive aura when casting.                                                                         | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Arcanist\|Arcanist]]                                   | Arcana. Trade castings, regain castings, trigger cast.                                                                              | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Ardent\|Ardent]]                                       | Telekinesis. When Focused, gain extra damage and damage reduction.                                                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Astromancer\|Astromancer]]                             | Celestial. Gain light aura, deal extra damage, blind others, boon/bane for celestial.                                               | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Avenger\|Avenger]]                                     | Mark someone to debuff them and buff yourself vs them.                                                                              | <ul></ul>                                    |
+| [[Master Paths/Bard\|Bard]]                                           | Song. Gain lots of knowledge, trigger song, charm and impair.                                                                       | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Beast\|Beast]]                                         | Primal. Beast Within becomes permanent. Become true beast.                                                                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Beastmaster\|Beastmaster]]                             | Primal. Pet path. Bonuses when casting Beast Within. Extra stuff when befriending animals.                                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Beguiler\|Beguiler]]                                   | Fey. Charm others, and then impair them, compel them, or be invisible to them.                                                      | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Blackguard\|Blackguard]]                               | Gain corruption. Steal souls for permanent bonus to health.                                                                         | <ul></ul>                                    |
+| [[Master Paths/Blade\|Blade]]                                         | Small weapons master. Cause bleeding wounds. trigger action attack.                                                                 | <ul></ul>                                    |
+| [[Master Paths/Blighter\|Blighter]]                                   | Blight spell. Damage the land to gain additional castings of other spells.                                                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Blood Magus\|Blood Magus]]                             | Necromancy. Take damage to empower Necromancy spells. Heal by killing with Necromancy spells.                                       | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Bone Collector\|Bone Collector]]                       | Necromancy. Pet path. Create animated skeletons that can explode for area damage.                                                   | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Brain in a Jar\|Brain in a Jar]]                       | Any tradition. Become a floating disembodied brain who can manipulate stuff telekinetically                                         | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Brute\|Brute]]                                         | Massive health bonus (highest in the game). Boons to strength rolls. Add strength to weapon damage.                                 | <ul></ul>                                    |
+| [[Master Paths/Builder\|Builder]]                                     | Conjuration. Sacrifice Conjuration spells to create blocks to build various things like minecraft.                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Cat Sith\|Cat Sith]]                                   | You can transform into a size 1 or 2 cat                                                                                            | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Catastrophist\|Catastrophist]]                         | Any tradition. When casting spells, unleash powerful & unpredictable AoE effects - affects both allies and enemies!                 | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Cavalier\|Cavalier]]                                   | Mounted combat. Improve rider and mount while riding or charging.                                                                   | <ul></ul>                                    |
+| [[Master Paths/Cenobite\|Cenobite]]                                   | Soul. Reduce corruption. Immune to lots of afflictions. Classic "enlightened monk" theme.                                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Champion\|Champion]]                                   | Gain boons and impose banes. Avoid incapacitation, heal and keep fighting.                                                          | <ul></ul>                                    |
+| [[Master Paths/Chaplain\|Chaplain]]                                   | Chant to grant benefits to allies. Heal others.                                                                                     | <ul></ul>                                    |
+| [[Master Paths/Chronomancer\|Chronomancer]]                           | Time. Movement abilities, reroll challenge rolls.                                                                                   | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Chrononaut\|Chrononaut]]                               | Time. Movement abilities, reroll challenge rolls.                                                                                   | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Conjurer\|Conjurer]]                                   | Conjuration. Pet path. Create tiny monsters. Buff monsters you summon.                                                              | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Conqueror\|Conqueror]]                                 | Grant movement and attacks, boons when you succeed.                                                                                 | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Corsair\|Corsair]]                                     | Agility based swift weapon fighter. Grants bonuses/extra attack when using combat options.                                          | <ul></ul>                                    |
+| [[Master Paths/Cryomancer\|Cryomancer]]                               | Water. Ice magic mastery. Half damage cold. Movement. Damage boost.                                                                 | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Daemonhost\|Daemonhost]]                               | Invocation. Gain extra benefits when using invocation spells.                                                                       | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Dawnstrider\|Dawnstrider]]                             | Celestial. Gain true sight. Improved celestial damage. Teleport in light.                                                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Death Dealer\|Death Dealer]]                           | Free attacks when you kill. Autokill weak enemies.                                                                                  | <ul><li>#REBALANCED</li></ul>                |
+| [[Master Paths/Defender\|Defender]]                                   | Debuff enemies, hit back when hit.                                                                                                  | <ul></ul>                                    |
+| [[Master Paths/Degenerate\|Degenerate]]                               | Forbidden. Gain corruption to regain castings. Improved forbidden spells.                                                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Demagogue\|Demagogue]]                                 | Become a cult leader. Cult members will die for you and form mobs to hunt down your enemies.                                        | <ul></ul>                                    |
+| [[Master Paths/Demonologist\|Demonologist]]                           | Demonology. Become possessed, immune to horrifying trait. Compell demons. Huge health bonus at level 7.                             | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Dervish\|Dervish]]                                     | Two weapon fighting path. Wield bigger weapons, do more damage                                                                      | <ul></ul>                                    |
+| [[Master Paths/Destroyer\|Destroyer]]                                 | Destruction. Pass damage from casting to others, reroll damage dice.                                                                | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Devastator\|Devastator]]                               | Destruction. Pass damage from casting to others, reroll damage dice.                                                                | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Diabolist\|Diabolist]]                                 | Enchantment, Fire, Illusion. Extra damage per corruption point. Grant your corruption to others.                                    | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Diplomat\|Diplomat]]                                   | Enchantment, Fire, Illusion. Extra damage per corruption point. Grant your corruption to others.                                    | <ul></ul>                                    |
+| [[Master Paths/Disciple of Old Man Cat\|Disciple of Old Man Cat]]     | Any Tradition. Gain 9 lives. Land on feet. movement stuff. Basically become like a cat.                                             | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Diviner\|Diviner]]                                     | Divination. Boons, pre-rolled dice to swap out.                                                                                     | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Doppelganger\|Doppelganger]]                           | Telepathy. Steal thoughts. Gain mulitple identities that you can swap out. Prerequisite: Changeling                                 | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Dragonslayer\|Dragonslayer]]                           | Climb/move big monsters, immune frightened, half damage dragon attacks. Boons/bonues vs dragons/drakes.                             | <ul></ul>                                    |
+| [[Master Paths/Dread Forester\|Dread Forester]]                       | Nature. Create temporary forests. Strike from tree locations, obsucre areas, heal near trees.                                       | <ul></ul>                                    |
+| [[Master Paths/Dreadnaught\|Dreadnaught]]                             | Heavy armor master. bonus to defense, halve damage.                                                                                 | <ul></ul>                                    |
+| [[Master Paths/Dualist\|Dualist]]                                     | Alchemist. Gain an alter ego. Dr. Jekyll and Mr. Hyde path.                                                                         | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Duelist\|Duelist]]                                     | Challenge someone to a duel to impose banes, free attack, extra damage.                                                             | <ul></ul>                                    |
+| [[Master Paths/Dust Walker\|Dust Walker]]                             | Air, Earth. Create dust storms, gain benefits based around dust. Can impair, blind others.                                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Enchanter\|Enchanter]]                                 | Enchantment. Remove afflictions, erase memory, extend duration.                                                                     | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Engineer\|Engineer]]                                   | Pet path. Gain a mechanical pet that you can eventually ride in like a mech.                                                        | <ul></ul>                                    |
+| [[Master Paths/Engorged Brute\|Engorged Brute]]                       | Lots of health. Gain tunneling talents, a heal, and movement attack.                                                                | <ul></ul>                                    |
+| [[Master Paths/Entropist\|Entropist]]                                 | Death. Boons/banes vs injured creatures. Aura grants extra damage.                                                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Envoy of the Great Mother\|Envoy of the Great Mother]] | Earth, Metal, Shadow. Summon dead babies. Summon rat biters. Force extreme hunger.  Become monstrous.                               | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Eternal\|Eternal]]                                     | Soul. Become immortal. Remove afflictions.                                                                                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Eternal Guardian\|Eternal Guardian]]                   | You take on a ward and gain benefits for defending and protecting them.                                                             | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Exalted Gardener\|Exalted Gardener]]                   | Nature. Grow seeds in people to force them to become plants. Dissolve people into the ground to feed nature.                        | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Executioner\|Executioner]]                             | Autokill when they're at half health; maximize damage.                                                                              | <ul></ul>                                    |
+| [[Master Paths/Exorcist\|Exorcist]]                                   | Learn unique spell; remove afflictions, possession. One of the few ways in the game to remove possession.                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Explorer\|Explorer]]                                   | Remove afflictions, heal group, reroll low rolls.                                                                                   | <ul></ul>                                    |
+| [[Master Paths/Fae Scourge\|Fae Scourge]]                             | Any tradition. Gain fae knowledge, imbue your magic with iron essence. Can bypass spell defense.                                    | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Fencer\|Fencer]]                                       | Swift weapon fighter. Boons and extra damage, can trigger attack someone who misses you.                                            | <ul></ul>                                    |
+| [[Master Paths/Firebrand\|Firebrand]]                                 | Fire. Gain a fire aura.                                                                                                             | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Forgeborn\|Forgeborn]]                                 | Metal. Turn your limbs into weapons.                                                                                                | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Forgehammer\|Forgehammer]]                             | Rune. Grant special "seals" to weapons/armor to upgrade them.  Regain spells by breaking seals.                                     | <ul><li>#Magic</li><li>#REBALANCED</li></ul> |
+| [[Master Paths/Geomancer\|Geomancer]]                                 | Earth. Damage reduction, move through solid stone.                                                                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Ghostrider\|Ghostrider]]                               | Spiritualism. Gain benefits when you cast a spiritualism spell on yourself.                                                         | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Gladiator\|Gladiator]]                                 | Cause impairment and extra damage vs afflicted.                                                                                     | <ul></ul>                                    |
+| [[Master Paths/Gorger\|Gorger]]                                       | Eat a lot of food, the more food you eat the slower you are. Spend the excess energy to cast extra spells.                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Graven\|Graven]]                                       | Rune. Gain tattoos all over your body. Trigger rune spells. Other benefits when under Rune effects.                                 | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Greater Skinchanger\|Greater Skinchanger]]             | Communicate with beasts, transform into animal, improved natural damage. Prerequisite: Skin Changer Curse                           | <ul></ul>                                    |
+| [[Master Paths/Gunslinger\|Gunslinger]]                               | Get a new gun, bonuses when using it. Fast reload.                                                                                  | <ul></ul>                                    |
+| [[Master Paths/Halberdier\|Halberdier]]                               | Pole-arm/staff fighter. Trigger to impose banes or gain extra attack.                                                               | <ul></ul>                                    |
+| [[Master Paths/Harbinger\|Harbinger]]                                 | Create a ghost image of yourself to attack with. Avoid attacks by teleporting away.                                                 | <ul></ul>                                    |
+| [[Master Paths/Healer\|Healer]]                                       | Life. Life spells are more potent.                                                                                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Hexer\|Hexer]]                                         | Curse. Extra options when casting curse spells.                                                                                     | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Horse Archer\|Horse Archer]]                           | Improve your archery and your mount when riding and using a bow.                                                                    | <ul></ul>                                    |
+| [[Master Paths/Hydromancer\|Hydromancer]]                             | Water. Gain some movement utility, transform into water with extra benefits.                                                        | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Illusionist\|Illusionist]]                             | Illusion. Banes on illusions; illusiry duplicate.                                                                                   | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Indistinct\|Indistinct]]                               | Alteration. Trigger cast alteration spells. Become faceless.                                                                        | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Inevitable\|Inevitable]]                               | Order. Turn die rolls into 10; gain aura.                                                                                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Infiltrator\|Infiltrator]]                             | Can hide in plain sight, people easily forget you were there.                                                                       | <ul></ul>                                    |
+| [[Master Paths/Inquisitor\|Inquisitor]]                               | Torture defenseless creatures to gain information. see through lies.                                                                | <ul></ul>                                    |
+| [[Master Paths/Invoker\|Invoker]]                                     | Invocation. Gain benefits around invocation tradition, don't need talismans to cast invocation spells.                              | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Jack-Of-All-Trades\|Jack-Of-All-Trades]]               | Gain points, spend points to gain boons, spells. Gain temp prof. Alter boon/bane dice. +1 floating attribute at 10.                 | <ul></ul>                                    |
+| [[Master Paths/Keeper of the Flame\|Keeper of the Flame]]             | Fire Spell. Pet Path. Throw mini fireballs, use fire to regain fire spells, and create compelled fire creatures.                    | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Legalist\|Legalist]]                                   | Order. Stop aging. Use order spells to heal. Immune to poison. Can return to life after death.                                      | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Librarian\|Librarian]]                                 | Any tradition. Gain a library with lots of information and extra spells.                                                            | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Machinist\|Machinist]]                                 | Technomancy. Pet path. Gain three small/medium constructs; buff by sacrificing technomancy spells.                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Mage Knight\|Mage Knight]]                             | Battle. Cast and attack on the same turn.                                                                                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Mage of the Tower\|Mage of the Tower]]                 | Any tradition. Gain access to tower knowledge, defense against spells. Good path for Caercas adventures.                            | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Mageblade\|Mageblade]]                                 | Battle. Create a magic sword that can explode when thrown.                                                                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Magnet\|Magnet]]                                       | Metal. Move metals around battlefield. Gain boons, damage, and impose banes on metal weapons.                                       | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Magus\|Magus]]                                         | Any Tradition. Gain a staff that you can fight and cast with. Bonuses with staff.                                                   | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Marauder\|Marauder]]                                   | Charging badass. Get stronger when injured.                                                                                         | <ul></ul>                                    |
+| [[Master Paths/Martial Artist\|Martial Artist]]                       | Lots of unarmed talents to choose from. Flexible path. See Unarmed Guide                                                            | <ul></ul>                                    |
+| [[Master Paths/Medium\|Medium]]                                       | Spiritualism. Move targets around. Reroll dice.                                                                                     | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Metallurgist\|Metallurgist]]                           | Metal. Gain bonus to defense, shatter other's weapons.                                                                              | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Mind Bender\|Mind Bender]]                             | Telepathy. Gain a bonus to attacks, damage, and defense vs a target.                                                                | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Mindwitch\|Mindwitch]]                                 | Telepathy. Implant thought worms to mess with their mind.                                                                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Miracle Worker\|Miracle Worker]]                       | Look like a god, remove afflictions, speak to anyone                                                                                | <ul></ul>                                    |
+| [[Master Paths/Monster Hunter\|Monster Hunter]]                       | Immune to frightening. Bonuses and talents vs monsters.                                                                             | <ul></ul>                                    |
+| [[Master Paths/Morph\|Morph]]                                         | Transformation. Blend with background. Change appearance when attacked and attack when change appearance.                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Morrigan\|Morrigan]]                                   | Pet path. Gain three crows. Cause frightened, deal extra damage when crows are near. Turn into crow swarm.                          | <ul></ul>                                    |
+| [[Master Paths/Mother of Monsters\|Mother of Monsters]]               | Give birth to monsters that are under your control. Start as small monsters and can 'grow up'.                                      | <ul></ul>                                    |
+| [[Master Paths/Multiplist\|Multiplist]]                               | Create multiple copies of yourself. Over time, they decay and become more warped and insane.                                        | <ul></ul>                                    |
+| [[Master Paths/Muse\|Muse]]                                           | Any tradition. Gain aura which grants boons to all allies nearby.                                                                   | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Musketeer\|Musketeer]]                                 | Bonuses to firearms and disarming others. Can reload on a triggered action. Can cause impaired affliction.                          | <ul></ul>                                    |
+| [[Master Paths/Myrmidon\|Myrmidon]]                                   | Shield master. Force movement, better blocking, extra damage.                                                                       | <ul></ul>                                    |
+| [[Master Paths/Mystic Navigator\|Mystic Navigator]]                   | Any tradition. Improved vision, faster sailing, can get answers from the sea.                                                       | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Namer\|Namer]]                                         | Pet Path. Expend castings to summon powerful monsters.                                                                              | <ul><li>#Magic</li><li>#noSpells</li></ul>   |
+| [[Master Paths/Necromancer\|Necromancer]]                             | Necromancy. Pet path. Force undead to obey you. Gain extra undead pets.                                                             | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Nightstalker\|Nightstalker]]                           | Shadow utility path. Bend shadows, move faster in shadows, automatically hidden.                                                    | <ul></ul>                                    |
+| [[Master Paths/Orb Master\|Orb Master]]                               | Any Tradition. Use an orb as an implement to manipulate the stats of any spell you cast.                                            | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Phantasmist\|Phantasmist]]                             | Illusion. Illusion spells are more potent, hurt more.                                                                               | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Phaseshifter\|Phaseshifter]]                           | Teleportation. Gain the ability to phase through objects, including enemy attacks.                                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Pit Fighter\|Pit Fighter]]                             | Accept extra damage to deal extra damage. Can impair others. Can attack on triggered when healed.                                   | <ul></ul>                                    |
+| [[Master Paths/Plaguist\|Plaguist]]                                   | Curse. Reroll curse spells if miss; regain curse castings.                                                                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Poisoner\|Poisoner]]                                   | Make your own poisons; deal extra damage with them. Poison by touch.                                                                | <ul></ul>                                    |
+| [[Master Paths/Psychokinetic\|Psychokinetic]]                         | Telekenesis. Gain a bonus to defense and take half damage.                                                                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Puppetmaster\|Puppetmaster]]                           | Enchantment. Pet Path. Force others to do your bidding.                                                                             | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Puzzle\|Puzzle]]                                       | Harvest body parts from incapacitated enemies in exchange for powerful temporary bonuses.                                           | <ul></ul>                                    |
+| [[Master Paths/Pyromancer\|Pyromancer]]                               | Fire. Half damage from fire, make targets catch fire. Severely underpowered path. Use with caution.                                 | <ul><li>#Magic</li><li>#REBALANCED</li></ul> |
+| [[Master Paths/Raven Rider\|Raven Rider]]                             | Gain a bonded Giant Raven Mount                                                                                                     | <ul></ul>                                    |
+| [[Master Paths/Razor Claw\|Razor Claw]]                               | Gain claws with extra damage, extra attacks, and can cut through metal.                                                             | <ul></ul>                                    |
+| [[Master Paths/Reanimator\|Reanimator]]                               | Pet Path. Create compelled animated corpses and animated beasts who can explode.                                                    | <ul></ul>                                    |
+| [[Master Paths/Reaver\|Reaver]]                                       | High health. Immune to frightened. Free movement. Extra damage while injured.                                                       | <ul></ul>                                    |
+| [[Master Paths/Reviver\|Reviver]]                                     | Life. Heal and damage undead at the same time. Send souls to hell or return them to life.                                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Runesmith\|Runesmith]]                                 | Rune. Make temporary enchanted weapons and armor.                                                                                   | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Sapper\|Sapper]]                                       | Bomb maker with several bomb options. Trap disabler.                                                                                | <ul></ul>                                    |
+| [[Master Paths/Savant\|Savant]]                                       | Any tradition x2 (no power increase). Boon/bane for two traditions! Gain a total of four spells, potentially highest # of castings. | <ul></ul>                                    |
+| [[Master Paths/Sea Captain\|Sea Captain]]                             | Improve your ships and crew. Grant boons to crew for attacks, ship related activities, and vs frightened.                           | <ul></ul>                                    |
+| [[Master Paths/Seeker\|Seeker]]                                       | Psychic. Extra benefits while mind is focused. Can turn failure into success.                                                       | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Seer\|Seer]]                                           | Divination magic; buff/debuff and prevent incapacitation                                                                            | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Sentinel\|Sentinel]]                                   | Perception master. Affliction immunities. Other benefits.                                                                           | <ul></ul>                                    |
+| [[Master Paths/Servant of Shavra\|Servant of Shavra]]                 | Celestial, Order, Protection. Improved fangs, defense, invisible fire, compell attack.                                              | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Shade\|Shade]]                                         | Shadow. Force shadows to appear and follow you when you cast shadow magic.                                                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Shadow Thief\|Shadow Thief]]                           | Shadow. Steal people's shadows -  gain their knowledge and get benefits to fight them. Track them anywhere.                         | <ul></ul>                                    |
+| [[Master Paths/Shambler\|Shambler]]                                   | Nature. Become a shambling plant monster. Release pollen, rapidly grow plants, shamble.                                             | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Shapeshifter\|Shapeshifter]]                           | Transformation. Gain improved stats when transforming. Trigger to transform.                                                        | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Sharpshooter\|Sharpshooter]]                           | Ranged weapon master. Can reroll.                                                                                                   | <ul></ul>                                    |
+| [[Master Paths/Shroud\|Shroud]]                                       | Death. Frightening. Death aura that kills those close to death. Heal when killing.                                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Sin Eater\|Sin Eater]]                                 | Any tradition. Sense corruption. Eat sins to gain benefits. One of the few ways in the game to reduce corruption.                   | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Skald\|Skald]]                                         | Gain various talents to improve and Inspire allies                                                                                  | <ul></ul>                                    |
+| [[Master Paths/Skydancer\|Skydancer]]                                 | Air. Fly, gain boons and other benefits while flying.                                                                               | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Slayer of the Dead\|Slayer of the Dead]]               | Gain benefits to fighting undead. Immune to frightened. Bonus to defense                                                            | <ul></ul>                                    |
+| [[Master Paths/Sleuth\|Sleuth]]                                       | Learn abilities about enemies, temp improve defense score, other benefits.                                                          | <ul></ul>                                    |
+| [[Master Paths/Soul Eater\|Soul Eater]]                               | Eat the souls of killed enemies to get soul points, which you use to cast spells, extra damage or get extra actions                 | <ul></ul>                                    |
+| [[Master Paths/Soulbound\|Soulbound]]                                 | Any tradition. Basically become a lich. Tie your soul to an object, become immortal, and possess others.                            | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Spellmaster\|Spellmaster]]                             | Arcana. Turn your magic d20 rolls into 15. Gain more rank 0 arcana spells, swap out castings, and extend duration.                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Spellsinger\|Spellsinger]]                             | Song. No implement, extend distance to long range, remove concentration.                                                            | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Spellsniper\|Spellsniper]]                             | Any tradition. Become a wand master. Gain boons to cast, and do not lose a casting when you miss.                                   | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Spellweaver\|Spellweaver]]                             | Any tradition. Create magic ammunition that can store spells and release on target. Anyone can use ammo.                            | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Stoneheart\|Stoneheart]]                               | Earth. Half damage. Extra damage. Bonus defense.                                                                                    | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Stormbringer\|Stormbringer]]                           | Storm. Fly when casting. Gain benefits when hit by storm/lightning (bonus health, spell boon/bane).                                 | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Survivor\|Survivor]]                                   | Martial arts path. Improved unarmed damage, lots of anti death utility, can remove afflictions.                                     | <ul></ul>                                    |
+| [[Master Paths/Taskmaster\|Taskmaster]]                               | Any tradition. Gain more castings of utility spells, trade out castings, extend duration.                                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Technomancer\|Technomancer]]                           | Technomancy. Pet path. Make enchanted objects, animate objects and control them.                                                    | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Templar\|Templar]]                                     | Gain unique spell. Bless an area and gain combat benefits, immobilize inside it.                                                    | <ul></ul>                                    |
+| [[Master Paths/Tenebrist\|Tenebrist]]                                 | Shadow. Become a shadow and gain benefits associated with shadows.                                                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Thaumaturge\|Thaumaturge]]                             | Chaos. Reroll dice, use castings of other spells to cast.                                                                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Theurge\|Theurge]]                                     | Theurgy. Heal self, gain a fear/stun aura.                                                                                          | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Thresher\|Thresher]]                                   | Flail master. Wield two flails, gain boons on attack options.                                                                       | <ul></ul>                                    |
+| [[Master Paths/Tormentor\|Tormentor]]                                 | Grant fightened, insanity to others. Benefits vs frightened creatures. Immune to frightened.                                        | <ul></ul>                                    |
+| [[Master Paths/Transmuter\|Transmuter]]                               | Alteration. Change personal attribute scores. One of two paths which grants attribute bonus at level 7 and 10.                      | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Traveler\|Traveler]]                                   | Teleportation. Teleport when attacked, extend range of teleportation, become obscured.                                              | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Tree Shepherd\|Tree Shepherd]]                         | Nature. Pet path. Transform into a plant. Gain an animated tree.                                                                    | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Trickster\|Trickster]]                                 | Fey. Impose banes, cause enemies to fall/take damage when they roll 0 or less.                                                      | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Troll Hunter\|Troll Hunter]]                           | Gain movement, boons, and extra damage to big enemies and trolls.                                                                   | <ul></ul>                                    |
+| [[Master Paths/Unbodied\|Unbodied]]                                   | Any tradition. Become a spirit bound to a container. Cannot physically interact with anything. Possess enemies.                     | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Unchained\|Unchained]]                                 | Chaos. Always roll chaos dice. Gain a damaing aura. Gain a chaotic blast that can instakill creatures and objects.                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Void Thrall\|Void Thrall]]                             | Demonology. One of the few ways in the game to get 6 power by level 10. Damage others to cast.                                      | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Warder\|Warder]]                                       | Protection. Create a ward over another person to protect them from attacks and damage.                                              | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Warmage\|Warmage]]                                     | Any tradition. Gain tactics to reduce or increase damage.                                                                           | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Warrior Spirit\|Warrior Spirit]]                       | Improve your combat ability with insanity                                                                                           | <ul></ul>                                    |
+| [[Master Paths/Watcher\|Watcher]]                                     | Divination. Protect yourself against attacks. Resolve two actions and pick the best outcome.                                        | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Wavebender\|Wavebender]]                               | Water. Swim, resist fire, move more, force movement, extra damage.                                                                  | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Weapon Master\|Weapon Master]]                         | Pick any weapon, gain boons, extra damage, defense when using it. Change it up every day.                                           | <ul></ul>                                    |
+| [[Master Paths/Witch Hunter\|Witch Hunter]]                           | Non-magic path that interrupts and cancels magic. Deals extra damage to those with power scores.                                    | <ul></ul>                                    |
+| [[Master Paths/Woodwose\|Woodwose]]                                   | Nature. Become a tree. Bonuses when using nature spells. Become invisible in nature.                                                | <ul><li>#Magic</li></ul>                     |
+| [[Master Paths/Worm Rider\|Worm Rider]]                               | Gain a Stone Worm as a mount, gain talents based on it. You're still not muad'dib.                                                  | <ul></ul>                                    |
+| [[Master Paths/Zealot\|Zealot]]                                       | Reroll dice. Boons/extra damage. Violent madness.                                                                                   | <ul></ul>                                    |
+| [[Master Paths/Zephyr\|Zephyr]]                                       | Aeromancy. High mobility by turning into a zephyr. Grant banes against ranged attacks.                                              | <ul><li>#Magic</li></ul>                     |
 
 { .block-language-dataview}

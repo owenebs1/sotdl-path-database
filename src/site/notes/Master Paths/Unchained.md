@@ -8,7 +8,7 @@ The spellcasters who call themselves the unchained are able to ignore the laws o
 **Characteristics** Health +2, Power +1
 **Languages and Professions** You can speak another language or add a profession to your list of professions.
 **Magic** You discover the Chaos tradition or you learn one Chaos spell.
-**Chaotic Caster** You must roll a chaos die (a d6) whenever you make an attack roll or challenge roll. You apply an odd number rolled as a penalty or an even number as a bonus to your roll. If you cast the [Chaos Boon](https://sotdl-database.vercel.app/spells/chaos/chaos-boon/) spell, you roll an additional chaos die.
+**Chaotic Caster** You must roll a chaos die (a d6) whenever you make an attack roll or challenge roll. You apply an odd number rolled as a penalty or an even number as a bonus to your roll. If you cast the [Chaos Boon](https://sotdl-spell-database.vercel.app/spells/chaos/chaos-boon/) spell, you roll an additional chaos die.
 **Crackling Chaos** When you cast a Chaos spell, residual energy swirls around your body until the end of the round.
 Any creature that takes a turn while within 1 yard of you or that moves to within 1 yard of you must get a success on an Agility challenge roll or take damage equal to 1d6 +your Power score.
 # Level 10

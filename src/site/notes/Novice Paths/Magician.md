@@ -27,7 +27,7 @@ The possibilities magic offers also present many perils. More than one magician 
 **Magic:** You discover one tradition.
 	Then, make three choices. For each choice, you either discover another tradition or learn a spell from a tradition you have discovered.
 **Cantrip:** Whenever you discover a tradition, you learn an extra rank 0 spell from that tradition.
-**Sense Magic:** You learn the [Sense Magic](https://sotdl-database.vercel.app/spells/path-specific/sense-magic/) spell described here.
+**Sense Magic:** You learn the [Sense Magic](https://sotdl-spell-database.vercel.app/spells/path-specific/sense-magic/) spell described here.
 # Level 2 Magician
 **Characteristics:** Health +2
 **Magic:** Make two choices. For each choice, you either discover a new tradition or learn a spell from a tradition you have discovered.

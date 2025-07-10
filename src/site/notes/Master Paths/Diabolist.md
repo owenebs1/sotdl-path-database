@@ -15,5 +15,5 @@ You can use this talent a number of times equal to your Power. You replenish you
 **The Devil’s Due** If your Corruption score is 9 or higher when you become incapacitated, you die instantly, and the devils spirit your soul to Hell.
 # Level 10
 **Characteristics** Health +3, +1 Corruption
-**Magic** You learn the [Brimstone Step](https://sotdl-database.vercel.app/spells/path-specific/brimstone-step/) spell.
+**Magic** You learn the [Brimstone Step](https://sotdl-spell-database.vercel.app/spells/path-specific/brimstone-step/) spell.
 **Power of Hell** When you cast a spell that deals damage, you may invoke the power of Hell. The spell deals 1d6 extra damage per point of Corruption you have. After you cast the spell, you gain 1 Corruption and become stunned until the end of the next round.

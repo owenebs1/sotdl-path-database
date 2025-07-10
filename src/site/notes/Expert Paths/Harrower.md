@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/expert-paths/harrower/","tags":["Magic"]}
+{"dg-publish":true,"permalink":"/expert-paths/harrower/","tags":["Magic","REBALANCED"]}
 ---
 
 The study of dark magic offers terrifying capabilities, but at the cost of one’s immortal soul. Each spell learned, each tradition discovered sends the student deeper and deeper into darkness until his or her body rebels and displays the hideous marks of darkness. For many, the risks outweigh the rewards, but for a few desperate people, the temptation proves too great to ignore.
@@ -22,7 +22,9 @@ Harrowers profit from the darkness blossoming in their being, and as they plumb 
 **Magic** You learn one spell.
 **Blackest Flames** You can use an action to hurl black flames from your hand at a creature or object within long range.
 Make an Intellect attack roll against the target’s Agility.
-On a success, the flames hit and deal 1d6 damage per point of your Power score. If the total of your roll is 20 or higher and beats the target number by 5, the target takes 1d6 extra damage per point of your Power score.
+On a success, the flames hit and deal 1d6 damage per point of your Power score. 
+You can use this talent a number times equal to half your group level.
+If the total of your roll is 20 or higher and beats the target number by 5, you regain one use of this talent.
 # Level 9
 **Characteristics** Health +2, Power +1
 **Magic** You learn one spell.

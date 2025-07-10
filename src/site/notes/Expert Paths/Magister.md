@@ -20,7 +20,7 @@ The Order of Magisters came into prominence a century ago in Lij. Although the c
 **Characteristics** Health +2, Power +1
 **Languages and Professions** You can speak another language or add a profession to your list of professions.
 **Magic** You discover a new tradition other than a dark magic tradition or you learn one spell other than a dark magic spell.
-**Magister’s Mantle** While you are conscious, not wearing armor, and not under the effect of the [Arcane Armor](https://sotdl-database.vercel.app/spells/arcana/arcane-armor/) spell from the Arcana tradition, a faint field of magic surrounds and protects you, granting you a +2 bonus to Defense. The field also blocks the effects of light breezes and normal precipitation, and keeps you comfortable in all but the most extreme temperatures.
+**Magister’s Mantle** While you are conscious, not wearing armor, and not under the effect of the [Arcane Armor](https://sotdl-spell-database.vercel.app/spells/arcana/arcane-armor/) spell from the Arcana tradition, a faint field of magic surrounds and protects you, granting you a +2 bonus to Defense. The field also blocks the effects of light breezes and normal precipitation, and keeps you comfortable in all but the most extreme temperatures.
 If you know the Arcane Armor spell, you can use a triggered action on your turn to expend a casting of that spell and increase the bonus to Defense from Magister’s Mantle to +5 for 1 minute.
 **Dark Magic Defense** When a creature attacks you with a spell from a dark magic tradition, you impose 1 bane on the attack roll and you make the challenge roll to resist the spell with 1 boon.
 # Level 6
