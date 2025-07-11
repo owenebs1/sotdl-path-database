@@ -2,6 +2,17 @@
 {"dg-publish":true,"permalink":"/ancestries/halfling/"}
 ---
 
+Halflings are happiest when relaxing in their tidy homes or sitting in the village pub, laughing with their friends over mugs of Belinda’s Finest Stout. The wider world seems large and dangerous, filled with people of low character and evil intent. Yet halflings do find their way into the most unexpected places, and when faced with peril, they overcome their misgivings and do what needs to be done.
+The reason? Luck. Halflings have all the luck in the world.
+**Small Humans:** Halflings look like small humans. Their appreciation for fine food shows in a heavy frame and a paunch that usually hangs over the belt. Halflings always dress their best, keep their clothes clean, comb their hair, and wash their skin.
+Halflings stand between 3 and 4 feet tall. Good eating and a fondness for drink can make them portly, and halflings can, as a result, weigh from 50 to 150 pounds.
+**Simple Life:** Halfling settlers entered the Empire’s lands about six centuries ago, crossing crossed the mountains from the west and settling in the foothills and plains.
+There they built small communities where they could grow crops and graze their flocks. Halflings made peace with the local lords and paid for the land with gold coins of unusual mint. The halflings had no objections to joining the Empire or paying taxes, provided halfling communities were free to see to their own affairs and protect their lands. Halflings have proven to be good neighbors, a gentle folk with great skill at farming and herding.
+Halflings have managed to stay clear from the Empire’s troubles, conflict rarely coming to their doorsteps. The orc uprising in the south, however, has cast a shadow over their lands, and gangs of rampaging orcs have attacked halfling towns and raided trade routes. Fearing worse troubles on the horizon, halflings have begun to pack up their families and belongings to begin again somewhere safer. Currently, the refugees are a trickle, but if they become a flood, famine is almost certain to follow in the Empire.
+**Pragmatic Courage:** Halflings understand how the world works better than most. They believe this life is but one of many, and they have embraced this truth in a way that makes them almost impervious to fear. Such fearlessness makes halflings suited to exploring dangerous places, since doubts and misgivings don’t get in the way of getting the job done. Being unmoved by fear does not mean halflings take ridiculous risks, but they don’t fret when they have to do a dangerous task.
+Without fear as a distraction, halflings can focus their minds on whatever goal they set for themselves. They are less likely to make critical mistakes and can usually catch themselves before a situation goes sideways. Others interpret this phenomenon as uncommon luck, favor from the gods, or something else. The halfling reputation for good luck leads some dark souls to keep halflings as lucky charms, and some twisted folk believe halfling luck lingers even after death.
+**Common Names:** Abigail, Alyse, Belinda, Caden, Cody, Davin, Ernest, Esme, Eugenia, Gertrude, Irving, Landen, Natille, Paxton, and Randy.
+
 Variant Options available in the Uncommon Courage PDF.
 ## Attributes
 **Strength:** 9 (-1)

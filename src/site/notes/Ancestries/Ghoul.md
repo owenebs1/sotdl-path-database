@@ -2,6 +2,21 @@
 {"dg-publish":true,"permalink":"/ancestries/ghoul/","tags":["powerfulAncestry","Monstrous","Template"]}
 ---
 
+The gods despise mortals who feed on their own and reward such despicable behavior with a terrible curse.
+The curse transforms people into wretched monsters debased by unholy hunger. Called ghouls, these vile souls haunt graveyards for easy pickings, digging up the dead to strip the rancid meat from the bones and gobble down reeking viscera crawling with maggots.
+Though their actions appall them, their hunger impels them, driving them to stuff their mouths with the most unthinkable fodder. Ghouls do take fresher fare where they can find it. The most corrupted stalk communities, snatching the old, young, and anyone else not nimble enough to escape their clutches.
+Despised and hunted, ghouls find enemies wherever they go.
+**Wrath of the Ancients:** The First People comprised many tribes, some peaceful, others violent, and a few debased, little better than wild, mad beasts. One tribe took to eating the flesh of their enemies, believing they would gain their strength and knowledge.
+Although disgusted by the act, the faeries did not interfere until they themselves became victims. After tribal warriors descended on a peaceful village of fey folk and feasted on the bodies of the dead, the Horned King laid a terrible curse on mankind. If man would act as scavengers then scavengers man would become.
+Henceforth, whenever humans and others like them ate their own kind, they would become ghouls, slaves to their unspeakable appetites.
+**Divine Terror:** Transforming into a ghoul wrecks a person’s mind and imparts an abiding fear of the gods whose wrath they have incurred. Ghouls become nervous when around religious symbols and icons lest their proximity to such signs bring even worse down on their heads. Ghouls do not willingly enter areas of holy ground.
+### Becoming a Ghoul
+Only living creatures not immune to the diseased affliction can become ghouls. Humans are the most common, but it’s possible for fauns, halflings, and dwarfs to suffer the curse. Characters with the Powerful Ancestry trait cannot become ghouls.
+If you belong to an ancestry capable of transforming into a ghoul and you consume the flesh from a creature, alive or dead, who shares your ancestry, you must roll a d6.
+On a 1, you become defenseless for 1d6 hours and then transform into a ghoul.
+On a 2–5, you suffer no ill effect.
+On a 6, you suffer no ill effect and you are not at risk of becoming a ghoul until after you complete a rest.
+Upon becoming a ghoul, you apply all of the following traits to your character.
 ## Attributes
 **Bonuses:** Agility +2, Intellect -2
 - - -

@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/ancestries/human/"}
 ---
 
+Determination, resourcefulness, and sheer numbers helped humanity rise from its humble, primitive origins to become the most widespread and numerous people in the world. Few places have escaped human expansion, and settlements exist in mountains and swamps, desolate wastes and verdant plains. Human civilization has defined the last thousand years of history and continues even as the shadow falls.
+**Many Variations:** Humans comprise many different ethnic groups. Skin tones can range from almost black to albino white, or green, blue, orange, pink, or something else. Some humans have patterned skin, stripes, thick body hair, or no hair at all. Humans also have many different shapes and sizes. They range from 3 to 7 feet tall and weigh from 50 to 500 pounds or more. Most humans live about seventy years.
+**Strength in Numbers:** Community plays a strong role in human civilization. People are stronger when they work together than when they work alone. The resulting tribalism has been a source of strength and a great asset in human expansion, but it has also been a source of conflict that erupts into violence between rival groups.
+**Diverse Natures:** Noble or crude, virtuous or wicked, courageous or craven, greedy or selfless—most humans fall somewhere between these extremes and behave in a way that looks after their interests and those of their loved ones.
+**Religious Inclinations:** Few humans question the gods’ existence, and many find their life’s meaning in worshiping one or more gods. In the Northern Reach, humans might belong to the Cult of the New God, follow the tenets of the Old Faith, or practice witchcraft.
+**Common Names:** Aengus, Agnes, Aine, Alice, Anselm, Beatrice, Breandan, Caitlin, Cormac, Ella, Fiona, Geoffrey, Giselle, Henry, Joan, John, Kane, Kiera, Margery, Richard, Roisin, Rordan, Saraid, Seamus, Walter, and Yvonne.
+
 Variant Options available in the Only Human PDF.
 ## Attributes
 **Strength:** 10 (0)

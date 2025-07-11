@@ -2,6 +2,18 @@
 {"dg-publish":true,"permalink":"/ancestries/molekin/"}
 ---
 
+Long ago, the molekin excavated their homes from the roots of the Firepeaks, a range of volcanic mountains that forms the western border of the Desolation. Most comfortable in the depths of the earth and scornful of others, they built an empire in the darkness and have ruled their dominion unmolested for eons.
+Yet now the dark times of the world have reached even the molekin. Monsters from below, troglodytes and others, have come boiling up from the deep places, bent on slaughter. With nowhere left to turn, the molekin have been forced to make their way to the surface until they can find new homes for themselves—which is no small challenge, since these creatures despise most other peoples.
+**Ugly Delvers:** By human standards, molekin are ugly, typically standing 3 feet tall with fleshy bodies that weigh around 130 pounds. Molekin have wide faces with overlarge noses and small, beady eyes, and pink, brown, or gray skin tufted with long white hair. Their hands end in curling claws, suitable for digging through earth and stone.
+Most wear leather clothing crafted from the skins of subterranean creatures.
+**Rule of the Strong:** Molekin society permits—even encourages—the strong to take from the weak.
+Molekin believe that power belongs to those who can hold on to it, and among themselves the most dominant enforce their will by brutally oppressing their inferiors. For many, this attitude also affects their dealings with outsiders. Some molekin believe themselves superior to other peoples and come off as incredibly arrogant in social situations.
+A few molekin are so accustomed to taking what they want that they pursue criminal professions in the world above, honing the talents they need for making off with food, water, coins, children, or other possessions they decide they want.
+**The Great Mother:** All molekin worship a dark god they call the Great Mother. Depictions show her to be an enormous, bloated mole reclining on the crushed bodies of her verminous offspring, the young suckling on her many rows of teats. Molekin believe they sprang from her cavernous womb, spilling into the world like a flood. Afterward, they dug into the earth in the expectation of returning to her, and now have spent generations delving deeper and deeper in hopes of finding the comforting moistness of their creator.
+Priests of the Great Mother have access to the Earth, Metal, and Shadow traditions.
+**Common Names:** Bol, Cacen, Derg, Fung, Gren, Heep, Kimp, Memn, Nerval, Picka, Slep, Teek, and Zoot.
+
+Variant Options available in the The Great Mother's Brood PDF.
 ## Attributes
 **Strength:** 11 (1)
 **Agility:** 9 (-1)

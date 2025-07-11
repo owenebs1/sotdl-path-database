@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/ancestries/dwarf/"}
 ---
 
+Dwarfs live under the mountains in elaborate subterranean cities. From them, they launch expeditions deep into the earth to pry gold and silver from the unyielding rock. They hoard their treasures in great vaults and view other peoples with distrust, suspecting them all of coveting their wealth. The dwarfs have few friends and gain little aid when the forces of darkness overrun their strongholds to lay claim to their vaults. Thus many dwarfs wander the lands, homeless, friendless, searching for a new place to call their own.
+**The Beard’s the Thing:** Dwarfs have thick, stout bodies, limbs corded with muscle, and bellies bulging from their fondness for alcohol and food. All dwarfs, male and female, wear elaborate facial hair, braiding it in their clan designs, decorating it with silver or gold rings, or greasing it up into unusual shapes. Other dwarfs have fanciful mustaches or thick muttonchops that hang past
+their waists.
+**Short but Dense:** Dwarfs stand between 3 and 4 feet tall, and they can weigh up to 250 pounds. They have the human range of coloration, though they tend to be grimy and wrinkly from their work in the mines and forges.
+**Dour and Suspicious:** Gruff, critical, and suspicious, dwarfs make few friends outside their own kind. They covet treasure but temper their greed with the certainty that their ancestors are always watching. Thus, dwarfs conduct themselves with honor to avoid bringing shame to their clans.
+**Common Names:** Anise, Brunhild, Doogan, Erika, Franz, Grete, Guntur, Heida, Helmut, Ilse, Martok, Oda, and Ragnar.
+
 Variant Options available in the For Gold and Glory PDF.
 ## Attributes
 **Strength:** 10 (0)

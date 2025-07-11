@@ -2,6 +2,83 @@
 {"dg-publish":true,"permalink":"/ancestries/woad/"}
 ---
 
+If you were to ask the scholars of Rûl to discuss the origins of the Woad, they would likely speak to you about “simple, savage, debased tribes descended from the First People,” and perhaps they would venture forth that they are “common in descent from the beastmen,” and “little different than those corrupted creatures.” But these academic musings would be sadly misguided at best: while they might share some archaic and nomadic customs with the first tribes of mankind, and are rightly characterized by their bestial nature, the Woad came to the lands much later than either humans or beastmen, and from a place no scholarly mind could ever grasp.
+Propelled across the Void to Urth by the last gasping scream of a genie succumbing to madness, the Woad came from a world destroyed and forgotten long ago. They are a people who struggle to maintain their ancient customs and beliefs in a world that was initially alien to them upon their arrival, and has been hostile to them ever since. 
+The Woad’s steadfast refusal to be assimilated has resulted in a general view of them by most peoples of Rûl as hopelessly backward, beastly, and barbaric. However, a closer look reveals that there is far more to the wild folk than one might expect.
+### Born from Dreams
+The fevered dreams of a sleeping genie, one that hoped to escape the madness spreading rampantly among its kind, brought the Woad into being. By forcing itself into a deep sleep, the genie hoped to forestall the creeping dementia afflicting it. As it hurtled through the Void, the genie dreamed of beauty and harmony, of an infant world untouched by horror or strife.
+But as its madness grew, doubts and misgivings tainted the genie’s imaginings, weaving things malformed or unfinished into the dream. Before the grip of insanity closed tight around its mind, the genie mumbled the ancient invocation of creation, and brought its dreams into physical form.
+What came into existence was a small pocket of life and wonder in the Void: a tiny realm that enclosed a pastoral paradise inhabited solely by animals, similar to those created by the genies on Urth. These creatures roamed the curve of their beautiful world, under a stunningly blue sky, living together quietly in peace and balance.
+But all too soon the taints of madness imbued within the creation began to manifest in dark and terrible ways. Rivers reversed their courses, lakes turned to acid, and mountains grew impossibly large, their peaks disappearing far above the skies.
+And, more unexpectedly, the sparks of life that animated the animals somehow ignited into living spirits, which continued to inhabit the creatures in a manner similar to the souls of Urth’s humans.
+The magic that bound the tiny realm together quickly unraveled, causing it to quake, convulse, and slowly break apart. As it watched its wondrous creation destroy itself, the genie’s mind finally shattered, and its hysterical scream blasted the world into smithereens, the shards scattered throughout the Void, soon followed by the fading echoes of the genie’s scream.
+But one shard, with hundreds of animals clinging to it, was hurled far across the Void and into the field of magic surrounding Urth, piercing it like an arrow passing through honey, smashing into the planet itself near Rûl. Miraculously, a few of the animals survived, albeit radically transformed by the field of magic into astonishingly human-like beings.
+Thrown upon the world’s surface, the Woad followed their once-animal instincts and quickly sought refuge in the wild places away from all other peoples. Once there they slowly came to grips with both their newborn self-awareness and their newfound world.
+### The First Tribes
+What little is known of the first Woad is found painted on the walls of long-forgotten caves and etched onto clay tablets buried deep in the earth. These historic depictions of the Woad were created by the tribes of the First People, humans who lived in the world long before the arrival of the Woad. Their crude pictures show the Woad much as they are perceived today: stalking between the trees of dense forests, or traveling in straight lines across mountains. In some cases, these images graphically depict violence, torture, and warfare between the humans and the Woad.
+The Woad flourished in the wilderness, banding together in tribes that identified with the various spirits of the Firstborne, the once-animal, shardborne progenitors of their kind. Each tribe had their own “spiritsingers,” priest-like practitioners who learned to commune with the spirit animal specific to their tribe, from whom they gained insight, information, and advice.
+The Woad tribes roamed where they pleased and claimed all they saw as their own, believing the vast expanses of land to be divine gifts granted to them by the Firstborne. Their bestial ancestry made them a territorial people and, like most beasts, they did not tolerate trespassers. They believed the hunting of animals in their lands by the First People to be sacrilegious, as well as a threat to their ability to commune with the Firstborne. The Woad tribes savagely attacked these interlopers, mutilated their bodies, and left them for dead on the edges of their territories to serve as a warning against further encroachments.
+Over time, these actions, along with retaliatory raids by the First People, soon escalated into fullscale warfare. The Woad would meet their enemies on the field like rabid animals: without weapons or armor (or any clothes or covering, for that matter), they would fearlessly charge at their armed enemies, ferociously attacking with tooth and nail, ripping out their throats, plucking their eyes out, and viciously breaking their limbs. Despite heavy losses, the Woad always held the field at the end of every battle.
+Their fearlessness and ferocity made the Woad a terrifying, seemingly unbeatable foe. But then the faeries began meddling in mortal affairs, which led to the rise and development of both human religion and civilization. Along with permanent settlements, 3 humans built organized, disciplined armies, capable of withstanding and eventually defeating the Woad. Before long, the Woad had little choice but to relent and retreat deeper into the wilderness.
+### An Era of Blood
+As they fled into the wilds of Rûl where humans would not dare to venture, the Woad discovered bountiful expanses where they could thrive once again. For a few centuries, the tribes roamed almost as freely and happily as the first Woad once did. The connection between the tribes and their spirit animals was stronger than ever, as each tribe’s spiritsingers helped guide them toward a new era of peace and harmony.
+Unfortunately, this all came to an end with the invasion of their lands by the foul and corrupted beastmen. The two peoples, bred from similar cosmic distress, were instantly filled with unthinking rage and hatred for the other. They clashed in vicious, horrific battles that dwarfed those between the Woad and First People in both size and violence. Through sheer force of numbers, the beastmen prevailed and the Woad, defeated and decimated, were forced back into the lands they had been driven from by the First People.
+In the Woad’s absence, Rûl had fallen into a period of unending conflict due to invasions from without. From the east thrust the armies of the Edene and the Kalasans; from the north, the Witch-King and the Men of Gog led their undead forces; and from the south, the fierce jotun carved a path of wanton destruction. At one time or another, the Woad were drawn into conflicts with each, usually in defense of their lands. Occasionally, however, they allied with one army or another to combat beastmen incursions, or in any battle against the descendants of the First People, still their most hated enemy.
+Over time, these wars took a terrible toll on the tribes. Already greatly reduced in number, the Woad were nearly exterminated when they were cruelly betrayed by their erstwhile allies, the Kalasans. The Woad allied with the Kalasans to finally defeat the Witch-King and expel the Men of Gog, only to have the Kalasans immediately turn on them. The Kalasans had always considered the Woad to be naught but primitive brutes, little better than beastmen, as well as a potential threat to the fledgling Empire they were building.
+Whole tribes were erased from the world while others were captured and forced into slavery. Very few tribes escaped this persecution, and it was not until the Empire turned its gaze to deal with the jotun threat in the south did the Woad find any respite. By then, though, the damage dealt to them was nearly a deathblow: from several hundred tribes, the Woad had been reduced to just thirteen.
+### Unchanging Ways
+The Woad way of life has remained mostly unchanged in the centuries since they first arrived. The Woad do not cultivate the land or build cities, believing these things weaken their link to the Firstborne. Fiercely independent, they refuse to kneel at any altar or obey any law save their own. With some small differences between them, the various Woad tribes share a ubiquitous culture. Within the tribe, there is no structure of power; decisions are made by majority rule of all members. Each tribe has a chief to lead warriors into battle, but the only authority they maintain is the ability to make a second vote in order to break ties. When a chief dies, the spiritsingers listen for the name of a replacement in the ancestral songs. No other caste or dictated responsibilities exist as everyone works for the tribe’s well-being.
+None of the Woad tribes have countries or borders they call their own. Nomadic by nature, they roam wherever they wish and believe that occupation of that land is the most devout veneration that can be paid to the Firstborne. In effect, they will consider any lands they occupy to be “Woad Lands,” with any who are considered trespassers or poachers usually dealt with in brutal fashion. In recent years, some tribes have begun to make tenuous peace with neighboring settlements, and with those people that have taken to exploring the wilderness. These tribes are less likely to attack interlopers, but what any Woad will ever do can seldom be predicted with certainty.
+Nomadic life is hard. Woad tribes tend to settle in one place during harsh winters or in times of war. Temporary villages comprised of large tents and long-homes are raised around an array of spiritpoles, tall trees felled and carved in the likeness of whatever Firstborne the tribe venerates, along with other images and symbols that tell the tribe’s history and other stories that all Woad share.
+The tribes hunt and gather to sustain themselves, believing any animals walking beside them in the Woad Lands are gifts from their Firstborne’s own flesh, given to the Woad to eat in order to survive. It is usually a grievous mistake to hunt or kill any animals in Woad Lands—even the most peaceful tribes respond with enraged violence to what they consider blasphemous actions.
+From the outside looking in, the Woad often resemble wild animals to most people. They are mostly human-like in appearance and, depending upon their Firstborne spirit animal, are covered in thick hair or bare-skinned—they rarely, if ever, wear clothing or covering of any kind, except in extremely cold weather. Some tribes spend their entire lives covered in thick, matted hair, often braided with beads, rings, trinkets, and other notions; others cover 4 every inch of their skin in tattoos inspired by their Firstborne, i.e., the Owl tribe tattoo feathers all over themselves, and the Snake ink elaborate patterns resembling scales. Perhaps a vestigial memory of the cerulean skies of the Firstborne’s home, the color blue is sacred to the Woad—in fact, the word “woad” itself means “blue” in their ancient tongue. Therefore, the jewelry and trinkets they adorn themselves with, or the ink used in their tattoos, often has blue as a dominant color, though various tribes might use any color.
+Although many of them can speak the most common languages found throughout Rûl, the older Woad communicate through their ancient tongue, ancestral songs, or even animal calls.
+These days the Woad find it difficult to share the land with humankind. Some tribes venture into the wilds, often to hunt beastmen in order to “cleanse” the lands, co-existing uneasily at best with humans who have settled there. But most peoples in Rûl fear the Woad as savage barbarians who unexpectedly appear from seemingly nowhere to attack without warning or provocation.
+As the Empire breaks apart in the aftermath of the orc rebellion, the Woad have taken advantage of the chaos and disorder to once again roam lands they have not seen since the Kalasan betrayal, testing the resolve of the humans still dwelling there. There are many who believe that large-scale conflict between the Woad and humankind is inevitable.
+### The Field Without End
+The Woad do not believe in what they cannot see, and they cannot see the gods of the Old Faith or even the “One God” of the New Faith. They do not believe in the Underworld, Elysium, or even Hell. For them, the afterlife is a very real place known as the Field Without End, or the spirit world.
+Floating above Urth like a ribbon caught in a battle between gusts of wind, the spirit world is a supernal realm, infinite in length but stretching only a few miles in width. Its creation was the result of the passage of the shard that brought the Woad’s ancestor creatures through the field of magic that envelops the world. Its existence is sustained by Woad belief: as long as the Woad continue to commune with the Firstborne, and venerate them by singing their spirit songs, the energy of their worship keeps the Field Without End a very real place in the universe.
+The Field Without End resembles the world from which the Firstborne came. The top of the ribbon is covered in dense forests, rolling hills, tall mountains, and meandering rivers that flow across the land before flowing out into the void. This part of the ribbon appears washed in a deep blue haze, and a dim white light from Tarterus reflects softly from the ethereal plane. Looking upward from the Field into the sky, one can only see the vast, empty expanse of the Void dotted with the light of a million dead stars. Peering over its edge provides a view of Urth in its entirety.
+On the bottom of this ribbon is an exact, mirror image of the top, only pitch black. The Woad believe the bottom side of the Field to be teeming with dark creatures that fall to Urth as beastmen. There have been a few who were foolish enough to travel to the dark side to discover what is truly there, but none who have done so have ever returned.
+The spirits of the original Firstborne live within this realm, keeping a vigilant watch over their Woad children on the world below, while they tend the flocks, herds, and packs of Woad spirits who roam throughout the Field. After their body has died, a Woad’s spirit travels to the Field Without End and takes the shape of the spirit animal they venerated when they lived.
+From their dens, nests, and pastures scattered across the Field, the Firstborne speak with the Woad on Urth by way of music and song. In the cries, chirps, and howls of animals, or in the sounds of a creek flowing over rocks or the wind blowing through the trees, the Firstborne sing songs that only the spiritsingers can hear. These songs offer advice on travel and raiding, warn of impending conflict, or are simply expressions of praise and gratitude for the Woad’s worship of them. The Woad’s ability to weave magic also comes from these songs. Only thirteen of the Firstborne remain, the rest having disappeared when their own Woad children were wiped out from Urth below.
+Traveling to the Field before death is possible for the Woad and others who have somehow acquired the ability to do so. The spiritsingers can open portals to this place, and other kinds of magic can provide passage here as well. The Firstborne never give audience to those who are not Woad, however, cloaking themselves from outsiders while watching them with a wary eye.
+Visitors who travel to the Field Without End must exercise caution, as time passes very slowly there, and its wondrous nature makes it all too easy to lose track: for every hour spent in the Field, a day passes on Urth. There have been those who have blissfully explored the realm for what seemed all too brief a time, only to die immediately of old age upon their return to Urth.
+Without some magical means, the options to leave the Field are few. Those seeking to leap from the Field’s edge either tumble into the Void, where they drift into the clutches of the shadowy horrors lurking there, or slam into the field of magic surrounding Urth, which immediately vaporizes the body and annihilates the soul.
+Recently the Archmage from the Tower Arcane above Caecras has discovered how to open a portal to the Field Without End. Some believe she has entered into a pact of immortality with Diabolus, who in turn aims to invade the Field with the Archmage’s aid, in order to drag all the Woad spirits to Hell.
+Until now, the Woad have been largely free from the Devil’s machinations, but some spiritsingers have become aware of Hell as a place, if not a destination for their spirits, and of the terrifying things lurking there. Perhaps this awareness has been enough to make them vulnerable to Diabolus’s dread attention; anyone who interferes with the Devil’s plans will certainly find allies among the tribes.
+### The Thirteen Tribes
+It is not easy to find the ever-roaming Woad, but recent events in Rûl have brought some of the tribes closer to the people living in the fractured Empire. With a little bit of research, and some expert hunting and tracking, one might find a tribe and seek passage to the Field Without End, or ask for a hand in the fight against the thralls of the Demon Lord. The quickest way to locate the tribes is by searching for the spirit-poles they leave behind during their travels. With the exception of the Owl tribe, all Woad leave spirit-poles to mark the places they have passed through.
+#### Badger
+The leaders of halfling villages spread across the Tumbledowns have complained to the local ruler Horus that Woad tribes have been mounting raids into their settlements, burning their fields and loosing the work animals from their pens. This is the work of the Badger, Raven, and Wolf tribes. Of the three, the Badger tribe is the least aggressive, choosing to act as scouts and messengers for the other two tribes. Tribe members have an uncanny knack for exploring caves and underground passages. The Badger folk tend to have numerous scars and still-healing wounds all over their bodies, badges of honor earned from squeezing through spaces so small even the halflings cannot give chase.
+#### Bear
+The Bear tribe sticks close to the lakes and rivers of the Northern Reach and is easily the most peaceful clan of Woad. They choose to avoid conflict rather than create it. Other tribes roaming the northern lands know that wherever there is a Bear spirit-pole, there is peace. Woad war parties in need of rest and regrouping can usually find welcome and shelter with this docile tribe. Rumors do tell, however, that when fish in the rivers and lakes run scarce, or cannot be caught because they are frozen over, the Bear tribe might hunt other kinds of game and, if desperate enough, even people.
+#### Boar
+At one point, the Boar tribe had been whittled down to a single member. The tribe wandered into Blötland, where it was hunted and harassed by the jotun until just one Woad remained. It was only through pure serendipity that the tribe was saved: the jotun sent to hunt down and kill the last Woad instead fell in love with her, and she with him. The two fled to the March Lands and eventually made their way to the Field Without End where the Boar Ancestor gave its blessing for them to rebuild the tribe. The tribe is still small, growing slowly but steadily, but the tribe’s blood is now a mix of both Woad and jotun. The Boar tribe is known for their hulking, hairy bodies, and the massive wooden tusks that pierce out from their lower jaw.
+#### Deer
+The Deer tribe has made a more permanent home out of the forests in the shadow of Mount Fear. From these wooded areas, the Deer tribe ambushes travelers on the rivers. Much to the chagrin of the 6 faeries, the tribe has begun waylaying travelers passing to and from Alfheim. Preying on mortal and immortal alike, the Deer tribe clashes often with the faeries. Few people have ever seen members of the Deer tribe, as they tend to swiftly run and disappear from any one they do not wish to meet or fight.
+#### Eagle
+The Eagle tribe suffered the most at the hands of the Witch-King. The undead legions of the Men of Gog invaded their lands along the Burning Vaults and tortured them to steal their spirits. When the Witch-King fell and the Men of Gog fled to the wastes, the Eagle tribe gave chase, vanishing into the Desolation. Eagle-shaped spirit-poles covered in blood have started appearing in the hollows of the Firepeaks. Many see this as a sign that the Eagle tribe has returned, though it is feared they have been corrupted in some vile way.
+#### Fox
+Members of the Fox tribe swap territory with the Boar tribe every two seasons or so. The southern foothills of the Shields are often the site of large beastmen raids and the two tribes see it as their responsibility to keep the foul abominations from spreading into the pristine mountains. The Fox tribe rarely mingles with settled peoples, going so far as to stop hunting anyone who flees into the villages dotting the valleys. No Woad of the Fox tribe are born without the spiritsinging abilities and many consider the Fox the most spiritual of the tribe, having never strayed once in their veneration of their spirit animal. Recently the Hare tribe’s backsliding has outraged the Fox tribe, who now plot with the Boar tribe to destroy the Hare for their “wickedness and blasphemy.”
+#### Hare
+The Hare tribe strayed furthest from the old way of life. This tribe is the largest among the thirteen, and they roam freely between the free cities of the Confederacy. From afar, this tribe could easily be mistaken for humans of the Empire. They long ago abandoned the traditions of going without clothes, speak only the Common Tongue, and trade the pelts, furs, and hides of their kills in the cities and settlements of humankind. While all of these practices are considered offensive, this last one is considered unforgivably blasphemous by all Woad. Presently the Fox and Boar tribes are plotting to eliminate the Hare, in order to remove the shame of the tribe from the Woad heritage.
+#### Horse
+When war between the First People and the Edene broke out, the Horse tribe disappeared over the Shields and into the west, seemingly overnight. Now, what little news that filters out of the Endless Steppe usually comes from the lips of the Horse tribe. The members of this tribe are among the very few who can pass safely through the centaur-held lands, but the centaurs do not let them travel to the Field from within the steppes, believing that doing so angers their own ancestral spirits. Recent tales have surfaced that the Horse tribe has been fighting alongside the centaurs on the western coast against some new and unknown enemy.
+#### Otter
+This tribe slinks stealthily about mangroves and creeks, upending fishing boats and slaughtering the fishermen flailing about. The fiercest of the Woad, the Otter tribe viciously resist all who intrude into their lands, although they seem to be unconcerned with beastmen that are doing so, suggesting the unspeakable idea they might actually be conspiring with the monstrous humanoids. When hunting on land, the Otter cover their sleek, hairy bodies from head to toe in mud, and roll themselves in dried tallgrass. Any who enter into their lands are brutally attacked, tortured, and mutilated, and then left to die as a warning, in much the same fashion as the first Woad once did. They do not travel outside the Bone Marsh much of late; the trade routes from the Freeholds are protected by well-armed patrols that the Otter are not confident they can overcome.
+#### Owl
+When the other Woad tribes hid from conflict to bolster their numbers and rebuild, the Owl tribe stayed, fought bravely, and thrived. This tribe does not roam in any one confine of the world, choosing instead to take 7 advantage of their inherent ability to travel to and from the Field Without End, jumping from battle to battle. The Owl tribe members sew sheets of feathers from many different birds to their skin, and tattoo large yellow circles around their eyes. Only the bones of their enemies are left behind, and these fearsome Woad find enemies wherever they land.
+#### Raven
+Along with the Wolf and Badger tribes, the Raven tribe has recently moved into the Tumbledowns. The three tribes seek to expel the halflings from the low hills, so that all Woad might roam and hunt freely there. The Raven tribe however, will not venture into the halfling villages, instead stalking those halflings foolish enough to leave the safety of their villages. Silently, from the trees and high rocks, Raven warriors drop onto their enemies. The Woad do not wish to kill the halflings, seeking only to drive them away, so they instead beat them to the brink of death, breaking limbs and maiming their bodies. The sight of these large people, painted black from head to toe and falling from the sky sends terror into the hearts of all they encounter.
+#### Snake
+The entire Snake tribe is made of many smaller sub-tribes that roam the wide eastern expanse on the interior of the Shield Mountains. They are the most easily recognizable tribe, as every inch of their bodies is covered in tattoos of solid, vibrant colors. As they move about the hills in a single-file line, they writhe and zigzag in serpent-like fashion, creating the illusion of a giant snake. Members of the Snake tribe carry their long snake-shaped spirit-poles with them, which double as spears whose blades are always kept smeared with venom.
+#### Wolf
+The Wolf tribe is actually two tribes divided by age and role. The first tribe is the Pack, young adults in the prime of their lives capable of roaming and warring. The second is the Den, made up of elders and those young ones who have chosen, or have been chosen, to breed. Once a member of the Pack reaches “old age,” usually 35 to 40 years old, they are sent to join the Den by way of a dangerous journey intended to vet those who are weak and therefore unworthy. Upon reaching the Den alive, they become elders, giving advice, telling stories, and helping to raise the young ones. The elders receive the protection of the tribe for the rest of their days, until they pass to the Field Without End. Most recently, the Pack has been wandering with the Raven and Badger tribes into the Tumbledowns. As the Wolf are the younger, fiercer clan, they choose to plunge directly into the villages to raze buildings, burn crops, and free all the work animals.
+# Woad Characters
+Woad resemble humans, and have spirits similar to human souls, but it is there the resemblance ends. Most Woad stay with their tribes, having little interest or cause to mingle with humanity, though the Hare tribe has recently proved the exception.
+However, as the Demon Lord’s shadow creeps across Urth, fomenting chaos and discord, some Woad feel moved to leave their people and join the struggle to save the world.
+**Common Names:** Bors, Cei, Dar, Eda, Fenno, Makel, Nue, Pan, Ren, Sah, Ter, and Yaz.
 ## Attributes
 **Strength:** 10 (0)
 **Agility:** 10 (0)
@@ -21,8 +98,7 @@
 **Corruption:** 0
 - - -
 ## Languages and Professions
-**Languages and Professions:** You speak your tribal dialect
-of Woad
+**Languages and Professions:** You speak your tribal dialect of Woad
 - - - 
 ## Talents
 **Tribal Affiliation:** Choose a Woad tribe to whom you belong and gain its benefits
@@ -31,59 +107,59 @@ of Woad
 **Characteristics:** Health +5
 **Magic:** You discover the Primal tradition or learn one Primal spell.
 - - -
-# Woad Tribes
+## Woad Tribes
 
-## Badger Tribe
+### Badger Tribe
 **Delver:** You can move through openings large enough to permit the passage of Size 1/4 or larger creatures, treating such openings as difficult terrain.
 **Escapist:** You make attack rolls to escape, as well as challenge rolls to slip free from bonds, with 1 boon.
 
-## Bear Tribe
+### Bear Tribe
 **Healer’s Gift:** When you use an action to stabilize a creature and the total of your roll is 20 or higher, the target also heals damage equal to its healing rate.
 **Shield Other:** You can use an action, or a triggered action on your turn, to protect a creature within your reach.
 For as long as the target remains within your reach, you impose 2 banes on the attack rolls of any creature you can see that attacks the protected creature.
 
-## Boar Tribe
+### Boar Tribe
 **Attributes:** Increase Strength by 1
 **Characteristics:** Health +4
 
-## Deer Tribe
+### Deer Tribe
 **Characteristics:** Speed +2
 **Stealthy:** You make challenge rolls to hide and sneak with 1 boon.
 
-## Eagle Tribe
+### Eagle Tribe
 **Characteristics:** Gain 1 Corruption.
 **Vicious:** You gain a +2 bonus to weapon damage rolls against injured creatures.
 
-## Fox Tribe
+### Fox Tribe
 **Languages:** You know how to speak two additional languages of your choice
 **Song Magic:** You discover the Song tradition.
 
-## Hare Tribe
+### Hare Tribe
 **Attributes:** Increase Intellect by 1
 **Languages:** You can read and write the Common Tongue and you know how to speak another language.
 **Negotiator:** You make attack rolls in social situations to deceive or persuade with 1 boon.
 
-## Horse Tribe
+### Horse Tribe
 **Languages:** You can speak Centauri.
 **Fast as the Wind:** When you use an action to rush, you gain a +4 bonus to Speed.
 
-## Otter Tribe
+### Otter Tribe
 **Expert Swimmer:** You ignore difficult terrain imposed by swimming and you make challenge rolls to swim with 1 boon.
 **Aggression:** Once per round, when you take damage, you make attack rolls with 1 boon until the end of the round.
 
-## Owl Tribe
+### Owl Tribe
 **Slow Fall:** When you would take damage from a fall, you halve the damage.
 **Spirit Step:** You can use an action to teleport to an open space within short range. You can use this talent a number of times equal to 3 + your Power. You regain expended uses when you complete a rest.
 
-## Raven Tribe
+### Raven Tribe
 **Skilled Climber:** You make challenge rolls to climb with 1 boon.
 **Hidden Threat:** When you attack a creature from which you are hidden, your attack deals 1d6 extra damage.
 
-## Snake Tribe
+### Snake Tribe
 **Nimble Stride:** Creatures making free attacks against you make their attack rolls with 1 bane.
 **Robust Constitution:** You take half damage from poison.
 In addition, you make challenge rolls to avoid or remove the poisoned affliction with 1 boon.
-## Wolf Tribe
+### Wolf Tribe
 **Characteristics:** Increase Perception by 1.
 **Pack Attack:** When you attack a creature within the reach of at least one creature friendly to you, you make the attack roll with 1 boon.
 

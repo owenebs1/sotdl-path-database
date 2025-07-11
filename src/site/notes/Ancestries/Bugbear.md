@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/ancestries/bugbear/","tags":["Monstrous"]}
 ---
 
+Bugbears, sometimes called boogeymen, terrorize people living on the frontiers. Like all beastmen, bugbears feed on humans, but they especially prefer the soft flesh of the young. They creep into towns and villages under the cover of night to snatch children from their beds, dragging them into the dark never to be seen again.
+Unlike most beastmen, bugbears tend to be loners.
+If bugbears join others, they might team up with a few other bugbears or serve as scouts for a larger beastman army, but only for as long as the rampage continues. Bugbears regard other beastmen in their chosen territories as threats and drive them off, killing them if necessary.
+Bugbears combine the features of humans and bears. They stand about 7 feet tall, and their muscled, humanoid bodies weigh as much as 300 pounds.
+Their bear-like heads boast pronounced snouts and eerily human eyes. Thick fur of black, brown, or dun covers their bestial heads and extends across their shoulders and down their arms, backs and chests, thickening at their groins. Most bugbears wear armor usually scavenged from the dead.
+What bugbears don’t eat, they either keep as trophies or leave to rot. Most carry large sacks containing bits and pieces of the children they’ve eaten, and occasionally a couple of living, squirming, and terrified victims too. Like fomors, bugbears decorate their bodies with trophies harvested from the bodies of their victims, such as fingers, toes, ears and hands.
+Bugbears speak Dark Speech.
 ## Attributes
 **Strength:** 14 (0)
 **Agility:** 13 (0)

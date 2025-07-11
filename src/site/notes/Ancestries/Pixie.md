@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/ancestries/pixie/","tags":["Faerie"]}
 ---
 
+The quintessential wee folk, many pixies use secret ways to flutter across the borderlands into the mortal world, where they cause trouble, spy, and play tricks on larger, more foolish people. Pixies are the wildest of the faerie, recognizing no authority other than their whims, going wherever and doing whatever they please. Their mercurial nature makes them unpredictable—a pixie might be all laughter and jests one moment and pure malice the next.
+**Endless Variety:** The name “pixie” encompasses many different families of faeries, typified by their small size and magical nature. Generally, pixies look like tiny elfin people, each about 8 inches tall and weighing no more than a couple of pounds. They can be cute and cherubic or strange and feral-looking, all teeth and claws. They can have any skin coloration, with pink, blue, and green being the most common hues. All can fly, and most do so by using the wings on their backs. The ones that lack wings flutter about through some quirk of magic. Most people never lay eyes on pixies, thanks to their natural invisibility, but children, animals, the simpleminded, and supernatural creatures can all see pixies. They can reveal themselves to other creatures, though they rarely do so.
+**Wicked Tricksters:** Pixies love games, and their favorites involve playing tricks on larger creatures. The tricks can be harmless fun, such as stealing a small item or making scary noises in one’s home, but they can also be dangerous. Some pixies see nothing wrong with leading a woodcutter into a beastmen encampment to see what happens or stealing horses and running them to death.
+**Insignificant Pests:** Most other fey consider pixies to be a nuisance, seeing them as incorrigible tricksters. Some pixies manage to find places of respect among the faerie, but most languish in tiny cages, prized for their sweet voices and charming appearance. Unscrupulous goblins sometimes trap pixies to sell for use as ingredients in dark incantations.
+**Common Names:** Pixies name themselves after things they consider pretty, such as Bluebell, Dew, Giggles, Glimmer, Mist, Moonlight, Petal, Rain, and Sunshine.
 ## Attributes
 **Strength:** 5 (-5)
 **Agility:** 12 (2)

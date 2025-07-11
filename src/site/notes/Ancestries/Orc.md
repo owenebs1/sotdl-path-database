@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/ancestries/orc/"}
 ---
 
+Long believed to be the perfect soldiers, the orcs have thrown off slavery’s shackles and risen up against their imperial masters in a war that threatens to drown the Empire in blood.
+**Fearsome and Powerful:** Mighty, threatening figures, orcs tower over humans. Most have thick, coarse hair covering their bodies. Some shave their body hair into lewd or grotesque patterns to accentuate their fearsome look. Blotchy skin, bone white to nearly black, blistered and scarred from flaws in the magic that made them gives them a ghastly appearance aided in part by their brutish, exaggerated features. Most orcs have short pug noses and wide mouths filled with sharp teeth and a tusk or two. Orcs stand 6 to 8 feet tall and weigh 200 to 600 pounds.
+**Created to Kill:** Dark wizards in service to the Empire created the orcs from jotun prisoners brought from the icy south to face the judgment of the Alabaster Throne. Using vile magic, the wizards stripped away everything from the giant-blooded warriors until they were little more than wild animals. The Empire used these new soldiers in the wars of conquest that would secure its hegemony for a thousand years.
+**Slave Revolt:** After centuries of slavery, the orcs turned against their masters. Rumors claim the Orc King, Drudge, strangled the emperor and seized the throne. Others whisper that the orcs have made unholy pacts with the Adversary and even now march against the other provinces. Whether true or not, the rumors have done their work and orcs all across the Empire have abandoned their posts or slaughtered their masters.
+**Common Names:** Bastard, Bunion, Dredface, Grubthumb, Hate, Killer, Mung, Pliers, Pung, Stenchfist, and Wossname.
+
 Variant Options available in the Born to Kill PDF.
 ## Attributes
 **Strength:** 11 (1)

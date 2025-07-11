@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/ancestries/fomor/","tags":["Monstrous"]}
 ---
 
+Making up the majority of beastmen armies, fomors are reviled and abused by their kin. Wargs whip these cowardly, weak, and wretched, creatures forward to lead the charge against enemies, expending their lives cheaply. Fomors live short, terror-filled lives, abbreviated either by their enemies or by their own kind, who torment them, making sport of their pain or just killing and eating them when there is nothing else at hand.
+Fomors are the most humanlike of the beastmen.
+They stand about 5-1/2 feet tall and weigh a bit more than 140 pounds. Fomors have all the physical characteristics of humans except for their goatish heads, complete with horns and bulging eyes. Some have patchy fur across their chests and farther down, covering their navel and genitals. Fomors make the armor they wear by stripping skin from their victims.
+Such armor tends to be poor and rots away quickly. Fomors are just as vicious and nasty as other beastmen, capable of acts of indescribable evil. They vent all their hate on the doomed souls that fall into their hands. Fomor rarely get much to eat, so when they catch someone, they make the meal last, keeping their victims alive as they cut off bits and pieces. They mock their victims’ whimpers and screams, even as they stuff the flesh into their mouths.
+All fomors speak Dark Speech.
 ## Attributes
 **Strength:** 10 (0)
 **Agility:** 12 (2)

@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/ancestries/salamander/","tags":["Elemental"]}
 ---
 
+The genies shaped the first salamanders from elemental flame to serve as thralls to those wild and willful beings. For centuries, the salamanders and their descendants lived apart from the other peoples in the world, free from machinations and intrigues, but the rise of terrible evils has coaxed them out of hiding to walk the lands in their final days.
+**Born from Fire:** The genies formed salamanders by infusing elemental flame with their own essence, granting the fire solidity, humanoid form, and sentience. Their fiery heritage is still evident in the tall, twisting horns rising from salamanders’ brows, the spurs growing on their arms and legs, and their crimson skin. With pupilless white eyes and long, sharp teeth, salamanders’ features range from exotic to diabolical. A typical salamander stands between 7 and 8 feet tall and can weigh up to 400 pounds.
+**Elementals:** As elemental beings, salamanders enjoy long lives, but lacking mortal souls, they cannot return from death. When a salamander dies, its body burns up in a flash of fire.
+**Slaves of the Genies:** The genies made salamanders to do their bidding, and salamanders believe they likewise fashioned the world from chaos. Other elementals were made to be creators and healers, but salamanders were designed as destroyers. They fought the genies’ enemies: the faerie, trolls, and anyone else who sought to bind and control their masters. Thus their first encounters with humanity were in battle, which left a lasting negative impression. As madness infected the genies, their interest in the world waned, leaving the salamanders free to find their own destinies. Most made their homes in the Burning Vaults, but some survived in the Desolation’s wastes.
+**Fierce and Volatile:** A people of intense passion, salamanders have difficulty hiding their emotions, especially anger. In dealings with others, they can be aggressive to the point of causing offense, even threatening, if they don’t get their way. Such emotional outbursts never last for long, though, and they quickly forget what raised their ire in the first place.
+**Common Names:** Azagad, Beruul, Dedan, Fereen, Heeseh, Ignez, Seekriz, Zeez.
 ## Attributes
 **Strength:** 10 (0)
 **Agility:** 9 (-1)

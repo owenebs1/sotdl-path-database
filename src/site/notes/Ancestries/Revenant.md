@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/ancestries/revenant/","tags":["Template"]}
 ---
 
+Sometimes death calls too soon, claiming the soul before a mortal can fulfill a destiny, right a wrong, or repay a debt. When the burden of responsibility proves too heavy to set aside, death may stay its hand and let the mortal complete those unfinished tasks as a revenant.
+**Between Life and Death:** Revenants are neither fully alive nor fully dead. They count as living creatures but never suffer the ailments that plague the living, such as the throes of fever or the agony of venom. They still can be wounded and can be destroyed by weapons. But even when brought low, the pull of their obligations drags revenants from the grave once more to finish the work they began.
+**Deathly Pallor:** Revenants look more or less as they did when they were fully alive, but dark circles ring their eyes, and they tend toward gauntness. New-made revenants use cosmetics and pack their bodies with fragrant spices to cover up the stench of decay. Simple disguises are insufficient to mask the nature of older revenants, who use magic to conceal the truth of what they have become.
+**Driven and Relentless:** Mighty oaths, great injustices, and strong emotions keep revenants in the world. Rising from the grave instills them with a single-minded focus on achieving their objectives. Not all emerge from the transformation with their mental faculties intact; many experience emotional swings that range from manic exuberance to the blackest depression.
+**Tied to the Desolation:** The Desolation is the source of the power that creates revenants. In ancient times, the Men of Gog who lived in this toxic place used foul magic to extend their lifespans or to escape death altogether. Those who could not afford such spells bargained directly with Father Death to give them more time. The dour god refuses most requests, but mortals who have been wronged and crave vengeance sometimes gain his blessing, escaping the Underworld until they can put their affairs in order.
+**Common Names:** Revenants use the names they had in life or adopt ones that summarize their new existence, such as Raven, Harlequin, Tears, or Vengeance.
 ## Attributes
 **Bonuses:** Strength +1, Intellect -1
 - - -

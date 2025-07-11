@@ -2,6 +2,17 @@
 {"dg-publish":true,"permalink":"/ancestries/faun/"}
 ---
 
+Elves and the other fair folk withdrew from the mortal world long ago, but in their wake they left behind humans altered by contact with the immortal faerie.
+Chance encounters with the capricious and mercurial fey shattered lives with madness, broken hearts, and in some cases, offspring. Centuries later, the influence of faerie can still be felt in the deep wilderness, where doorways yet stand to the Hidden Kingdoms of Alfheim, Niflheim, and other magical realms populated by immortals. In such fey-touched places dwell fey-touched creatures—some true descendants, others warped by magic—known as fauns.
+Animal Features: People can mistake fauns for beastmen, and for good reason, since fauns combine human physical traits with those of goats. Unlike beastmen, which are mortals corrupted and twisted by demonic influence, fauns owe their distinctive appearance to traces of faerie blood in their veins or, at the very least, the influence of faerie magic on the body. The connection to the immortals gives a faun shaggy legs with cloven hooves and small horns sprouting from the forehead. Faun features combine the traits of human and animal, reminiscent of both but belonging, truly, to neither.
+Most fauns stand 4-1/2 feet tall and weigh about 110 pounds. Although they have the same range of coloration as humans do, fauns tend to be swarthy, with brown or black fur from their navels down to their hooves. Their horns usually grow up to a few inches long, though a few fauns have horns that can spiral a foot or more in length.
+**Mixed Heritage:** As offspring of faerie and human, fauns are a people entirely separate from both. They have traits from these peoples, yet fauns are neither faerie nor human. An unusual appearance and otherworldly nature make fauns unwelcome in most human settlements, and the fey also spare fauns little kindness. In fact, fauns who live in fey realms have low status as fools, messengers, servants, and playthings for elf lords and ladies.
+Fauns make their homes wherever they can. Many live on the misty borders of the hidden kingdoms, while a few venture off into the trackless wilds, joining remote communities of other exiles. Few fauns find places among humans.
+**Guarded Curiosity:** Fauns learn quickly to keep other people at arm’s length. Fear and derision are the most common reactions from humans, and scorn and mockery are usual from faeries. Fauns are justifiably hesitant to seek friendship with such folk.
+Fauns can be timid, but they are curious too. They might watch travelers and lend aid if the wayfarers seem good of heart and mild of disposition. Ill-mannered or destructive interlopers might be led astray or otherwise tricked into harm. Curiosity can land fauns in trouble, since many vile mages pay a high price for faun blood.
+Rarely, a curious faun finds the courage to travel human lands, wearing clothing designed to conceal inhuman features.
+**Common Names:** Fauns use human names, but might gain nicknames from the faeries they serve or the humans who ridicule them.
+
 Variant Options available in the Between Two Worlds PDF.
 ## Attributes
 **Strength:** 10 (0)

@@ -2,6 +2,15 @@
 {"dg-publish":true,"permalink":"/ancestries/yerath/"}
 ---
 
+Most people who live in the Patchwork Lands believe that the mounds dotting the southern and eastern reaches of the landscape are merely strange terrain.
+Few have any idea that these denuded hills belong to the yerathi, human-sized sentient insects who have toiled in the depths for as long as or longer than humans have claimed the continent. Although bizarre in appearance and unsettling to those who have an aversion to insects, yerathi harbor no ill intentions and strive to foster peace in the world outside their homes.
+**Bug People:** Wholly alien compared to most other peoples on the continent, yerathi resemble human-sized cockroaches. They have a thick carapace, triangular heads with bulging, globular eyes, and small mouths surrounded by mandibles. Yerathi have six limbs: two legs, two strong arms, and two smaller, weaker arms that they use for tasks that required manual dexterity. Height and weight depends on caste, with soldiers being the largest and the genderless drones the smallest.
+**Caste System:** Yerathi live in a rigid society divided into castes. Each yerath offspring is assigned to its caste based on its physical characteristics. The highest caste within each hive is occupied by just one yerath: the queen. She rules over the hive as a god. Under her are her consorts, strong and powerful yerathi who are her mates and her divine representatives. Below them in the hierarchy are the soldiers, who defend the hive. Beneath them are the scouts, who forage for food, patrol the surrounding area, and scavenge for materials. Finally, at the bottom are the drones, who handle all the other labor. Outside their hives, yerathi mingle with each other regardless of caste, but inside the hives, a yerath can speak to or interact with a yerath of a higher caste only if addressed first.
+**Musk:** Yerathi communicate with each other using a clicking, hissing language. They can learn the Common Tongue, though they find it difficult to form the words. Yerathi can also leave messages by squirting musk on rocks. The chemical composition of the musk communicates a particular concept to other yerathi, such as danger, fear, safety, or the like.
+Once sprayed, the musk retains potency for a few weeks.
+**Queen Worship:** The yerathi worship their queens as gods. Their faith in their patrons gives these queens great magical power, though not quite that wielded by the old gods. A queen grants her priests, who most often come from the consort caste, access to the Battle, Earth, and Life traditions.
+**Common Names:** Chatten, Chech, Chiruut, Daken, Iet, Jekt, Kad, Kik, Not, Qim, Tirru, and Tyten.
+
 ## Attributes
 **Strength:** 9 (-1)
 **Agility:** 10 (0)

@@ -2,6 +2,15 @@
 {"dg-publish":true,"permalink":"/ancestries/sylph/","tags":["Elemental"]}
 ---
 
+The sylphs are a people who were shaped from wind and cloud by the genies after they spun the world into existence. They served their creators as wardens of the skies, in their role as makers of clouds and shepherds of storms. When their creators went mad, the sylphs retreated to the high places and have lived among the mountains ever since—sometimes spotted from a distance, but rarely encountered.
+**Heaven’s Children:** Of all the elementals, sylphs appear the most human, having a size and shape similar to the mortal peoples. They have slim, willowy bodies, with skin color that ranges from the purple of thunderheads to the rose red of a new day’s dawn.
+Their eyes give away their inhuman nature—the orbs lack pupils or irises, their entire surfaces being white, blue, or starry blackness. Most sylphs stand 5 feet tall and weigh 120 pounds, regardless of gender.
+**Elementals:** Like [[Ancestries/Gnome\|gnomes]] and [[Ancestries/Salamander\|salamanders]], sylphs lack mortal souls. For them, death is final, ending their existence. When a sylph dies, it turns into a strong, shrieking wind that buffets everything around it.
+Windy Aeries: The sky beckons to sylphs, calling them to soar as they did in ancient times, before the fall of their creators. Most sylphs live in isolated monasteries built atop the peaks and accessed by steep staircases that wind up the mountainside. All along the climb, one finds statues of mythological creatures, erected to keep the sylphs’ enemies at bay. In their communities, the sylphs pass the years meditating and practicing their fighting forms, in preparation for when their creators return to save the world from the Demon Lord. Sylphs tend to be guarded and do not welcome outsiders.
+**Spoken in Whispers:** Sylphs communicate in their native tongue, Sylphen. A breathy, airy language, it lacks punctuation, and ideas are strung together in long bursts of speech. Other people find the language incomprehensible, and a linguist might work for years to translate just a fraction of it.
+**Hail the Storm Lord:** Most sylphs venerate a being known to them as the Storm Lord, a figure of lightning and thunder depicted as a three-faced bearded man who rides in a chariot drawn by four eagles, one for each wind (north, east, south, and west). His symbol is a lightning bolt. The Storm Lord is most likely a genie who was deified after centuries of prayer and worship. Priests dedicated to the Storm Lord have access to the Air, Destruction, and Storm traditions.
+**Common Names:** Alees, Erea, Feeth, Hithr, Iye, Nefa, Ossa, Sa, Shasor, Siver, Ual, Usa, Ven, Vimvin, and Wirrah.
+
 Variant Options available in the Heaven’s Sent PDF.
 ## Attributes
 **Strength:** 8 (-2)

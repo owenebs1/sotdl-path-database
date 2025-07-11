@@ -2,6 +2,15 @@
 {"dg-publish":true,"permalink":"/ancestries/hamadryad/","tags":["Faerie"]}
 ---
 
+For centuries, the hamadryads have hidden in the deep forest, masquerading as ordinary trees. But as the shadow has fallen on more and more of Urth, spreading closer to their refuges, the resulting chaos has drawn the hamadryads from their groves to join the struggle against the enemies of creation—just as they were charged to do long ago. These peoples of the forest are unaccustomed to the ways of modern civilization and find the world much stranger and darker now than the way they remember it.
+**Daughters of the World Mother:** When the old gods withdrew from Urth to enter the magical realms of the faerie, the World Mother lingered long enough to touch the trunks of certain trees.
+She imparted sentience to each tree she touched, and the ability to adopt the humanoid forms of her daughters. She charged her children with safeguarding the world from the greed and evil of mankind. Today, most hamadryads remain in service to the goddess, ready to carry out their sacred duty in these uncertain times. A few hamadryads worship all old gods and uphold the tenets of the Old Faith.
+**People of the Woods:** The World Mother gave hamadryads the ability to flow their forms into humanoid shapes so they could better serve her. This gift provides them with mobility and speech and lets them interact directly with others. The specific forms that hamadryads adopt vary, of course. Some appear almost human, while others look like animated trees with branches for arms, roots for legs, and faces etched in their bark. Most of these creatures’ bodies fall somewhere between these extremes. Regardless of details, in its humanoid form a hamadryad can wield weapons and manipulate objects.
+Hamadryads in human form typically stand 5 feet tall and weigh 160 pounds. They do not usually have body hair, and their skin looks like wood, betraying their true nature. They often have bright, glowing eyes, usually green, and soft, whispery voices that sound much like the wind passing through their branches.
+A long-lived people, hamadryads can survive for centuries before succumbing to old age or infirmity.
+**Common Names:** Hamadryads often go by the names of the trees they resemble, such as Maple, Ash, Holly, Oak, and so on.
+
+Variant Options available in the Scions Of Nature PDF.
 ## Attributes
 **Strength:** 9 (-1)
 **Agility:** 10 (0)

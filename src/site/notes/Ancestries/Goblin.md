@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/ancestries/goblin/","tags":["Faerie"]}
 ---
 
+The Faerie Queen exiled the goblins long ago, for a crime only she remembers. As part of their exile, she stripped them of their immortality and doomed them to live out their days in the mortal world. Goblins have since infiltrated human societies, making their homes in rubbish heaps and sewers where, to everyone’s surprise, they seem quite happy doing the jobs no one else is at all interested in performing. Picking through trash for choice treasures or trawling the fetid waters oozing through the subterranean tunnels for a bit of gold or a dropped coin is all goblins need to keep them from making trouble for their neighbors.
+**Bizarre and Varied Appearance:** All goblins are short by human standards, but their height is the only thing they have in common. No two goblins look alike. They all have unusual physical characteristics that make them distinct from one another, such as pig snouts in place of noses, fangs, horns, a profusion of seemingly mobile warts, and other less savory manifestations of their physical corruption. 
+**Weird Habits:** Many goblins have weird habits. Some keep their nail clippings and excretions in small bottles and jars to prevent witches from stealing their names. Others knock on wood when they need a bit of luck, keep odd bits of rubbish as good luck charms, or can never bathe for fear of losing their vital essence. 
+**Common Names:** Goblins love crude humor and it shows in such names as Blix, Blunder, Bubo, Cough, Drips, Hack, Pecker, Phlegm, Poop, Pox, Puke, Sludge, Snot, and Vomit.
+
 Variant Options available in the Snot and Stitches PDF.
 ## Attributes
 **Strength:** 8 (-2)

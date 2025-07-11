@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/ancestries/warg/","tags":["Monstrous"]}
 ---
 
+Fierce and volatile, wargs act as the driving force behind beastmen armies. They cow the lesser beastmen, drive them forward with barks and threats, and crash down on their enemies, ripping and tearing, making meat from their victims. Wargs think nothing of cutting down beastmen that get in their way or that turn tail to run, and many wargs spend as much time chopping up their allies as they do murdering innocents.
+Any shred of humanity that remains inside wargs lies buried under hatred and cruelty. Wargs are little more than wild, rabid animals. They attack without provocation, mutilate their victims’ bodies, and then move on to find something else to kill.
+Most wargs stand between 6 and 7 feet tall and weigh up to 300 pounds. They have muscled, humanoid bodies covered in patchy fur (usually brown, but gray and black are common as well). They have the heads of wolves, with pronounced muzzles filled with sharp teeth useful for tearing flesh. Most wear armor they scavenge from their victims, such as mail or hard leather. Since they don’t take care of their gear, they spend time after a battle examining their victims’ bodies for replacement components.
+Wargs speak Dark Speech.
 ## Attributes
 **Strength:** 13 (3)
 **Agility:** 12 (2)

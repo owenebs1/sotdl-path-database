@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestries/clockwork/"}
 ---
 
+Clockworks are mechanical people made from metal plating, gears, wires, bits of spring, and cogs to which are bound a soul plucked from the Underworld. The magic binding the soul tethers it to the clockwork but allows it to manipulate the body only while its internal mechanisms are moving. All clockworks have keys somewhere on their body, and while wound up, they move, think, and act like creatures. Should the key wind down, a clockwork becomes dormant—an insensate object.
+**Common Names:** Typically, clockworks use names given to them by their creators. These can be nicknames or strings of letters and numbers. Clockworks might choose names they find interesting or use names dredged up from their souls’ memories.
+
 Variant Options available in the Ghosts in Machines PDF.
 ## Attributes
 **Strength:** 9 (-1)

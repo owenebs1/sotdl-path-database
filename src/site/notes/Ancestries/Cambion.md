@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/ancestries/cambion/","tags":["Monstrous"]}
 ---
 
+Devils use any trick they can to tempt mortals and lure them to their doom. Some off er wealth, others power, and still others carnal pleasures. In this last case, such revelations rarely result in issue, but when they do—and only with humans—the off spring is always a cambion, a dark creation of Hell loosed into the mortal world to spread darkness wherever it goes.
+**Infernal Heritage:** Most cambions look human, almost identical to their mortal parent, but all bear some sign that sets them apart from others. This mark reveals that their souls belong to Hell. The sign manifests at different times, with some cambions carrying it from birth and others discovering it in adulthood. It can be subtle, such as a string of numbers on the scalp, or obvious, such as horns breaking from the brow. Cambions have the same range of height and weight that humans do.
+**Slave to Darkness:** All cambions feel the stirrings of evil in their hearts, impulses to commit vile acts for no reason. Many find the urges too strong to refuse and eventually become heartless monsters, reveling in the horror they create. A few, however, hold their impulses at bay and might channel the darkness to fight against Hell and its interests.
+**Telltale Signs:** A devil who births a cambion might leave the child for human parents to raise and better prepare them for the work ahead. It is obvious to anyone tending to such a child that something is wrong. The baby might not breathe when it sleeps, weigh three or four times what it should, or cause unusual phenomena, such as the manifestation of cold spots, noisome odors, and weird knocking noises in the walls. Few foster parents have the courage to help the darkling child; many give them up, cast them out, or worse.
+**Hellbound:** The darkness into which all cambions are born damns them to Hell, since methods of cleansing souls outside of the infernal realm are dangerous and unreliable. Cambions soon realize that no matter what they do in the mortal world, they will one day face the horrors of the afterlife, so many give up any pretense of trying to do good and instead embrace their evil natures in the hopes of earning a place among the greater devils. Even though they eventually realize what lies in store for them, a few cambions also understand they might shorten their time in Hell and perhaps one day find a better life.
+**Common Names:** Cambions use human names.
 ## Attributes
 **Strength:** 10 (0)
 **Agility:** 10 (0)

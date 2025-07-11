@@ -2,6 +2,15 @@
 {"dg-publish":true,"permalink":"/ancestries/ferren/"}
 ---
 
+The ferren have lived among the humans for generations, hiding in plain sight by keeping
+their unusual shapeshifting abilities concealed.
+By assuming the forms of ordinary cats, they can move through their adopted communities without arousing suspicion. Ferren understand the fear that skinchangers elicit in other peoples, and many have been killed after being mistaken for one of those monstrous creatures, so they prefer to keep their true nature secret.
+**Gleaming Eyes and Feline Grace:** The appearance of the ferren offers few clues to their unusual abilities.
+They look like other humans, though their eyes might reflect light like a cat’s in the dark, and they all move with uncommon grace. Similarly, they can pass for ordinary animals of that sort when they assume the form of a feline. In human form, ferren stand between 5 feet and 5-1/2 feet tall and weigh between 100 and 150 pounds.
+**Children of the Moon:** The Maiden of the Moon bestowed the gift of shapechanging to a tribe of humans who venerated her, and it’s from that tribe that the ferren are descended. Most ferren worship this moon goddess, though some practice witchcraft or adhere to the tenets of the Old Faith.
+**Common Names:** Ferren use human names, though those who live as human “pets” might go by
+other names.
+
 Variant Options available in the In Plain Sight PDF.
 ## Attributes
 **Strength:** 9 (-1)

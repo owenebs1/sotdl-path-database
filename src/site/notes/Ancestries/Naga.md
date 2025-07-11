@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/ancestries/naga/"}
 ---
 
+The Great Vault of Sekan, a holy temple hidden on a remote island, was built to house the Shedding, an enormous serpent skin on which has been written the history of the nagas. Much of the writing has faded over the millennia, and with it the lore of these reclusive people.
+Enough evidence remains to tell the story of how the nagas came to Urth eons ago, having escaped the ruin of their world, carrying with them the Cosmic Egg, the last offspring of the Divine. Rather than finding an empty world, they discovered one filled with warring peoples, with cruel faeries and wicked trolls, savage humans, and countless others vying for dominance over a war-torn landscape.
+Rather than take part in the struggle, the nagas hid themselves in the jungles on the islands east of Rûl, using magic to keep themselves and their works concealed.
+For generations, they stayed out of view, keeping their customs and protecting what remained of their civilization, and they might have continued to do so had not the Demon Lord’s shadow begun to creep across the lands. Having escaped destruction at the Demon Lord’s hands before, the nagas realized that if they did not join the struggle against the shadow, it would consume them as well as the rest of the world. So, nagas have begun to emerge from their hidden crèches to take their part in defending their adopted world.
+**Serpentine Humanoids:** Nagas combine the features of humans and snakes, with humanoid upper bodies and lower bodies that taper into long, snake-like tails. Fine scales of green, red, or brown cover their upper bodies, and small horns crown their heads, but they would otherwise appear human if not for having a tail instead of legs, which provides them locomotion in the manner of a snake.
+**The God Incarnate:** Nearly all nagas worship a being known as Shavra, the Light in the Void. The nagas protect their god, whom they believe waits inside the Cosmic Egg, which is kept hidden in a place known only to the highest-ranking priests. The nagas wait for the day when Shavra hatches from the Egg to lead their kind to a paradise where they can live without fear of annihilation. None know exactly when the Egg will hatch, but the nagas believe the time is at hand. Priests of Shavra have access to the Celestial, Order, and Protection traditions.
+**Students of Magic:** All nagas have the ability to work magic in at least small ways. Many see their magical abilities as a gift from Shavra and pledge their lives to serving their god, while some seek other kinds of arcane knowledge, delving into the magical arts and mastering them. Even those who choose other paths retain this innate ability and weave magic into whatever talents they develop.
+**Common Names:** Cecere, Eshream, Hithrik, Iyolyn, Mersseth, Sisthra, Sossfuss, Thyrin, Ushkeck, and Zaeze.
+
+Variant Options available in the Guardians of the Cosmic Egg PDF.
 ## Attributes
 **Strength:** 9 (-1)
 **Agility:** 10 (0)

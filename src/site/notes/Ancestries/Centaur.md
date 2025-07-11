@@ -2,6 +2,15 @@
 {"dg-publish":true,"permalink":"/ancestries/centaur/","tags":["powerfulAncestry"]}
 ---
 
+The nomadic centaurs have roamed the Endless Steppe for over a thousand years, following the herds of bison they raise for meat, clothing, and other goods.
+They travel the Steppe extensively, moving as the seasons change. Few centaurs leave their tribes; they all feel an obligation to protect their kin and preserve their way of life.
+**Hybrid Forms:** Centaurs combine the forms of humans and horses, such that a human upper body replaces the neck and head of the horse. They tend to be strongly built with prodigious body hair. They have a wide range of coloration, both in skin and in coats covering their lower bodies, though members of the same tribes tend to fall within a particular range.
+Centaurs feel no shame for nakedness and see little point in garbing themselves in coverings. In times of war, they protect themselves with hardened leather armor and barding made from bison hides.
+**Wild and Free:** Recognizing no borders, centaurs go wherever they please and regard everyone in their tribe as equals. They prize freedom as the highest ideal, and outsiders tend to see their promises as being worthless since centaurs cannot be bound by oaths. Being free spirits does not absolve centaurs of their obligations to their tribes, however. The health and security of a tribe always take precedence over the individual centaur’s desires, and thus centaurs curtail their wildness whenever it would come into conflict with their people’s needs.
+**Spirits Everywhere:** In the clouds scudding across the dome of the world, in the sighing wind that stirs the grasses, in the rich earth underfoot, and in the waves crashing against the western shores exist the gods of the centaurs. The sense that the mortal world is alive with the divine contributes to their belief that the Endless Steppe is sacred ground and must be protected from outsiders and nonbelievers. In the minds of the centaurs, the world itself is divine and the wind, rain, grass, earth, water, and more are their gods. The few outsiders to explore the Steppe report hearing odd voices and other unexplained phenomena, leading many to believe that genies or spirits of some kind haunt the lands.
+**Words of Wind:** The centaurs speak Centauri, a flowing, breezy language others find difficult to master. Centauri has no written form. Linguistics scholars note it has much in common with the
+language of sylphs.
+**Common Names:** Aezee, Epheral, Feela, Hithren, Iyeotha, Leeth, Luua, Ossah, Saan, Seese, and Uruul.
 ## Attributes
 **Strength:** 12 (2)
 **Agility:** 11 (1)

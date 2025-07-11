@@ -2,28 +2,27 @@
 {"dg-publish":true,"permalink":"/ancestries/incarnation/","tags":["powerfulAncestry"]}
 ---
 
-## Attributes
-**Strength:** —
-**Agility:** 10 (0)
-**Intellect:** 10 (0)
-**Will:** 10 (0)
-- - -
-## Characteristics
+As the Shadow darkens all across the world, people of all ancestries face horrors beyond imagining, their very realities shaken by the inscrutable darkness emerging from the Void. For help, people look to the silent gods, the wise wizards in their ivory towers, and anyone with the will and might to take a stand. Heroes come from unlikely places, and sometimes even from beyond the world itself.
+**Eternally Vigilant:** To stanch the flood of demons pouring into the universe, numerous genies sacrificed themselves to an effort that would thwart the demons and protect the integrity of the world. They forged an invisible barrier, impervious to demonic intrusion.
+To bolster this boundary, many genies merged with it—literally investing themselves in the magic they wrought. Over the eons, these genies have lost their identities, subsumed beneath the importance of the task they set out to undertake. They have no memory of who they were or even having had a hand in the shaping of reality. These genies, now known as incarnations, exist purely to thwart the demons in their bid to invade the universe.
+**Bodiless and Immortal:** Like genies, incarnations in their natural state have no physical form. Instead, they are pure motive force, not unlike the souls found in mortals. Invisible and ephemeral, unless an incarnation inhabits another creature, it cannot interact with the world in any way. Incarnations are difficult to harm by physical means, though magic can destroy them. Short of annihilation, incantations can exist for as long as the universe.
+**Called to Serve:** Incarnations have no purpose other than to shield reality from demonic influence, and thus most have never been separated from the boundary they help to preserve. From time to time, incarnations abandon their post and descend to the world to thwart efforts to unravel or weaken the boundary to the Void. Only a few ever leave the boundary at a time, and then only for a short period. Leaving the boundary weakens it and makes it vulnerable to additional fractures or, worse, total failure.
+**Borrowed Bodies:** When an incarnation descends to the mortal world, it enters the body of a living, mortal creature, suppressing its soul and taking over the form much in the way that demons can possess creatures. Incarnations cannot possess faeries or trolls—peoples not created by the genies—nor can they inhabit the bodies of creatures that lack souls, such as gnomes and salamanders. The people whose bodies they borrow become completely insensate, almost as if their souls ceased to exist. Once the incarnation departs, the host’s mind and soul regain their former place with no recollection of what has happened or how much time has passed since the individual was last in control.
+**Amoral Guardians:** Incarnations have no concept of good or evil. They do what needs to be done in order to protect the universe. Their dedication to their cause sometimes can result in questionable outcomes, such as the killing of scores of innocents to expose a vile cult of demon-worshipers or the execution of an innocent creature to release the demon hiding within it, but incarnations see such acts as necessary to achieve their objectives. This said, an incarnation never engages in activity that would weaken the boundaries of reality, such as discovering dark magic traditions or using relics influenced by demons or of demonic origin.
+**Common Names:** Some incarnations might use the names of their hosts if revealing their true nature would put them in danger. If not, they use their real names. Sample names include Adriel, Azrael, Cassiel, Dumah, Gadreel, Hesediel, Jehoel, Kushiel, Leliel, Marut, Netzach, Nuriel, Phanuel, Raziel, Samael, Uriel, and Zephon.
+# Incarnation Characters
+Because an incarnation has no physical form and instead borrows the form of another creature, the process of creating an incarnation character involves more steps than creating a character of a normal ancestry. As an incarnation, you borrow the body of a living, mortal creature and remain in that body until you choose to leave it or are forced out when the body dies. Thus, over the course of a campaign, you might inhabit several bodies, so you might find it helpful to keep two character sheets, one for your natural form and the other for the body you currently inhabit.
+## First Form
+Before you create an incarnation, you must create a character for your incarnation to inhabit. Choose an ancestry from among [[Ancestries/Human\|human]], [[Ancestries/Clockwork\|clockwork]], [[Ancestries/Dwarf\|dwarf]],  [[Ancestries/Orc\|orc]], [[Ancestries/Halfling\|halfling]] or [[Ancestries/Faun\|faun]]. Other options might be available at the GM’s discretion, though the ancestry must be living, mortal, and have a soul—so no elementals, faeries, or undead. Go through the entire character creation process until you have a finished character. Afterward, create your incarnation character and, finally, apply the changes from your incarnated form to the character you will inhabit.
+## Incarnation form
+**Strength:** —, **Agility:** 10 (0), **Intellect:** 10 (0), **Will:** 10 (0)
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1/4
-**Speed:** 2
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
-**Languages:** None
-- - - 
-## Talents
+**Size:** 1/4, **Speed:** 2, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
+**Languages anld professions** None
 **Darksight:** You can see in areas obscured by shadows and darkness within medium range as if those areas were lit.
 Beyond this distance, you treat darkness as shadows and shadows as lit.
 **Invisible:** While in your natural form, you are invisible to all creatures other than demons.

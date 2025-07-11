@@ -2,7 +2,14 @@
 {"dg-publish":true,"permalink":"/ancestries/vampire/","tags":["Template"]}
 ---
 
-## Attributes
+Vampires emerge from crypts and climb out of graves to prey on the living when night falls. Most vampires are true monsters, cruel and indiscriminate killers made incapable of remorse by the unholy curse sustaining their unnatural existence. A few manage to control the terrible impulses and curb their appetites enough to cling to the tattered shreds of their lost humanity.
+**Sire-Bound:** A vampire can create another vampire by bringing a human to the brink of death and feeding the victim a measure of the vampire’s blood. This act kills the victim, who then rises the next night as a vampire under its sire’s control (see “Creating New Vampires” below). Since creating new vampires means more competition for fresh blood and risks attention from inquisitors and undead-slayers, vampires sire off spring with great reluctance.
+**Maddening Thirst:** Blood is never far from a vampire’s thoughts, being needed to sustain its immortal existence. The agony of this thirst and the fear of helplessness combine in a relentless craving that intensifies the longer the vampire goes without drinking.
+**Feral and Monstrous:** Though traces of their humanity linger in the vampires’ undead states, long, sharp fangs fill their mouths, and their features become drawn and pale by the pangs of blood thirst. When a vampire attacks, its visage twists into something monstrous, its naked hunger inspiring fear and panic.
+**Witch-King’s Curse:** The Witch-King created the first vampires from his most loyal servants, transforming them into immortal subjects made dependent on him for blood. The vampires in his service benefited from preternatural strength, quickness, keen senses, and durability, making them useful to the Dark One and loyal thanks to their incessant thirst. All vampires descend from them, and it’s believed some ancestors survive to this day, sealed in the Desolation’s black tombs.
+**Common Names:** Vampires might use their human names or adopt new ones. Many feel the transformation is a rebirth and assume new identities suited to their new existences. Such vampires adopt noble titles or monikers that reflect their new natures, such as the Red Duchess, Shade, Desire, or She.
+## Creating a Vampire
+All vampires begin as [[Ancestries/Human\|humans]], so first create a human character and then apply the following traits to that character.
 **Bonuses:** Strength +1, Agility +1, Intellect +1, Will +1
 - - -
 ## Characteristics
@@ -21,9 +28,9 @@ Beyond this distance, you treat darkness as shadows and shadows as lit.
 **Sire-Bound:** You are bound to the vampire that created you until it uses an action to free you or it is destroyed.
 You cannot attack the vampire that made you, and you become compelled by it while it is within short range of you.
 **Dreadful Appearance:** When you attack a living creature that can see you, the target must make a Will challenge roll. The target becomes frightened for 1 minute on a failure. On a success, it becomes immune to your Dreadful Appearance until after it completes a rest.
-**Natural Weapons:** You have long fangs, which count as swift fi nesse weapons that deal 1d6 damage.
+**Natural Weapons:** You have long fangs, which count as swift finesse weapons that deal 1d6 damage.
 **Unnatural Existence:** Your healing rate is 0 and cannot be increased above 0.
-**Blood Pool:** You need blood to sustain your existence. You measure the blood you have accumulated in a pool of blood points. When you fi rst become a vampire, you gain 1 blood point from the vampire that created you.
+**Blood Pool:** You need blood to sustain your existence. You measure the blood you have accumulated in a pool of blood points. When you first become a vampire, you gain 1 blood point from the vampire that created you.
 You add blood points to your pool using the Drink Blood talent (see below) up to a maximum number equal to 1 + your group level.
 Each time you complete a rest, you must spend 1 point from your blood pool. If you have no blood points to spend, you gain 1 Insanity and take a –1d6 penalty to Health (minimum 0; see Torpor below). The penalty is cumulative, and you are impaired while you have it. You can remove the accumulated penalty to Health by using an action to spend 1 blood point.
 **Blood Healing:** You can use an action or a triggered action on your turn to expend 1 blood point and heal damage equal to 1 + your group level.

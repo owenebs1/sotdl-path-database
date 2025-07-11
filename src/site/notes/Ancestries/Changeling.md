@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/ancestries/changeling/"}
 ---
 
+Faerie create changelings to conceal the absence of children they steal. They construct a changeling from natural materials and use magic to give it the appearance of the missing child. The magic often fades after a few weeks, but sometimes it lingers and lets the changeling grow up to become a real person.
+**Many Masks:** Changelings can use their magical nature to adopt the forms of anyone they see. They assume different forms to conceal their true nature, forms that most deem hideous and unsettling. When stripped of their disguises, changelings look like humanoids formed from dirt, sticks, and rocks, with glowing green eyes set in otherwise featureless faces. Changelings in their natural form stand 5 feet tall and weigh 90 pounds.
+**Changeable Identities:** Constantly changing identities has a deleterious effect on changeling personalities. Most mimic the attitudes and outlooks of the people around them, having no particular views themselves or, if they have them, burying them so deep they cannot remember who they started out being or what they hope to become.
+**Common Names:** When not using the names of the people they impersonate, changelings use nicknames such as Coy, Jester, Mirth, Rook, Shadow, Slick, or Sly.
+
 Variant Options available in the Stolen Lives PDF.
 ## Attributes
 **Strength:** 9 (-1)
