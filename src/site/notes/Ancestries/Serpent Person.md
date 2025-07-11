@@ -9,28 +9,16 @@ In a land far from Rûl, perhaps even in another world, at a time long ago when 
 **Shapechangers:** As a naturally magical people, serpent people can alter their physical form to assume the appearance of other humanoid-shaped creatures. This ability was useful to the Valossans as they fled the destruction of their homeland, and remains so now as they seek to gather information about the present world and the peoples they once called their slaves. Unlike faeries that can change their shapes, serpent people have nothing to fear from iron and can remain in their changed forms for as long as they remain conscious.
 **Degenerate Serpent People:** Serpent people who succumb to the temptations of darkness tend to lose their minds and devolve, becoming hideous degenerates that live little better than beasts in dark and dank places. This vulnerability could be a curse laid on them by their god, or it might be a side effect of their magical nature, but whatever the cause, serpent people who give in to dark temptations suffer the transformation. Part of the reason that degenerate serpent people are more common than others is that serpent people do not shed Corruption when they die. Instead, the darkness stays with their souls and inhabits their new bodies. Thus, when a degenerate dies, it’s almost a sure thing that a newly hatched serpent person will also be a degenerate.
 **Common Names:** A’bar, E’star, I’dreken, K’stad, M’kath, N’stakth, S’seth, S’till, T’tlan.
-## Attributes
-**Strength:** 8 (-2)
-**Agility:** 10 (0)
-**Intellect:** 11 (1)
-**Will:** 10 (0)
-- - -
-## Characteristics
+# Creating a Serpent Person
+## Starting Attribute Scores
+**Strength:** 8, **Agility:** 10, **Intellect:** 11, **Will:** 10
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak, read, and write the Common Tongue. Roll a d6. On a 6, you can also speak, read, and write Valossan, and you add scholar of ancient Valossa to your list of professions.
-- - - 
-## Talents
 **Darksight:** You can see into areas obscured by shadows and darkness within medium range as if those areas were lit. Beyond this distance, you treat darkness as shadows and shadows as lit.
 **Teeth:** Your teeth count as basic weapons that deal 1d3 damage and have the finesse property.
 **Curse of Yig:** When you gain Corruption, you gain Insanity of an equal amount. Insanity gained in this way cannot be removed except by magic. If you go mad while you have Corruption, you take a penalty to Intellect equal to half your Corruption. If this penalty would reduce your Intellect to 5 or lower, you immediately and permanently become a degenerate serpent person and use its statistics in place of your own. The GM then takes control of your character.

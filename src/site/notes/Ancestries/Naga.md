@@ -12,28 +12,16 @@ For generations, they stayed out of view, keeping their customs and protecting w
 **Common Names:** Cecere, Eshream, Hithrik, Iyolyn, Mersseth, Sisthra, Sossfuss, Thyrin, Ushkeck, and Zaeze.
 
 Variant Options available in the Guardians of the Cosmic Egg PDF.
-## Attributes
-**Strength:** 9 (-1)
-**Agility:** 10 (0)
-**Intellect:** 10 (0)
-**Will:** 11 (1)
-- - -
-## Characteristics
+# Creating a Naga
+## Starting Attribute Scores
+**Strength:** 9, **Agility:** 10, **Intellect:** 10, **Will:** 11
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 8
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 8, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue and Naga, the tongue of the Nagas.
-- - - 
-## Talents
 **Magic:** You discover one tradition of your choice.
 **Venomous Bite:** When you make an unarmed strike, you can attack with your fangs. A success on your attack roll against a living creature forces the target to make a Strength challenge roll. A failure on the challenge roll indicates the target becomes poisoned for 1 minute. At the end of each round a target is poisoned in this way, it must get a success on a Will challenge roll or gain 1 Insanity.
 - - - 

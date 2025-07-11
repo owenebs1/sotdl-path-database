@@ -14,28 +14,16 @@ For all their fears, they remain a people curious, eager to learn about the worl
 **Strangers in a Strange Land:** Gnomes have little experience dealing with the people dwelling in the world above. Refugees have spilled into the Northern Reach where they encountered the humans who have either welcomed them or at least tolerated their arrival. Prior to their emergence, the gnomes came into conflict with dwarfs at various times in the past, usually as a result of prospectors drawing too close to their enclaves. Other than these peoples, gnomes are strangers to the surface world and have yet to form opinions about the people who live here.
 **Tongue of Earth and Stone:** Spoken almost exclusively by gnomes, it is close enough to the language spoken by sylphs, undines, and salamanders that they can usually make themselves understood to one another. The written form of gnomish uses patterns of dots and lines in place of characters.
 **Common Names:** Amber, Basalt, Beryl, Chert, Coal, Flint, Lime, Onyx, Opal, Pog, Rose, Ruby, Shale, and Wackes.
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 8 (-2)
-**Intellect:** 9 (-1)
-**Will:** 11 (1)
-- - -
-## Characteristics
+# Creating a Gnome
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 8, **Intellect:** 9, **Will:** 11
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1/2
-**Speed:** 8
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1/2, **Speed:** 8, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages And Professions:** You speak Gnomish.
-- - - 
-## Talents
 **Immune:** damage from disease or poison; diseased, poisoned
 **Darksight:** You can see into areas obscured by shadows and darkness within medium range as if those areas were lit. Beyond this distance, you treat darkness as shadows and shadows as lit.
 **Impaired by Light:** You are impaired while in areas of sunlight and not wearing some kind of covering over your eyes.

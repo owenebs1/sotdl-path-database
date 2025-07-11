@@ -8,28 +8,16 @@ The genies shaped the first salamanders from elemental flame to serve as thralls
 **Slaves of the Genies:** The genies made salamanders to do their bidding, and salamanders believe they likewise fashioned the world from chaos. Other elementals were made to be creators and healers, but salamanders were designed as destroyers. They fought the genies’ enemies: the faerie, trolls, and anyone else who sought to bind and control their masters. Thus their first encounters with humanity were in battle, which left a lasting negative impression. As madness infected the genies, their interest in the world waned, leaving the salamanders free to find their own destinies. Most made their homes in the Burning Vaults, but some survived in the Desolation’s wastes.
 **Fierce and Volatile:** A people of intense passion, salamanders have difficulty hiding their emotions, especially anger. In dealings with others, they can be aggressive to the point of causing offense, even threatening, if they don’t get their way. Such emotional outbursts never last for long, though, and they quickly forget what raised their ire in the first place.
 **Common Names:** Azagad, Beruul, Dedan, Fereen, Heeseh, Ignez, Seekriz, Zeez.
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 9 (-1)
-**Intellect:** 9 (-1)
-**Will:** 11 (1)
-- - -
-## Characteristics
+# Creating a Salamander
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 9, **Intellect:** 9, **Will:** 11
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue and Firespeak, a hissing and clicking language of the flame elementals.
-- - - 
-## Talents
 **Immune:** damage from disease, fire, and poison; diseased, poisoned
 **Cold Intolerant:** You take double damage from cold. When you take damage from cold, you also become fatigued for 1 round.
 **Heat:** At the end of the round, each creature grabbed by you or that has grabbed you must get a success on a Strength challenge roll or take 1d3 damage from the intense heat radiating from your body.

@@ -12,27 +12,16 @@ They look like other humans, though their eyes might reflect light like a cat’
 other names.
 
 Variant Options available in the In Plain Sight PDF.
-## Attributes
-**Strength:** 9 (-1)
-**Agility:** 11 (1)
-**Intellect:** 10 (0)
-**Will:** 9 (-1)
-- - -
-## Characteristics
+# Creating a Ferren
+## Starting Attribute Scores
+**Strength:** 9, **Agility:** 11, **Intellect:** 10, **Will:** 9
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
-**Languages:** You speak the Common Tongue. 
-- - - 
-## Talents
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
+**Languages:** You speak the Common Tongue.
 **Shadowsight:** You see in areas obscured by shadows as if those areas were lit.
 **Clawed Hands:** In human form, your unarmed strikes deal 1d3 damage instead of 1 damage.
 **Cat Form:** You can use an action to assume the form of a cat or return to your human form. You remain in the new form until you use this talent again. If you become incapacitated while in your cat form, you automatically revert to your human form.

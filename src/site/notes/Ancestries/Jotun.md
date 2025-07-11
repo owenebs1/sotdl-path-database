@@ -12,28 +12,16 @@ The jotun have since recovered from their defeat and have endured the many centu
 Jotun enjoy crude humor, drinking, and boasting. They tell riddles or enjoy the skalds’ tales of their great heroes, the foibles of the gods, and the mishaps that befell the wretched trows. Superstitious, the jotun see omens everywhere and believe the gods walk among them. Cowardice is the greatest crime a jotun could commit. Many jotun believe that fl eeing from an enemy brings shame not only to themselves, but to their entire clan.
 **The Wyrd:** The jotun believe that Grimnir has laid eyes on the beginnings of all things and has seen the end as well. His knowledge means that all has been decided, and each person’s fate has already been written. The concept of the wyrd (which can be taken as destiny, doom, or fate) haunts the jotun, shaping their view of the world and defining the place they have in it. There can be no escaping the doom foreseen by Grimnir, so there is no sense fighting it. Accept what is, and chase glory until the end.
 **Common Names:** Arne, Astri, Bjorn, Bryhild, Eirik, Freydis, Geir, Gisle, Gundrun, Gunnar, Gunnhold, Gunnvor, Hakon, Harald, Hilde, Inge, Ingrid, Ivar, Knut, Leif, Magnus, Olav, Ragnhild, Ranveig, Rolf, Sigrid, Sigurd, Sigrunn, Siv, Snorre, Solveig, Steinar, Svanhild, Torhild, Torstein, Torunn, Trygve, Turid, Ulf, Valdemar, Vidar, Vigdis, Yngve, and Yngvild.
-## Attributes
-**Strength:** 13 (3)
-**Agility:** 9 (-1)
-**Intellect:** 8 (-2)
-**Will:** 10 (0)
-- - -
-## Characteristics
+# Creating a Jotun
+## Starting Attribute Scores
+**Strength:** 13, **Agility:** 9, **Intellect:** 8, **Will:** 10
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 2
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 2, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages and Professions:** You speak the Common Tongue and Trollish. You begin the game with one profession, which you determine by rolling on the Jotun Profession table.
-- - - 
-## Talents
 **Inured to Cold:** You take half damage from cold, and you are never at risk of suffering the effects of exposure in cold environments.
 **Powerful Ancestry:** When your group attains level 1, you do not choose a novice path. Instead, whenever the Advancement table in Shadow indicates you would gain benefits from a novice path, you gain the benefits from your ancestry for that level.
 - - - 

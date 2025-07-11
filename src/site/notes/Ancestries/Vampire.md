@@ -8,10 +8,10 @@ Vampires emerge from crypts and climb out of graves to prey on the living when n
 **Feral and Monstrous:** Though traces of their humanity linger in the vampires’ undead states, long, sharp fangs fill their mouths, and their features become drawn and pale by the pangs of blood thirst. When a vampire attacks, its visage twists into something monstrous, its naked hunger inspiring fear and panic.
 **Witch-King’s Curse:** The Witch-King created the first vampires from his most loyal servants, transforming them into immortal subjects made dependent on him for blood. The vampires in his service benefited from preternatural strength, quickness, keen senses, and durability, making them useful to the Dark One and loyal thanks to their incessant thirst. All vampires descend from them, and it’s believed some ancestors survive to this day, sealed in the Desolation’s black tombs.
 **Common Names:** Vampires might use their human names or adopt new ones. Many feel the transformation is a rebirth and assume new identities suited to their new existences. Such vampires adopt noble titles or monikers that reflect their new natures, such as the Red Duchess, Shade, Desire, or She.
-## Creating a Vampire
+# Creating a Vampire
 All vampires begin as [[Ancestries/Human\|humans]], so first create a human character and then apply the following traits to that character.
-**Bonuses:** Strength +1, Agility +1, Intellect +1, Will +1
-- - -
+## Attributes: 
+**Strength** +1, **Agility** +1, **Intellect** +1, **Will** +1
 ## Characteristics
 **Perception:** +1
 **Defense:** +1

@@ -8,28 +8,16 @@ Faerie create changelings to conceal the absence of children they steal. They co
 **Common Names:** When not using the names of the people they impersonate, changelings use nicknames such as Coy, Jester, Mirth, Rook, Shadow, Slick, or Sly.
 
 Variant Options available in the Stolen Lives PDF.
-## Attributes
-**Strength:** 9 (-1)
-**Agility:** 10 (0)
-**Intellect:** 10 (0)
-**Will:** 10 (0)
-- - -
-## Characteristics
+# Creating a Changeling
+## Starting Attribute Scores
+**Strength:** 9, **Agility:** 10, **Intellect:** 10, **Will:** 10
 **Perception:** equals your Intellect score +1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue.
-- - - 
-## Talents
 **Immune:** damage from disease; charmed, diseased
 **Iron Vulnerability:** You are impaired while in contact with iron.
 **Shadowsight:** You see into areas obscured by shadows as if those areas were lit.

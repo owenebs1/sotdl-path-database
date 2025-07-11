@@ -6,33 +6,20 @@ Clockworks are mechanical people made from metal plating, gears, wires, bits of 
 **Common Names:** Typically, clockworks use names given to them by their creators. These can be nicknames or strings of letters and numbers. Clockworks might choose names they find interesting or use names dredged up from their souls’ memories.
 
 Variant Options available in the Ghosts in Machines PDF.
-## Attributes
-**Strength:** 9 (-1)
-**Agility:** 8 (-2)
-**Intellect:** 9 (-1)
-**Will:** 9 (-1)
-- - -
-## Characteristics
+# Creating a Clockwork
+## Starting Attribute Scores
+**Strength:** 9, **Agility:** 8, **Intellect:** 9, **Will:** 9
 **Perception:** equals your Intellect score
 **Defense:** 13
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter of your Health, rounded down
-**Size:** 1
-**Speed:** 8
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 8, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common tongue.
-- - - 
-## Talents
 **Immune:** damage from disease and poison; asleep, diseased, fatigued, poisoned
 **Key:** You have a key somewhere on your body that you cannot reach.The key determines whether you are a creature or an object. If the key is turning, you count as a creature and use your normal statistics. If the key isn’t turning, you count as an object and use the statistics in the following description in place of your normal statistics (your Health becomes the object starting number). Your key stops turning when you become incapacitated or at the end of any round in which you got a 0 or less on an attack roll or challenge roll. Any damage taken in excess of your Health applies to your Health in your object form; if you take damage equal to the Health of your object form, you are destroyed.
 **Mechanical Body:** You do not eat, drink, or breathe.
 You do not age and you cannot be transformed into an undead creature. Your mechanical body makes it impossible for you to swim, so you sink to the bottom when you are submerged in liquid.
-
 ### Object Form
 *Size as your creature form*
 **Perception:** —

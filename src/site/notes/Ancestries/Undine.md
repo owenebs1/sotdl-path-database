@@ -12,28 +12,16 @@ Undines, of course, do exist, along with a variety of other ocean-dwelling peopl
 **Changeable Nature:** An undine can be as calm as a still pool or as tempestuous as a hurricane, liable to switch from one mood to another with little provocation and no warning. Undines can be warm and comforting, or cold and biting. They never cling to grudges, though, and consider the end of any altercation to be the end of the problem that caused it.
 **The King under the Waves:** Like other elementals, undines do not worship gods in the manner of mortals and instead serve the genies, as they were made to do so long ago. Undines serve all the genies, but they hold an affinity for those who mastered the waters of the world. One figure in particular has risen to prominence among the undines, an entity they call the King under the Waves—a name they invoke but never explain. In truth, this entity is an ancient, insane genie locked beneath a sunken city. The undines who serve this being keep their master in a state of sleep, lest he waken and bring about the apocalypse. Devotees of the King under the Waves have access to the Destruction, Storm, and Water traditions.
 **Common Names:** Anana, Bein, Callouch, Eeffre, Frish, Louschen, Mascha, Nahsh, Oola, Sselesh, Thundra, Yorrsh.
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 10 (0)
-**Intellect:** 9 (-1)
-**Will:** 10 (0)
-- - -
-## Characteristics
+# Creating a Undine
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 10, **Intellect:** 9, **Will:** 10
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue and Tidetongue, the language of the undine people.
-- - - 
-## Talents
 **Shadowsight:** You see into areas obscured by shadows as if those areas were lit.
 **Swimmer:** You ignore the effects of difficult terrain when you swim.
 **Water Breathing:** You can breathe air and water.

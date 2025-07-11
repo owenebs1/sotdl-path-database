@@ -14,28 +14,16 @@ Once at the colony, the fungus begins to alter the host body, spreading through 
 **Strange Diets:** Despite their efforts to integrate with the mortals of Urth by taking on superficially reassuring forms, they have not yet been able to mask one aspect of their biology. Saprophicans are ravenous carnivores, 3 unable to eat anything but raw meat. They have a specialized fungal “stomach” that putrefies the meat before digesting it, which causes each saprophican to smell slightly of decay shortly after each meal.
 **A Forgotten God:** Each colony still worships the same god, the Mother Spore, and a shrine to this goddess—a giant pillar of slick, black fungus—stands at the center of every community. Saprophicans believe it was from her they were spawned. The Mother Spore is a grim uncaring figure of death, decay, and rebirth. She compels her brood to spread their spores to the furthest corners of the continent, and with the Shadow of the Demon Lord touching even their secluded homes, saprophicans are leaving their colonies in greater numbers. The few scholars who have been able to study saprophican religion—and did not pay with their life for it—believe it is simply a distant offshoot of the ancient World Mother cult. Instead of fertility and vitality, their sect venerated decay as the start of all life and rebirth. While each colony’s beliefs vary in the details, they all believe that the Mother Spore is something entirely other than the World Mother. Priests of the Mother Spore have access to the Death, Life, and Nature traditions.
 **Common Names:** Ayoo, Bumbo, Coof, Eyish, Floom, Gibble, Iggwye, Lumma, Maol, Muun, Numm, Ooo, Opple, Puen, Unnu, and Wammble.
-## Attributes
-**Strength:** 9 (-1)
-**Agility:** 11 (1)
-**Intellect:** 10 (0)
-**Will:** 11 (1)
-- - -
-## Characteristics
+# Creating a Saprophican
+## Starting Attribute Scores
+**Strength:** 9, **Agility:** 11, **Intellect:** 10, **Will:** 11
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages and Professions:** You speak the Common Tongue.
-- - - 
-## Talents
 **Immune:** damage from disease and poison; diseased, poisoned
 **Shadowsight:** You see in areas obscured by shadows as if those areas were lit.
 **Language of the Mother Spore:** As a minor activity, you can release a spore cloud from your body that spreads out to a range of 10 yards from a point in your space. The spores hang in the air for 1 round. Using these spores, you can communicate a concept or emotion that can be summarized in a few words to other saprophicans within the spore cloud.

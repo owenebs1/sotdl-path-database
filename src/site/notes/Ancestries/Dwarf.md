@@ -10,28 +10,16 @@ their waists.
 **Common Names:** Anise, Brunhild, Doogan, Erika, Franz, Grete, Guntur, Heida, Helmut, Ilse, Martok, Oda, and Ragnar.
 
 Variant Options available in the For Gold and Glory PDF.
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 9 (-1)
-**Intellect:** 10 (0)
-**Will:** 10 (0)
-- - -
-## Characteristics
+# Creating a Dwarf
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 9, **Intellect:** 10, **Will:** 10
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score + 4
 **Healing Rate:** equals one-quarter of your Health, rounded down
-**Size:** 1/2
-**Speed:** 8
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1/2, **Speed:** 8, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue, and you speak, read, and write Dwarvish.
-- - - 
-## Talents
 **Darksight:** You can see in areas obscured by shadows or darkness within medium range as if those areas were lit.
 Beyond this distance, you treat darkness as shadows and shadows as lit.
 **Hated Creature:** Choose a creature from the Hatred table.

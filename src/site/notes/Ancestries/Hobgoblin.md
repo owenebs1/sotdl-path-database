@@ -8,30 +8,18 @@ When the fey go to war, they rely on the hobgoblins to take up arms and lead the
 **Live to Serve:** The highest ideal to which all hobgoblins strive is to acquit themselves well in service to their patrons, even if doing so means their death. Hobgoblins venerate their patrons—the Faerie Queen, the Goblin King, the Prince of Robins—almost as gods and invoke their names when they are surprised, angered, or amazed. Hobgoblins believe that their people share one soul, so death holds no fear for them so long as at least one hobgoblin lives.
 **Simple Ambitions:** Hobgoblins were made to fight, but battle does not occur frequently enough to hold their attention. They spend their time between battles drinking, fighting, and mating. Many hobgoblins become quite skilled at making arms and armor, rivaling dwarfs in their crafting ability.
 **Common Names:** A hobgoblin’s full name consists of three numbers. The first number is the sum of all the last numbers of one’s grandparents. The second is the sum of the last numbers of one’s parents. The third number indicates one’s order of birth within the family. So, the second (2) hobgoblin born to the fourth and fifth (4+5) hobgoblins born to the third, fifth, first, and second (3+5+1+2) hobgoblins would be named 11-9-2. Hobgoblins typically refer to each other by the last numbers of their names, and some adopt nicknames given to them by their acquaintances.
-## Attributes
-**Strength:** 11 (1)
-**Agility:** 10 (0)
-**Intellect:** 9 (-1)
-**Will:** 11 (1)
+# Creating a Hobgoblin
+## Starting Attribute Scores
+**Strength:** 11, **Agility:** 10, **Intellect:** 9, **Will:** 11
 These scores **cannot** be adjusted during character creation.
-- - -
-## Characteristics
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 1d3
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 1d3, **Corruption:** 0
 **Languages:** You speak Elvish
 **Professions:** You have the soldier profession
-- - - 
-## Talents
 **Immune:** damage from disease; charmed, diseased
 **Iron Vulnerability:** You are impaired while you are in contact with iron.
 **Shadowsight:** You see into areas obscured by shadows as if those areas were lit.

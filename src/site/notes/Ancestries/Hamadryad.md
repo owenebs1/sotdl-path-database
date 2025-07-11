@@ -11,28 +11,16 @@ A long-lived people, hamadryads can survive for centuries before succumbing to o
 **Common Names:** Hamadryads often go by the names of the trees they resemble, such as Maple, Ash, Holly, Oak, and so on.
 
 Variant Options available in the Scions Of Nature PDF.
-## Attributes
-**Strength:** 9 (-1)
-**Agility:** 10 (0)
-**Intellect:** 9 (-1)
-**Will:** 11 (1)
-- - -
-## Characteristics
+# Creating a Hamadryad
+## Starting Attribute Scores
+**Strength:** 9, **Agility:** 10, **Intellect:** 9, **Will:** 11
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue and Elvish.
-- - - 
-## Talents
 **Shadowsight:** You see in areas obscured by shadows as if those areas were lit.
 **Immune:** damage from disease; charmed, diseased
 **Nature Stride:** You ignore the effects of moving across difficult terrain caused by roots, undergrowth, and trees.

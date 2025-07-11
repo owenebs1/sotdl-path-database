@@ -7,26 +7,15 @@ Occasionally, an animal from the mortal world will find its way into the maze an
 **Shaped by Magic** The magic of the faerie realm and the goblin king shape these animals into different versions of themselves. Some have their front paws turn into hands, others grow new limbs. Some are shaped into vaguely humanoid shape, while others have their size altered. Along with physical changes, the magic can alter their mindset as well, making some docile or more violent depending on the goblin king's mood when the magic changed them. But all become intelligent and gain the ability to speak.
 Depending on your starting animal, your size may change. Roll or choose on the build table to determine what size the goblin king's magic has made you. Then roll or choose on the shape alterations table to see how the magic has altered your basic animal form.
 # Creating an Awakened Animal
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 10 (0)
-**Intellect:** 10 (0)
-**Will:** 10 (0)
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 10, **Intellect:** 10, **Will:** 10
 Choose one attribute and increase it by one, and a second attribute and decrease it by 1.
-- - -
-## Characteristics
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1/4 to 2
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1/4 to 2, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages and Professions:** You speak either Common, elvish, or goblin.
 - - - 
 ## Animal Characteristics
@@ -51,8 +40,9 @@ You can see in areas obscured by shadows as if those areas were lit. If you sele
 You rely on senses other than sight to perceive your surroundings and can pinpoint the location of each creature and object within medium range. Creatures within the area cannot hide from you, and you ignore banes imposed by obscurement on rolls to perceive things. You are immune to the blinded affliction. If you select this trait a second time, extend the range to long.
 ### Venomous
 Targets of your natural weapon must make a Strength challenge roll. On a failure, it takes 1d3 damage and becomes poisoned for 1 minute. If the target is already poisoned, it takes 1d3 extra damage. If you select this trait a second time, increase the damage to 1d6.
-## LEVEL 4 AWAKENED ANIMAL
-Characteristics Health +5
+- - -
+## Level 4 Awakened Animal
+**Characteristics** Health +5
 You either learn one spell or gain Growing Pains.
 **Growing Pains** Select two additional traits from the Animal Characteristics list.
 - - -

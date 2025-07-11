@@ -8,28 +8,16 @@ Devils use any trick they can to tempt mortals and lure them to their doom. Some
 **Telltale Signs:** A devil who births a cambion might leave the child for human parents to raise and better prepare them for the work ahead. It is obvious to anyone tending to such a child that something is wrong. The baby might not breathe when it sleeps, weigh three or four times what it should, or cause unusual phenomena, such as the manifestation of cold spots, noisome odors, and weird knocking noises in the walls. Few foster parents have the courage to help the darkling child; many give them up, cast them out, or worse.
 **Hellbound:** The darkness into which all cambions are born damns them to Hell, since methods of cleansing souls outside of the infernal realm are dangerous and unreliable. Cambions soon realize that no matter what they do in the mortal world, they will one day face the horrors of the afterlife, so many give up any pretense of trying to do good and instead embrace their evil natures in the hopes of earning a place among the greater devils. Even though they eventually realize what lies in store for them, a few cambions also understand they might shorten their time in Hell and perhaps one day find a better life.
 **Common Names:** Cambions use human names.
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 10 (0)
-**Intellect:** 11 (1)
-**Will:** 9 (-1)
-- - -
-## Characteristics
+# Creating a Cambion
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 10, **Intellect:** 11, **Will:** 9
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1/2 or 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 2
-- - -
-## Languages and Professions
+**Size:** 1/2 or 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 2
 **Languages and Professions:** You speak the Common Tongue.
-- - - 
-## Talents
 **Immune:** damage from disease and poison; diseased, poisoned
 **Darksight:** You can see in areas obscured by shadows and darkness within medium range as if those areas were lit.
 Beyond this distance, you treat darkness as shadows and shadows as lit.

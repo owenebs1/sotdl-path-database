@@ -14,29 +14,17 @@ Priests of the Great Mother have access to the Earth, Metal, and Shadow traditio
 **Common Names:** Bol, Cacen, Derg, Fung, Gren, Heep, Kimp, Memn, Nerval, Picka, Slep, Teek, and Zoot.
 
 Variant Options available in the The Great Mother's Brood PDF.
-## Attributes
-**Strength:** 11 (1)
-**Agility:** 9 (-1)
-**Intellect:** 10 (0)
-**Will:** 10 (0)
-- - -
-## Characteristics
+# Creating a Molekin
+## Starting Attribute Scores
+**Strength:** 11, **Agility:** 9, **Intellect:** 10, **Will:** 10
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1/2
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1/2, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue and Molekin.
 **Professions:** Add miner to your list of professions.
-- - - 
-## Talents
 **Darksight:** You can see in areas obscured by shadows and darkness within medium range as if those areas were lit.
 Beyond this distance, you treat darkness as shadows and shadows as lit areas.
 **Claws:** Your unarmed strikes deal 1d3 damage instead of 1 damage.

@@ -11,28 +11,16 @@ Once sprayed, the musk retains potency for a few weeks.
 **Queen Worship:** The yerathi worship their queens as gods. Their faith in their patrons gives these queens great magical power, though not quite that wielded by the old gods. A queen grants her priests, who most often come from the consort caste, access to the Battle, Earth, and Life traditions.
 **Common Names:** Chatten, Chech, Chiruut, Daken, Iet, Jekt, Kad, Kik, Not, Qim, Tirru, and Tyten.
 
-## Attributes
-**Strength:** 9 (-1)
-**Agility:** 10 (0)
-**Intellect:** 10 (0)
-**Will:** 9 (-1)
-- - -
-## Characteristics
+# Creating a Yerath
+## Starting Attribute Scores
+**Strength:** 9, **Agility:** 10, **Intellect:** 10, **Will:** 9
 **Perception:** equals your Intellect score
 **Defense:** 12
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue and the Yerath language.
-- - - 
-## Talents
 **Caste:** Roll on the Yerath Caste table to determine your caste.
 You gain benefits based on the result of your roll.
 	**Drone:** Add laborer to your list of professions. Increase your Strength by 2 and Will by 1.

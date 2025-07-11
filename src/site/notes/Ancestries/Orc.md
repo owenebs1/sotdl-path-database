@@ -9,28 +9,16 @@ Long believed to be the perfect soldiers, the orcs have thrown off slavery’s s
 **Common Names:** Bastard, Bunion, Dredface, Grubthumb, Hate, Killer, Mung, Pliers, Pung, Stenchfist, and Wossname.
 
 Variant Options available in the Born to Kill PDF.
-## Attributes
-**Strength:** 11 (1)
-**Agility:** 10 (0)
-**Intellect:** 9 (-1)
-**Will:** 9 (-1)
-- - -
-## Characteristics
+# Creating an Orc
+## Starting Attribute Scores
+**Strength:** 11, **Agility:** 10, **Intellect:** 9, **Will:** 9
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 12
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 1
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 12, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 1
 **Languages:** You speak the Common Tongue and Dark Speech
-- - - 
-## Talents
 **Shadowsight:** You see in areas obscured by shadows as if those areas were lit.
 - - - 
 ## Level 4 Benefits

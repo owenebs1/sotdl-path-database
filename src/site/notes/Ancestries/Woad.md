@@ -79,28 +79,16 @@ The Wolf tribe is actually two tribes divided by age and role. The first tribe i
 Woad resemble humans, and have spirits similar to human souls, but it is there the resemblance ends. Most Woad stay with their tribes, having little interest or cause to mingle with humanity, though the Hare tribe has recently proved the exception.
 However, as the Demon Lord’s shadow creeps across Urth, fomenting chaos and discord, some Woad feel moved to leave their people and join the struggle to save the world.
 **Common Names:** Bors, Cei, Dar, Eda, Fenno, Makel, Nue, Pan, Ren, Sah, Ter, and Yaz.
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 10 (0)
-**Intellect:** 9 (0)
-**Will:** 10 (0)
-- - -
-## Characteristics
+# Creating a Woad
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 10, **Intellect:** 9, **Will:** 10
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages and Professions:** You speak your tribal dialect of Woad
-- - - 
-## Talents
 **Tribal Affiliation:** Choose a Woad tribe to whom you belong and gain its benefits
 - - - 
 ## Level 4 Benefits

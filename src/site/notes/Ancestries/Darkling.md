@@ -16,31 +16,18 @@ As the years pass, old memories fade to make room for new ones, and all but the 
 **Mad Obsession:** As committed as they are to exacting their vengeance upon humans, most darklings also become preoccupied with certain obsessions. Some darklings crave pain and pass their days mutilating their bodies for the sick pleasure it brings them, while others wallow in sorrow, lamenting what has been done to them.
 Their obsessions color everything they do, and when not committed to performing particular tasks or services, darklings spend as much time as possible indulging their obsessions.
 **Common Names:** Darklings choose names for themselves from things they find particularly interesting, ugly, or hurtful. Example names include Scream of a Dying Child, Widow’s Tears, Foulest Semen, Morbid Feast, Pangs of the Starving, Innocent Blood, and Father’s Ashes.
-## Attributes
-**Strength:** 9 (-1)
-**Agility:** 10 (0)
-**Intellect:** 10 (0)
-**Will:** 8 (-2)
-
+# Creating a Darkling
+## Starting Attribute Scores
+**Strength:** 9, **Agility:** 10, **Intellect:** 10, **Will:** 8
 **Bonuses:** choose two different attributes and increase each by 1
-- - -
-## Characteristics
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 1d3
-**Corruption:** 1d3+1
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 1d3, **Corruption:** 1d3+1
 **Languages and Professions:** You speak, read, and write Elvish and High Archaic.
 You might gain additional professions based on your starting age.
-- - - 
-## Talents
 **Immune:** damage from disease; charmed, diseased
 **Shadowsight:** You see into areas obscured by shadows as if those
 areas were lit.

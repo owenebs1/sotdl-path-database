@@ -12,28 +12,16 @@ Windy Aeries: The sky beckons to sylphs, calling them to soar as they did in anc
 **Common Names:** Alees, Erea, Feeth, Hithr, Iye, Nefa, Ossa, Sa, Shasor, Siver, Ual, Usa, Ven, Vimvin, and Wirrah.
 
 Variant Options available in the Heaven’s Sent PDF.
-## Attributes
-**Strength:** 8 (-2)
-**Agility:** 11 (1)
-**Intellect:** 9 (-1)
-**Will:** 11 (1)
-- - -
-## Characteristics
+# Creating a Sylph
+## Starting Attribute Scores
+**Strength:** 8, **Agility:** 11, **Intellect:** 9, **Will:** 11
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak Sylphen.
-- - - 
-## Talents
 **Immune:** damage from disease or poison; diseased, poisoned
 **Light as a Feather:** You never take damage from landing after a fall.
 **Whirling Evasion:** When you would take damage from a creature you can see, you can use a triggered action to take half the damage and move up to 1d3 yards without triggering a free attack. This movement ignores difficult terrain.

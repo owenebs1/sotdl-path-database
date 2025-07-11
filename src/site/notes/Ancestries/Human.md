@@ -10,27 +10,16 @@ Determination, resourcefulness, and sheer numbers helped humanity rise from its 
 **Common Names:** Aengus, Agnes, Aine, Alice, Anselm, Beatrice, Breandan, Caitlin, Cormac, Ella, Fiona, Geoffrey, Giselle, Henry, Joan, John, Kane, Kiera, Margery, Richard, Roisin, Rordan, Saraid, Seamus, Walter, and Yvonne.
 
 Variant Options available in the Only Human PDF.
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 10 (0)
-**Intellect:** 10 (0)
-**Will:** 10 (0)
-
+# Creating a Human
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 10, **Intellect:** 10, **Will:** 10
 **Bonuses:** Choose one attribute and increase it by 1.
-- - -
-## Characteristics
 **Perception:** equals your intellect score
 **Defense:** equals your agility score
 **Health:** equals your strength score
 **Healing Rate:** equals one-quarter you health, rounded down
-**Size:** 1/2 or 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1/2 or 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 You speak the Common Tongue, and you can either speak one additional language or add a random profession.
 - - - 
 ## Level 4 Benefits

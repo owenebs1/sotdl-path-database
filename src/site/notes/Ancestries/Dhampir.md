@@ -15,28 +15,16 @@ Dhampirs do, however, avoid the company of others of their kind, especially unde
 Dhampirs must be vigilant about hiding their natures from others lest they invite attention from those who would destroy them. The Cult of the New God takes a dim view toward undead of any kind and, though these half-bloods are alive, inquisitors and witch hunters rarely make a distinction. Furthermore, the fear most people rightly have of undead makes any divulgence of the truth risky at best.
 Such a revelation can shatter even the closest bonds.
 **Magnetic Personalities:** Not only do many dhampirs enjoy attractive features, they also benefit from strong personalities that others find appealing. They make friends easily, rarely want for romantic partners, and find enemies only in those they have spurned. Dhampirs can rely on their magnetic personalities to insulate themselves from people who might harm them, as well as to advance their ends in whatever communities they inhabit. On certain companions they might feed, but only after they have so thoroughly bound those souls that the revelation of their nature cannot possibly put themselves at risk.
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 10 (0)
-**Intellect:** 10 (0)
-**Will:** 10 (0)
-- - -
-## Characteristics
+# Creating a Dhampir
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 10, **Intellect:** 10, **Will:** 10
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 1
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 1
 **Languages and Professions:** You speak the Common Tongue
-- - - 
-## Talents
 **Shadowsight:** You see in areas obscured by shadows as if those areas were lit.
 **Sunlight Weakness:** You are impaired while you are in areas lit by sunlight.
 **Undead Heritage:** You count as undead for effects that specifically affect undead. You take half damage from disease and poison and you make rolls with 1 boon to avoid or remove the diseased and poisoned afflictions.

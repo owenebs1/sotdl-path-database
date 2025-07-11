@@ -9,29 +9,17 @@ Elves draw on their inner magic to become alluring or fearsome, wondrous or mons
 maturity, they stop aging and remain fixed at that physical state for as long as they remain alive. Elves produce off spring only once or twice over the course of their entire lives. For this reason, they often resort to stealing mortal children, then raise them for a few years until the children transform into faeries, or until the children prove too boorish to bear, and the faeries abandon them to whatever horrible fate awaits them in the magical landscape.
 **Beyond Good and Evil:** The length of their lives and the finality of their deaths combine to make it difficult for elves to care much about the consequences of their actions. Pleasure drives them, and they do whatever they need to obtain it, heedless of who or what they hurt in the process. Others might interpret their actions as selfish or evil, but elves don’t concern themselves with such concepts, making no distinction between plucking the pretty eye from a shepherd’s face and composing a sonnet to a beautiful flower. Both acts give them pleasure.
 **Common Names:** Elves adopt names related to things they find beautiful. Examples include Breath of Winter, Dawn in a Dewdrop, Fury of the North Wind, Moon in the Night Sky, Scattering of Leaves, Sorrow in Twilight, Whisper of Night, and Widow’s Cry. Elves use these common names in lieu of their true names, which they keep secret lest some meddling mortal call them from their hidden realms.
-## Attributes
-**Strength:** 9 (-1)
-**Agility:** 10 (0)
-**Intellect:** 10 (0)
-**Will:** 9 (-1)
+# Creating an Elf
+## Starting Attribute Scores
+**Strength:** 9, **Agility:** 10, **Intellect:** 10, **Will:** 9
 **Bonuses:** Choose two attributes and increase each by 1.
-- - -
-## Characteristics
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 12
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 12, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue and High Archaic. You also speak, read, and write Elvish. You might gain additional professions or languages based on your age.
-- - - 
-## Talents
 **Immune:** damage from disease; charmed, diseased
 **Shadowsight:** You see into areas obscured by shadows as if those areas were lit.
 **Spell Defense:** You take half damage from spells and you make any challenge roll to resist a spell with 1 boon. A creature attacking you with a spell makes the attack roll with 1 bane.

@@ -14,28 +14,16 @@ Rarely, a curious faun finds the courage to travel human lands, wearing clothing
 **Common Names:** Fauns use human names, but might gain nicknames from the faeries they serve or the humans who ridicule them.
 
 Variant Options available in the Between Two Worlds PDF.
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 11 (1)
-**Intellect:** 11 (1)
-**Will:** 9 (-1)
-- - -
-## Characteristics
+# Creating a Faun
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 11, **Intellect:** 11, **Will:** 9
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1/2 or 1
-**Speed:** 12
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1/2 or 1, **Speed:** 12, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue and Elvish.
-- - - 
-## Talents
 **Quick Step:** When you use an action, you can move 1 yard before or after the action, provided your Speed is greater than 0.
 **Shadowsight:** You see in areas obscured by shadows as if those areas were lit.
 **Skittish:** You make Will challenge rolls with 1 bane.

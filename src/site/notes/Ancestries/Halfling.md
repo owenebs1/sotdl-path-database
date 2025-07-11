@@ -14,28 +14,16 @@ Without fear as a distraction, halflings can focus their minds on whatever goal 
 **Common Names:** Abigail, Alyse, Belinda, Caden, Cody, Davin, Ernest, Esme, Eugenia, Gertrude, Irving, Landen, Natille, Paxton, and Randy.
 
 Variant Options available in the Uncommon Courage PDF.
-## Attributes
-**Strength:** 9 (-1)
-**Agility:** 11 (1)
-**Intellect:** 10 (0)
-**Will:** 11 (1)
-- - -
-## Characteristics
+# Creating a Halfling
+## Starting Attribute Scores
+**Strength:** 9, **Agility:** 11, **Intellect:** 10, **Will:** 11
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1/2
-**Speed:** 8
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1/2, **Speed:** 8, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** you speak the Common Tongue.
-- - - 
-## Talents
 **Good Fortune:** Whenever a creature within short range rolls a 1 on any die, you can use a triggered action to discard the roll and let the creature roll the die again.
 **Uncommon Courage:** When you become frightened, you can use a triggered action to make a Will challenge roll.
 On a success, you remove the affliction.

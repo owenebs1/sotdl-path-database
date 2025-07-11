@@ -8,28 +8,16 @@ The Faerie Queen exiled the goblins long ago, for a crime only she remembers. As
 **Common Names:** Goblins love crude humor and it shows in such names as Blix, Blunder, Bubo, Cough, Drips, Hack, Pecker, Phlegm, Poop, Pox, Puke, Sludge, Snot, and Vomit.
 
 Variant Options available in the Snot and Stitches PDF.
-## Attributes
-**Strength:** 8 (-2)
-**Agility:** 12 (2)
-**Intellect:** 10 (0)
-**Will:** 9 (-1)
-- - -
-## Characteristics
+# Creating a Goblin
+## Starting Attribute Scores
+**Strength:** 8, **Agility:** 12, **Intellect:** 10, **Will:** 9
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1/2
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1/2, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak the Common Tongue and Elvish
-- - - 
-## Talents
 **Immune:** damage from disease; charmed, diseased
 **Iron Vulnerability:** You are impaired while you are in contact with iron.
 **Shadowsight:** You see in areas obscured by shadows as if those areas were lit.

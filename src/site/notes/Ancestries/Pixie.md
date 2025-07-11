@@ -7,28 +7,16 @@ The quintessential wee folk, many pixies use secret ways to flutter across the b
 **Wicked Tricksters:** Pixies love games, and their favorites involve playing tricks on larger creatures. The tricks can be harmless fun, such as stealing a small item or making scary noises in one’s home, but they can also be dangerous. Some pixies see nothing wrong with leading a woodcutter into a beastmen encampment to see what happens or stealing horses and running them to death.
 **Insignificant Pests:** Most other fey consider pixies to be a nuisance, seeing them as incorrigible tricksters. Some pixies manage to find places of respect among the faerie, but most languish in tiny cages, prized for their sweet voices and charming appearance. Unscrupulous goblins sometimes trap pixies to sell for use as ingredients in dark incantations.
 **Common Names:** Pixies name themselves after things they consider pretty, such as Bluebell, Dew, Giggles, Glimmer, Mist, Moonlight, Petal, Rain, and Sunshine.
-## Attributes
-**Strength:** 5 (-5)
-**Agility:** 12 (2)
-**Intellect:** 10 (0)
-**Will:** 8 (-2)
-- - -
-## Characteristics
+# Creating a Pixie
+## Starting Attribute Scores
+**Strength:** 5, **Agility:** 12, **Intellect:** 10, **Will:** 8
 **Perception:** equals your Intellect score + 1
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1/8
-**Speed:** 10
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1/8, **Speed:** 10, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages:** You speak Elvish.
-- - - 
-## Talents
 **Immune:** damage from disease; charmed, diseased
 **Flutter:** You can move by flying, but if you fly higher than 5 yards above the ground, you fall.
 **Naturally Invisible:** You are invisible to most creatures aside from other pixies. Animals, demons, faeries, monsters, children, creatures with Intellect scores of 7 or lower, and creatures with 5 Insanity or more can see you clearly. You lose this trait from noon to one in the afternoon and from midnight to one in the morning, as well as at dawn, until the sun fully rises, and at dusk, until the sun fully sets. If you come into contact with iron, you lose this trait for 1 hour.

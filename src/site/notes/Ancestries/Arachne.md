@@ -15,28 +15,16 @@ The few trolls remaining bound their magical powers together and imprisoned the 
 From there, she whispers into the minds of her servants, commanding them to perform foul acts in her name that include live sacrifices, cannibalism, and worse. Devotees of the Queen of Spiders have access to the Death, Demonology, and Primal traditions.
 **Breaking the Chains:** Although the Demon Queen’s grip on the arachne remains as tight as it has ever been, the people utterly in her thrall, the further the arachne travel from the Spider Wood, the weaker her hold becomes on their hearts and minds. Those who are freed from her poisonous influence find themselves questioning everything they believe to the point that a few even abandon their people altogether to find another place for themselves in the world. They might be free from their people, but their unusual appearance and odd manner makes it difficult to fit into civilized lands.
 **Common Names:** Aara, Azaz, Bilek, Daas, Dreef, Eza, Gegren, Huis, Isthez, Nexen, Nuuzo, Seve, Suok, Titir, Vorsh, Zeren, and Zylk.
-## Attributes
-**Strength:** 10 (0)
-**Agility:** 12 (2)
-**Intellect:** 10 (0)
-**Will:** 9 (-1)
-- - -
-## Characteristics
+# Creating an Arachne
+## Starting Attribute Scores
+**Strength:** 10, **Agility:** 12, **Intellect:** 10, **Will:** 9
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 12
-**Power:** 0
-**Damage:** 0
-**Insanity:** 1d3
-**Corruption:** 1d3
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 12, **Power:** 0
+**Damage:** 0, **Insanity:** 1d3, **Corruption:** 1d3
 **Languages and Professions:** You speak Arachne.
-- - - 
-## Talents
 **Shadowsight:** You can see into areas obscured by shadows as if those areas were lit.
 **Spider Form:** You can use an action, or a triggered action on your turn, to assume the form of a large spider and you can remain in that form until you use an action, or a triggered action on your turn, to return to your humanoid form. See “[Assuming Different Forms](https://sotdl-spell-database.vercel.app/spell-lists/transformation-spells/)”.
 - - - 
@@ -44,7 +32,6 @@ From there, she whispers into the minds of her servants, commanding them to perf
 **Characteristics:** Health +4
 You learn one spell or gain the Spit Venom talent.
 **Spit Venom:** You can use an action to spit venom from your mouth at a creature within short range. Make a Strength or Agility attack roll against the target’s Agility. On a success, the target takes 1d6 damage and becomes poisoned for 1 minute. If the target is already poisoned, it takes 1d6 extra damage. Once you use Spit Venom, you must wait at least 1 minute before you can use it again.
-- - -
 # Arachne Age
 
 | 3d6   | Starting Age                                                |

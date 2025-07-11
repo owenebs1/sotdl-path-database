@@ -11,28 +11,16 @@ Centaurs feel no shame for nakedness and see little point in garbing themselves 
 **Words of Wind:** The centaurs speak Centauri, a flowing, breezy language others find difficult to master. Centauri has no written form. Linguistics scholars note it has much in common with the
 language of sylphs.
 **Common Names:** Aezee, Epheral, Feela, Hithren, Iyeotha, Leeth, Luua, Ossah, Saan, Seese, and Uruul.
-## Attributes
-**Strength:** 12 (2)
-**Agility:** 11 (1)
-**Intellect:** 8 (-2)
-**Will:** 11 (1)
-- - -
-## Characteristics
+# Creating a Centaur
+## Starting Attribute Scores
+**Strength:** 12, **Agility:** 11, **Intellect:** 8, **Will:** 11
 **Perception:** equals your Intellect score
 **Defense:** equals your Agility score
 **Health:** equals your Strength score
 **Healing Rate:** equals one-quarter your Health, rounded down
-**Size:** 1
-**Speed:** 12
-**Power:** 0
-**Damage:** 0
-**Insanity:** 0
-**Corruption:** 0
-- - -
-## Languages and Professions
+**Size:** 1, **Speed:** 12, **Power:** 0
+**Damage:** 0, **Insanity:** 0, **Corruption:** 0
 **Languages and Professions:** You speak Centauri and rather than start with two professions, choose two of the following options: speak the Common Tongue, Gatherer, Guide, Hunter, Nomad, Rustler, or Tracker.
-- - - 
-## Talents
 **Equine Body:** Due to the nature of your form, you cannot ride other creatures. As well, you cannot ascend or descend sheer, vertical surfaces by climbing. For the purposes of talents related to mounted combat, you count as if you were mounted, and effects that apply to the rider and the mount apply to you.
 **Natural Weapons:** You can attack with your hooves. They count as basic weapons that deal 1d6 damage.
 **Gallop:** You can use an action to move up to three times your Speed.
