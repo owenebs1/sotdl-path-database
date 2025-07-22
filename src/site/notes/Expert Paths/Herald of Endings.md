@@ -11,11 +11,11 @@ In ancient times, the Heralds of Endings would walk among the shuffling corpses,
 | 2   | You discovered the secrets of the Heralds from an ancient tome penned by a madman of Gog.                                                                             |
 | 3   | Manipulating and controlling undead is a natural outgrowth of your singular obsession with Necromancy.                                                                |
 # Level 3
-Attributes Increase two by 1
-Characteristics Health +2, Power +1
-Languages and Professions You either speak one additional language or gain another profession.
-Magic You discover the Necromancy tradition or you learn one Necromancy spell.
-Feed on Undeath You siphon potency from the undead around you. While you are within short range of at least one undead, you gain a bonus to Health equal to three times your Power and you make attack rolls and challenge rolls with 1 boon. In addition, you do not suffer the effects of hunger, thirst, or sleep deprivation.
+**Attributes** Increase two by 1
+**Characteristics** Health +2, Power +1
+**Languages and Professions** You either speak one additional language or gain another profession.
+**Magic** You discover the Necromancy tradition or you learn one Necromancy spell.
+**Feed on Undeath** You siphon potency from the undead around you. While you are within short range of at least one undead, you gain a bonus to Health equal to three times your Power and you make attack rolls and challenge rolls with 1 boon. In addition, you do not suffer the effects of hunger, thirst, or sleep deprivation.
 # Level 6
 **Characteristics** Health +2
 **Magic** You learn one spell.
