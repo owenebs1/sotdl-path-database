@@ -13,7 +13,7 @@
 **Spell Defense:** A demon takes half damage from spells and
 makes any challenge roll to resist a spell with 1 boon. A creature attacking the demon with a spell makes the attack roll with 1 bane.
 **Demonic Shadows:** Lit areas out to 4 yards around the demon becomedows.
-**Demonic Talent:** Roll three times on the [[#demonic talents|Demonic Talents]] table or increase the demon’s health by 60.
+**Demonic Talent:** Roll three times on the [[Bestiary/Demon, Titanic#demonic talents\|demonic talents]] table or increase the demon’s health by 60.
 ### ATTACK OPTIONS
 **Natural weapons** (melee) +9 with 4 boons (8d6)
 ### SPECIAL ATTACKS

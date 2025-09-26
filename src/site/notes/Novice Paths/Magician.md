@@ -66,6 +66,7 @@ The alternative talents are details below:
 - If the potion deals damage, it deals 1d3 extra damage.
 - If the potion heals damage, it heals 1d3 extra damage.
 - If the potion’s effect lasts 1 minute or longer, you increase its duration by 50%.
+
 **Healing Elixirs (Spell Recovery or Improved Spell Recovery)** Whenever you complete a rest and you have an alchemist’s kit, you brew a number of healing elixirs equal to your Power score. The elixirs retain potency until you next complete a rest. A creature can use an action to drink the elixir or administer it to an unconscious creature it can reach. At the end of the round, the creature who consumed the elixir heals damage equal to half its healing rate.
 **Chemical Attack (Counterspell)** If you have an alchemist’s kit, you can use an action and expend a casting of an Alchemy spell you have learned to throw noxious chemicals at a creature or object within short range of you, causing the target to take 1d6 damage per rank of the spell expended (a rank 0 spell deals 1d3 damage). A creature can make an Agility challenge roll, taking half the damage on a success.
 **Improved Healing Elixirs (Spell Recovery or Improved Spell Recovery)** If you have the Healing Elixirs talent, your elixirs heal damage equal to the healing rate of the creature that consumed it.
@@ -130,8 +131,8 @@ Expend the casting of a spell you have learned and then make an Intellect challe
 - You throw sparkling glitter into the air that dissipates immediately.
 - You cause a puff of smoke in a color you choose to flow from your mouth.
 - You pull a flower, handkerchief, or something similar from out of thin air.
-
 The object remains for 1 minute or until you drop it, after which it disappears.
+
 **Restorative Conjuration (Spell Recovery or Improved Spell Recovery)** You can use an action to heal damage equal to your healing rate. In addition, each creature created by a Conjuration spell that you cast who is within medium range of you heals damage equal to your healing rate. Once you use this action, you must complete a rest before you can use it again.
 **Shielded Conjuration (Counterspell)** When a creature you can see attacks a creature created by a Conjuration spell that you cast, you can use a triggered action to impose 1 bane on the attack roll or grant 1 boon on the challenge roll made to resist the attack.
 **Improved Restorative Conjuration (Spell Recovery or Improved Spell Recovery)** You can use Restorative Conjuration one additional time between rests.
