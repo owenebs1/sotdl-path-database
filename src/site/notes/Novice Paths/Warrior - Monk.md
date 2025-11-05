@@ -7,12 +7,12 @@ Monasteries dot the continent, built by religious or philosophical institutions 
 
 | d6  | Event                                                                                                                                                                                         |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | You sheltered at a monastery to recover from the horrors and hardships you<br>have endured. There, between bouts of meditation, you trained your body to<br>become a living weapon.           |
+| 1   | You sheltered at a monastery to recover from the horrors and hardships you have endured. There, between bouts of meditation, you trained your body to become a living weapon.           |
 | 2   | You sought out a famous martial artist and earned a place as his or her student.                                                                                                              |
-| 3   | You joined a society of friars, where you brewed beer, tended the gardens,<br>and learned how to brawl.                                                                                       |
-| 4   | You searched for a lost monastery, climbing the one thousand steps, only<br>to find the place abandoned. You studied the sacred scrolls and learned the<br>monks’ methods from your research. |
-| 5   | You abandoned the world to live as a hermit for a time. In your isolation, you<br>trained your body to resist the hardships and learned how to defend yourself<br>as a result.                |
-| 6   | You were raised in a monastery and returned to complete your training.<br>Having done so, you are now ready to return to the world and, if possible,<br>leave it better than you found it.    |
+| 3   | You joined a society of friars, where you brewed beer, tended the gardens, and learned how to brawl.                                                                                       |
+| 4   | You searched for a lost monastery, climbing the one thousand steps, only to find the place abandoned. You studied the sacred scrolls and learned the monks’ methods from your research. |
+| 5   | You abandoned the world to live as a hermit for a time. In your isolation, you trained your body to resist the hardships and learned how to defend yourself as a result.                |
+| 6   | You were raised in a monastery and returned to complete your training. Having done so, you are now ready to return to the world and, if possible, leave it better than you found it.    |
 # Level 1 Monk
 **Attributes** Choose two attributes and increase each by 1.
 **Characteristics** Health +4, Speed +2

@@ -8,7 +8,8 @@ The invoker lays bare the secrets of Invocation magic, learning how to command t
 **Characteristics** Health +2, Power +1
 **Languages and Professions** You can speak another language or add a new profession.
 **Magic** You discover the Invocation tradition, or you learn one Invocation spell.
-**Restorative Casting** When you cast an Invocation spell of rank 1 or higher, you heal damage equal to the spell’s rank. Steely Resolve You no longer gain Insanity from learning Invocation spells. In addition, you make challenge rolls to resist gaining Insanity with 1 boon.
+**Restorative Casting** When you cast an Invocation spell of rank 1 or higher, you heal damage equal to the spell’s rank.
+**Steely Resolve** You no longer gain Insanity from learning Invocation spells. In addition, you make challenge rolls to resist gaining Insanity with 1 boon.
 # Level 10
 **Characteristics** Health +2
 **Magic** You learn one spell.
