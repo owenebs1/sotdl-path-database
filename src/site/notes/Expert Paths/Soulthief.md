@@ -17,7 +17,7 @@ You must be mortal and have a soul in order to choose this expert path.
 **Attributes** Increase two by 1
 **Characteristics** Health +3, Power +1
 **Languages and Professions** You either speak High Archaic or you gain another profession.
-Magic You discover the Soul tradition (see Demon Lord’s Companion or Occult Philosophy) or you learn one Soul spell.
+**Magic** You discover the Soul tradition (see Demon Lord’s Companion or Occult Philosophy) or you learn one Soul spell.
 **Filch Soul** Whenever you complete a rest, you have a number of souls retrieved from the Underworld equal to 1 + your Power. The souls remain within you until you complete a rest or until you release them. When you gain a soul, you also gain a randomly determined profession which you keep for as long as the soul remains.
 **Spiritual Aid** You can use an action, or a triggered action on your turn, to release one soul and gain its aid. Choose one of the following benefits:
 - Regain one casting of a spell of a rank equal to your Power – 1 that you have learned.

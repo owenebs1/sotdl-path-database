@@ -28,6 +28,5 @@ Assassins can be freelancers or members of a secret society of professional kill
 At the end of this time, you create one dose of poison (see Chapter 6). The poison retains potency until you complete a rest.
 # Level 9
 **Characteristics** Health +3
-**Killer’s Eye** You can use an action on your turn to choose one creature within
-long range from which you are hidden.
+**Killer’s Eye** You can use an action on your turn to choose one creature within long range from which you are hidden.
 Make a Perception challenge roll. On a success, you know where best to attack the target for 1 minute. Until the effect ends, when you attack the target, you make your attack roll with 1 boon and the attack deals 2d6 extra damage.
