@@ -11,4 +11,3 @@
 **Immune** damage from disease and poison; gaining Insanity; asleep, charmed, diseased, fatigued, frightened, poisoned
 ### ATTACK OPTIONS
 **Appendage** (melee) +6 (2d6)
-**Spare Parts** You can use an action to touch one construct (such as your eidolon) or an object you can reach. If you maintain contact with the target and concentrate for 1 minute, make an Intellect challenge roll. On a success, the target heals 2d6 damage. On a failure, you cannot use this talent again until after you complete a rest.
