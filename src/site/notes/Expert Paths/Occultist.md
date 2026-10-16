@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/expert-paths/occultist/"}
+{"dg-publish":true,"permalink":"/expert-paths/occultist/","tags":["Magic"]}
 ---
 
 Despite the efforts of the inquisitors and witch hunters—and, sometimes, even adventurers—dark magic remains a terrible threat to the world. There are always those willing to sacrifice their souls for the fleeting power it offers, the practice of which is almost always horrifying and corrupting in its effects. Among the worst of those who dabble in the blackest traditions are the occultists, for they make foul bargains with devils, offering up pieces of their souls in exchange for the power they desire.
