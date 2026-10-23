@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/master-paths/shadow-thief/"}
+{"dg-publish":true,"permalink":"/master-paths/shadow-thief/","tags":["Magic"]}
 ---
 
 You lost your shadow at some point in your career and have felt its loss keenly, somehow feeling incomplete. Luckily, you learned how to steal others’ shadows and make them your own for a time. Invariably, these stolen shadows wither and die or, worse, turn against you, but your need to fill the void in your heart drives you to pilfer any shadow you can.
